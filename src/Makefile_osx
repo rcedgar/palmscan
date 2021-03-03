@@ -1,0 +1,277 @@
+CPP = g++
+CPPOPTS = -fopenmp -msse -mfpmath=sse -O3 -DNDEBUG -c
+
+CC = gcc
+CCOPTS = -fopenmp -msse -mfpmath=sse -O3 -DNDEBUG -c
+
+LNK = g++
+LNKOPTS = -O3 -fopenmp -pthread -lpthread
+
+HDRS = \
+  allocid.h \
+  allocids.h \
+  allocs.h \
+  alnheuristics.h \
+  alnparams.h \
+  alpha.h \
+  conncomp.h \
+  diagbox.h \
+  fastaseqsource.h \
+  fastq.h \
+  fastqrec.h \
+  fileseqsource.h \
+  gobuff.h \
+  heuristics.h \
+  hsp.h \
+  linereader.h \
+  lockobj.h \
+  lockobjs.h \
+  mx.h \
+  myopts.h \
+  myutils.h \
+  obj.h \
+  objmgr.h \
+  objtype.h \
+  objtypes.h \
+  omplock.h \
+  pathinfo.h \
+  pssm.h \
+  pssms.h \
+  pssmsearch.h \
+  randomseqsource.h \
+  rdrpmodel.h \
+  rphit.h \
+  rpresult.h \
+  seqdb.h \
+  seqinfo.h \
+  seqsource.h \
+  sfasta.h \
+  sort.h \
+  timers.h \
+  timing.h \
+  tracebit.h \
+  usearch.h \
+  viterbi.h \
+  xdpmem.h \
+  xlat.h \
+
+OBJS = \
+  o/alloc.o \
+  o/alnheuristics.o \
+  o/alnparams.o \
+  o/alnqc.o \
+  o/alpha.o \
+  o/alpha2.o \
+  o/blosum.o \
+  o/blosum62.o \
+  o/buildpsm.o \
+  o/build_rdrp_model.o \
+  o/diagbox.o \
+  o/fastaseqsource.o \
+  o/fastqrec.o \
+  o/fileseqsource.o \
+  o/getseg.o \
+  o/help.o \
+  o/linereader.o \
+  o/lockobj.o \
+  o/logaln.o \
+  o/model_strings.o \
+  o/mx.o \
+  o/myutils.o \
+  o/ntmx.o \
+  o/objmgr.o \
+  o/palmscan_main.o \
+  o/otumaps.o \
+  o/psms.o \
+  o/pssm.o \
+  o/randomseqsource.o \
+  o/searchaatop.o \
+  o/searchaa_seeded.o \
+  o/searchntall.o \
+  o/searchnttop.o \
+  o/searchnttopx.o \
+  o/search_pp.o \
+  o/seqdb.o \
+  o/seqinfo.o \
+  o/seqsource.o \
+  o/setnucmx.o \
+  o/setresult.o \
+  o/sfasta.o \
+  o/sort.o \
+  o/rdrpmodel.o \
+  o/test.o \
+  o/test_viterbi.o \
+  o/test_viterbi_pssm.o \
+  o/timing.o \
+  o/tracebackbitmem.o \
+  o/usearch.o \
+  o/usort.o \
+  o/viterbifastbandmem.o \
+  o/viterbi_pssm.o \
+  o/xlat.o \
+
+palmscan : o/ $(OBJS)
+	$(LNK) $(LNKOPTS) $(OBJS) -o o/palmscan
+	strip -d o/palmscan
+
+o/ :
+	mkdir -p o/
+
+o/alloc.o : alloc.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/alloc.o alloc.cpp
+
+o/alnheuristics.o : alnheuristics.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/alnheuristics.o alnheuristics.cpp
+
+o/alnparams.o : alnparams.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/alnparams.o alnparams.cpp
+
+o/alnqc.o : alnqc.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/alnqc.o alnqc.cpp
+
+o/alpha.o : alpha.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/alpha.o alpha.cpp
+
+o/alpha2.o : alpha2.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/alpha2.o alpha2.cpp
+
+o/blosum.o : blosum.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/blosum.o blosum.cpp
+
+o/blosum62.o : blosum62.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/blosum62.o blosum62.cpp
+
+o/buildpsm.o : buildpsm.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/buildpsm.o buildpsm.cpp
+
+o/build_rdrp_model.o : build_rdrp_model.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/build_rdrp_model.o build_rdrp_model.cpp
+
+o/diagbox.o : diagbox.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/diagbox.o diagbox.cpp
+
+o/fastaseqsource.o : fastaseqsource.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/fastaseqsource.o fastaseqsource.cpp
+
+o/fastqrec.o : fastqrec.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/fastqrec.o fastqrec.cpp
+
+o/fileseqsource.o : fileseqsource.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/fileseqsource.o fileseqsource.cpp
+
+o/getseg.o : getseg.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/getseg.o getseg.cpp
+
+o/help.o : help.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/help.o help.cpp
+
+o/linereader.o : linereader.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/linereader.o linereader.cpp
+
+o/lockobj.o : lockobj.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/lockobj.o lockobj.cpp
+
+o/logaln.o : logaln.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/logaln.o logaln.cpp
+
+o/model_strings.o : model_strings.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/model_strings.o model_strings.cpp
+
+o/mx.o : mx.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/mx.o mx.cpp
+
+o/myutils.o : myutils.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/myutils.o myutils.cpp
+
+o/ntmx.o : ntmx.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/ntmx.o ntmx.cpp
+
+o/objmgr.o : objmgr.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/objmgr.o objmgr.cpp
+
+o/palmscan_main.o : palmscan_main.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/palmscan_main.o palmscan_main.cpp
+
+o/otumaps.o : otumaps.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/otumaps.o otumaps.cpp
+
+o/psms.o : psms.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/psms.o psms.cpp
+
+o/pssm.o : pssm.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/pssm.o pssm.cpp
+
+o/randomseqsource.o : randomseqsource.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/randomseqsource.o randomseqsource.cpp
+
+o/searchaatop.o : searchaatop.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/searchaatop.o searchaatop.cpp
+
+o/searchaa_seeded.o : searchaa_seeded.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/searchaa_seeded.o searchaa_seeded.cpp
+
+o/searchntall.o : searchntall.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/searchntall.o searchntall.cpp
+
+o/searchnttop.o : searchnttop.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/searchnttop.o searchnttop.cpp
+
+o/searchnttopx.o : searchnttopx.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/searchnttopx.o searchnttopx.cpp
+
+o/search_pp.o : search_pp.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/search_pp.o search_pp.cpp
+
+o/seqdb.o : seqdb.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/seqdb.o seqdb.cpp
+
+o/seqinfo.o : seqinfo.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/seqinfo.o seqinfo.cpp
+
+o/seqsource.o : seqsource.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/seqsource.o seqsource.cpp
+
+o/setnucmx.o : setnucmx.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/setnucmx.o setnucmx.cpp
+
+o/setresult.o : setresult.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/setresult.o setresult.cpp
+
+o/sfasta.o : sfasta.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/sfasta.o sfasta.cpp
+
+o/sort.o : sort.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/sort.o sort.cpp
+
+o/rdrpmodel.o : rdrpmodel.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/rdrpmodel.o rdrpmodel.cpp
+
+o/test.o : test.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/test.o test.cpp
+
+o/test_viterbi.o : test_viterbi.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/test_viterbi.o test_viterbi.cpp
+
+o/test_viterbi_pssm.o : test_viterbi_pssm.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/test_viterbi_pssm.o test_viterbi_pssm.cpp
+
+o/timing.o : timing.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/timing.o timing.cpp
+
+o/tracebackbitmem.o : tracebackbitmem.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/tracebackbitmem.o tracebackbitmem.cpp
+
+o/usearch.o : usearch.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/usearch.o usearch.cpp
+
+o/usort.o : usort.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/usort.o usort.cpp
+
+o/viterbifastbandmem.o : viterbifastbandmem.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/viterbifastbandmem.o viterbifastbandmem.cpp
+
+o/viterbi_pssm.o : viterbi_pssm.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/viterbi_pssm.o viterbi_pssm.cpp
+
+o/xlat.o : xlat.cpp $(HDRS)
+	$(CPP) $(CPPOPTS) -o o/xlat.o xlat.cpp

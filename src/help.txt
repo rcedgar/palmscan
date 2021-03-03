@@ -1,0 +1,35 @@
+Typical usage
+
+palmscan -search_pp inputfile.fa -rt -rdrp -ppout pp.fa -report pp.txt -fevout pp.fev
+
+Input file
+
+-search_pp  fastafile   May be nt or aa sequences.
+
+Output file(s)
+
+Any number of output files may be specified.
+
+-ppout      fastafile   Aa palmprint sequences.
+-ppout_nt   fastafile   Nt palmprint sequences (requires nt input).
+-report     textfile    Human-readable alignment format.
+-fevout     textfile    Field-equals-value format.
+
+Gene selection
+
+One or both of -rt and -rdrp must be specified.
+
+-rt         Report reverse transcriptases (RTs).
+-rdrp       Report RdRPs.
+
+Confidence
+
+-hiconf     Report high-confidence results only (default).
+-loconf     Report high- and low-confidence only.
+-all        Report results for all query sequences.
+
+Other options
+
+-trunclabels    Truncate input sequence labels at first white space (default).
+-notrunclabels  Keep full-length labels.
+-threads N      Number of threads to run. Default is min(number of cores, 10).
