@@ -31,3 +31,8 @@ palmscan -search_pp inputfile.fa -rt -rdrp -ppout pp.fa -report pp.txt -fevout p
 ```
 
 Type `palmscan -help` for option details.
+
+### Reference
+
+A. Babaian and R. C. Edgar (2021), Ribovirus classification by a polymerase barcode sequence (2021), biorxiv
+[https://doi.org/10.1101/2021.03.02.433648](https://doi.org/10.1101/2021.03.02.433648)
