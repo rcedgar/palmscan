@@ -1,0 +1,1372 @@
+
+>A0A1L3KGW0_9VIRU/103-528
+   A:142-153(16.7)      B:204-217(22.0)      C:238-245(7.1)
+   IDIDFSRFDMHI    <74> SGDVNTSIGNALIN  <48> HEGDDTIW  [104]
+   + .|.||||||+         ||| ||| || |||        +|||.+ 
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 45.9, PH14 (Kitrino +3.0)
+
+>A0A1L3KFJ6_9VIRU/290-702
+   A:143-154(16.1)      B:207-220(16.5)      C:240-247(8.6)
+   AEIDFSRFDQSL    <76> SGDAHTSIMNGVDN  <47> QEGDDVLV  [105]
+    | |||.||||          |||+ ||++| + |        +||| |+
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 41.2, PH5 (PH2 +0.2)
+
+>Q58ZJ7_9TOMB/224-703
+   A:204-215(30.9)      B:268-281(35.9)      C:300-307(20.3)
+   VGLDASRFDQHV    <76> SGDMNTSLGNCILM  <46> NNGDDCVI  [104]
+   ||||||||||||         ||||||||||||||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 87.1, Tolivirales (PH14 +24.0)
+
+>Q70WU2_9TOMB/265-739
+   A:201-212(29.2)      B:265-278(32.7)      C:295-302(20.4)
+   VGFDMSRFDQHV    <76> SGDMNTALGNCLLA  <44> NNGDDCVL  [102]
+   ||||||||||||         |||||||||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 82.4, Tolivirales (PH14 +25.9)
+
+>RDRP_GRVMC/309-778
+   A:199-210(30.9)      B:262-275(31.3)      C:294-301(15.8)
+   VGLDASRFDQHV    <75> SGDMDTALGNCVLM  <46> DNGDDCIV  [103]
+   ||||||||||||         |||| ||||||.||        ||||| |
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.1, Tolivirales (PH14 +18.3)
+
+>E7EEK4_9TOMB/266-743
+   A:206-217(29.2)      B:270-283(32.7)      C:300-307(20.4)
+   VGFDMSRFDQHV    <76> SGDMNTALGNCLLA  <44> NNGDDCVL  [102]
+   ||||||||||||         |||||||||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 82.4, Tolivirales (PH14 +25.9)
+
+>A0A1L3KGP6_9VIRU/188-612
+   A:140-151(20.1)      B:204-217(19.0)      C:237-244(11.9)
+   MEVDYSRFDMTI    <76> SGDAHTSIANGLLN  <47> HEGDDGII  [105]
+    | |||||| ||         ||..||+..|.|+|        .|||||.
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 51.0, Nodamuvirales (Kitrino +6.6)
+
+>P90338_9TOMB/1-480
+   A:206-217(29.1)      B:270-283(32.2)      C:300-307(20.4)
+   IGFDMSRFDQHV    <76> SGDMNTALGNCILA  <44> NNGDDCVL  [102]
+   ||||||||||||         |||||||||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.7, Tolivirales (PH14 +25.8)
+
+>Q9IRA1_9TOMB/266-740
+   A:204-215(28.3)      B:267-280(29.5)      C:297-304(20.4)
+   VGFDAKRFDQHV    <75> SGDINTALGNCLLS  <44> NNGDDCVL  [101]
+   |||||+||||||         |||+|||||||||        |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.3, Tolivirales (PH14 +23.1)
+
+>RDRP_BYDVP/361-840
+   A:204-215(29.3)      B:267-280(31.9)      C:299-306(20.3)
+   IGVDASRFDQHV    <75> SGDINTSMGNKLIM  <46> NNGDDCVI  [103]
+   ||.|||||||||         |||+||||||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.5, Tolivirales (PH14 +22.7)
+
+>A0A1L3KFU3_9VIRU/11-422
+   A:143-154(10.1)      B:203-216(25.4)      C:233-240(8.1)
+   LLLDFSRMDGSY    <72> SGDYNTSDGNTITN  <44> GIGDDNVV  [98]
+   . .||||.|.|          ||| |||+||||||         |||.||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 43.7, Kitrino (PH2 +2.7)
+
+>A0A1L3KGN2_9VIRU/1-415
+   A:138-149(30.8)      B:205-218(35.1)      C:237-244(21.3)
+   IGLDASRFDQHV    <79> SGDMNTSLGNCVLM  <46> NNGDDCVV  [107]
+   ||||||||||||         |||||||||||.||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 87.3, Tolivirales (PH14 +24.8)
+
+>A0A1L3KG86_9VIRU/1-415
+   A:152-163(15.7)      B:213-226(25.9)      C:245-252(11.7)
+   LLADHHRFDAHV    <73> SGDLNTSLGNSVIN  <46> IDGDDSIM  [101]
+   . .|..||||||         ||| |||||||.||       .||||++.
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 53.3, PH14 (Kitrino +9.7)
+
+>A0A1L3KGR1_9VIRU/25-440
+   A:161-172(7.9)      B:221-234(24.6)      C:249-256(14.5)
+   HLIDHSTFDSMV   <72> SGDANTSLGNSLIN  <42> VDGDDSVV  [96]
+     +|.| ||| |        |||+||||||+|+|       |.||||||
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 47.0, Kitrino (PH14 +0.6)
+
+>A0A1L3KH34_9VIRU/42-460
+   A:145-156(24.0)      B:209-222(15.5)      C:242-249(12.0)
+   IETDFSRFDMTV    <76> SGDAHTSIANGYIN  <47> HEGDDGVI  [105]
+   ||||||||| ||         ||..||+..|. ||        .|||||.
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 51.5, Nodamuvirales (Kitrino +6.2)
+
+>A0A1L3KGP4_9VIRU/3-427
+   A:146-157(30.9)      B:212-225(34.7)      C:244-251(19.7)
+   VGLDASRFDQHV    <78> SGDMNTGLGNCILM  <46> NNGDDCLV  [106]
+   ||||||||||||         ||||||+|||||||       ||||||+|
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 85.2, Tolivirales (PH14 +22.8)
+
+>A0A1L3KGI9_9VIRU/2-400
+   A:106-117(12.5)      B:169-182(25.2)      C:202-209(10.8)
+   IDIDQSRFDRHI    <75> SGDANTSIGNTILN  <47> HDGDDGLI  [104]
+   + +| |||| |+         |||+|||.||||.|        .|||.||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 48.6, Kitrino (PH14 +2.4)
+
+>A0A1L3KFR2_9VIRU/69-468
+   A:147-158(15.3)      B:208-221(23.8)      C:237-244(11.9)
+   YLIDHSKFDSRV    <73> SGDANTALGNCLIN  <43> LDGDDSVV  [98]
+   | +|.|||||+|         |||+||.|||||+|        .||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 51.0, Kitrino (PH14 +3.5)
+
+>A0A1L3KF92_9VIRU/66-461
+   A:141-152(17.5)      B:201-214(26.3)      C:233-240(11.3)
+   VSLDHSKFDCHV    <72> SGDQNTGLGNCLIN  <46> IDGDDFLI  [100]
+   |++|.|+||.||         |||.||+|||||||       .|||| |+
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 55.1, PH14 (Kitrino +8.1)
+
+>A0A1L3KFE3_9VIRU/199-590
+   A:118-129(24.0)      B:182-195(18.5)      C:215-222(11.9)
+   IETDFSRFDMTV    <76> SGDAHTSIANGVLN  <47> HEGDDGII  [105]
+   ||||||||| ||         ||..||+..|.++|        .|||||.
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 54.4, Nodamuvirales (Kitrino +9.3)
+
+>A0A1L3KGA2_9VIRU/78-470
+   A:142-153(13.1)      B:203-216(24.1)      C:235-242(11.9)
+   TEGDHTTFDAHI    <73> SGDVDTSFGNSIIN  <46> VNGDDFIL  [101]
+    | |.+ ||||+         ||| ||| |||+||       ||||| ++
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 49.1, PH14 (Kitrino +2.1)
+
+>A0A1L3KG06_9VIRU/1-402
+   A:140-151(13.6)      B:200-213(19.4)      C:233-240(15.0)
+   ICLDHSKFDGHY    <72> SGEYTTSEGNTLMN  <47> VNGDDSVV  [101]
+   +..|.||||.|          ||| ||| |||| |       |+||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 48.0, Kitrino (PH14 +1.3)
+
+>A0A1L3KFU6_9VIRU/1-391
+   A:114-125(19.1)      B:177-190(28.9)      C:209-216(8.1)
+   LMLDASRFDGHV    <75> SGDMDTASSNCLLM  <46> VDGDDSVF  [103]
+     ||||||| ||         |||| ||+ |||||        +||| | 
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 56.2, Tolivirales (PH14 +1.4)
+
+>A0A1L3KG04_9VIRU/1-412
+   A:134-145(16.3)      B:194-207(27.5)      C:224-231(16.4)
+   ISYDCSRWDAHV    <72> SGDMNTSSGNVALM  <44> DDGDDCVV  [98]
+   |  |||| | ||         |||||||+||  ||        +||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 60.2, Tolivirales (PH14 +1.0)
+
+>A0A1L3KFY2_9VIRU/204-614
+   A:130-141(16.9)      B:194-207(20.5)      C:227-234(12.0)
+   IEIDFARFDMTL    <76> SGDAHTSIGNGLLN  <47> HEGDDGVI  [105]
+   ||.|| ||| |          ||..||+.||.|+|        .|||||.
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 49.5, Nodamuvirales (Kitrino +4.4)
+
+>A0A1W6R6J6_9VIRU/228-630
+   A:133-144(22.2)      B:197-210(24.0)      C:227-234(13.8)
+   YEIDYSRFDLSI    <76> SGDPHTSVGNGMLN  <44> CEGDDGII  [102]
+   +|.|||||| ||         ||.|||+.||.|+|       |.|||||.
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 60.0, Nodamuvirales (Kitrino +12.2)
+
+>A0A1L3KG42_9VIRU/57-467
+   A:158-169(14.0)      B:219-232(22.6)      C:248-255(14.5)
+   YLIDHSKFDSCV    <73> SGDPNTACGNCVIN  <43> VDGDDSVV  [98]
+   | +|.||||| |         ||||||..|||.+|       |.||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 51.1, Kitrino (PH14 +1.6)
+
+>A0A1L3KFN4_9VIRU/573-1001
+   A:160-171(18.0)      B:220-233(35.3)      C:253-260(7.4)
+   YSIDLSRFDQHV    <72> SGDMNTGLGNCLLM  <47> VDGDDTLI  [101]
+      | |||||||         ||||||+|||||||        +||| ++
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 60.7, Tolivirales (PH14 +0.8)
+
+>A0A0A7RYK7_9VIRU/16-465
+   A:177-188(18.9)      B:238-251(26.5)      C:271-278(11.7)
+   VEVDGKAFEAHV    <73> SGDFNTGMGNSLIM  <47> VDGDNALV  [102]
+   ||+|||+|||||         |||+||+|||||||       ||||+.||
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 57.1, PH14 (Tolivirales +4.7)
+
+>A0A1L3KFY9_9VIRU/1-450
+   A:194-205(13.3)      B:254-267(22.9)      C:287-294(13.5)
+   YLIDHSAFDSCI    <72> SGDADTALGNCIVN  <47> VDGDDSIV  [101]
+   | +|.|+||| +         |||++|.|||||+|       |.||||.|
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 49.6, Kitrino (PH14 +1.7)
+
+>A0A1L3KG98_9VIRU/287-732
+   A:188-199(9.9)      B:247-260(21.4)      C:280-287(8.2)
+   YSGDHKTFDAFI   <71> SGDADTGLGNTIIS  <47> CDGDDFMI  [100]
+   ++ |.| ||| +        ||| ||+||||+|         ||||  +
+   velDasrwDaHv        SGDmdTslGNslin       vdGDDclv
+Score 39.5, PH14 (Kitrino +1.7)
+
+>A0A1L3KFX6_9VIRU/636-1085
+   A:183-194(14.9)      B:245-258(22.8)      C:279-286(10.9)
+   VEVDFSAYDSTQ    <74> SGDPNTSCGNSLLT  <48> VMGDDNTS  [104]
+   ||+|.|+||+.+         |||.||| ||||+.       |+|||+  
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 48.6, PH14 (Kitrino +1.3)
+
+>A0A1L3KFQ9_9VIRU/9-454
+   A:172-183(19.9)      B:232-245(28.9)      C:268-275(8.7)
+   YSLDASRWDQHC    <72> SGDVNTALGNCLLA  <50> DDGDDLLV  [104]
+     ||||| |||+         ||| |||||||||.        +||| +|
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 57.6, Tolivirales (PH14 +2.7)
+
+>A0A1L3KG15_9VIRU/4-451
+   A:200-211(16.5)      B:263-276(16.6)      C:293-300(11.9)
+   IGIDHSKFDSRV    <75> SGDIDTAKGNCEIN  <44> LDGDDSVV  [101]
+   +.+|.|||||+|         ||| +|. ||| +|        .||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 44.9, Kitrino (PH14 +0.8)
+
+>A0A1L3KG33_9VIRU/54-505
+   A:194-205(12.5)      B:254-267(19.3)      C:287-294(13.7)
+   LLLDHTAFDASI    <72> SGESDTGCGNVVVN  <47> VDGDDSIV  [101]
+   . +|.++|||++         ||+.||+ ||...|       |||||++|
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 45.5, PH14 (Kitrino +3.1)
+
+>A0A1L3KGM3_9VIRU/1-454
+   A:173-184(22.2)      B:241-254(33.5)      C:273-280(21.3)
+   VGLDAEKFDAHV    <80> SGDLNTSMGNCLIM  <46> NNGDDCVV  [108]
+   ||||| +|| ||         ||| ||||||||||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 77.0, Tolivirales (PH14 +17.9)
+
+>A0A1L3KGJ6_9VIRU/20-474
+   A:195-206(17.0)      B:256-269(25.1)      C:286-293(12.8)
+   YCLDHSKFDCHV    <73> SGDPNTGLGNSILN  <44> IDGDDSVV  [99]
+   +++|.|+||.||         |||.||+||||++|       .||||+||
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 54.9, PH14 (Kitrino +2.9)
+
+>A0A1L3KGK3_9VIRU/28-482
+   A:187-198(14.0)      B:243-256(18.6)      C:277-284(9.4)
+   IMKDFSKFDSCI    <68> SGEYNTSCGDSIVN  <48> INGDDDVM  [98]
+   |  ||||||+ |         || +.|| +.||||       . ||| ||
+   iagDfSkFDgsv         SGsplTsiiNslvN       vyGDDnli
+Score 42.0, PH2 (PH5 +1.7)
+
+>A0A1L3KH28_9VIRU/5-457
+   A:173-184(17.3)      B:239-252(25.1)      C:273-280(10.1)
+   IPADASRFEQSI    <78> SGDKNTSSGNCIIS  <48> CDGDDAVM  [108]
+   |+ |||||.|.          ||| |||+|||||         +|||.| 
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 52.6, Tolivirales (PH14 +2.7)
+
+>A0A1L3KFP0_9VIRU/4-457
+   A:183-194(30.9)      B:247-260(31.5)      C:279-286(19.7)
+   VGLDASRFDQHV    <76> SGDMNTSLGNKFLM  <46> NNGDDCLV  [104]
+   ||||||||||||         ||||||||||. ||       ||||||+|
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 82.0, Tolivirales (PH14 +21.3)
+
+>A0A1L3KG78_9VIRU/3-456
+   A:184-195(30.9)      B:247-260(33.6)      C:279-286(19.7)
+   VGLDASRFDQHV    <75> SGDMNTSLGNKLLM  <46> NNGDDCLV  [103]
+   ||||||||||||         ||||||||||.|||       ||||||+|
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 84.2, Tolivirales (PH14 +22.9)
+
+>A0A1L3KGK7_9VIRU/113-549
+   A:160-171(30.9)      B:227-240(32.6)      C:259-266(20.3)
+   VGLDASRFDQHV    <79> SGDMNTGLGNCLIA  <46> NNGDDCVI  [107]
+   ||||||||||||         ||||||+||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 83.8, Tolivirales (PH14 +23.9)
+
+>A0A1L3KG19_9VIRU/25-463
+   A:182-193(16.4)      B:242-255(25.6)      C:274-281(8.4)
+   LSIDHSKFDCHV    <72> SGDKNTGLGNSLIN  <46> IDGDDSNV  [100]
+   .+.|.|+||.||         ||| ||+|||||||       .||||+ |
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 50.4, PH14 (Kitrino +4.8)
+
+>A0A1L3KG90_9VIRU/26-464
+   A:196-207(13.8)      B:259-272(16.4)      C:289-296(11.8)
+   VLVDHSKFDSRI    <75> SGDIDTAKGNCEVN  <44> LDGDDSVI  [101]
+   + .|.|||||++         ||| +|. ||| +|        .||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 41.9, Kitrino (PH14 +0.5)
+
+>A0A1L3KGX3_9VIRU/1-432
+   A:157-168(23.2)      B:221-234(35.4)      C:253-260(21.3)
+   VGLDAVKFDMHV    <76> SGDMNTALGNCIIM  <46> NNGDDCVV  [104]
+   ||||| +|||||         ||||||||||||||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 79.9, Tolivirales (PH14 +21.8)
+
+>A0A1L3KGZ7_9VIRU/95-529
+   A:163-174(19.8)      B:224-237(24.6)      C:256-263(13.8)
+   VSIDASRFEAHV    <73> SGDMCTSLGNALLM  <46> DDGDDCLL  [101]
+   |  |||||. ||         |||| ||||| |||        +||||++
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 58.2, Tolivirales (PH14 +1.4)
+
+>A0A1L3KH30_9VIRU/1-437
+   A:168-179(30.9)      B:231-244(33.0)      C:263-270(21.3)
+   VGLDASRFDQHV    <75> SGDLNTSLGNCLIM  <46> NNGDDCVV  [103]
+   ||||||||||||         ||| ||||||||||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 85.2, Tolivirales (PH14 +23.3)
+
+>A0A1L3KGS9_9VIRU/1-439
+   A:168-179(30.9)      B:231-244(33.5)      C:263-270(20.4)
+   VGLDASRFDQHV    <75> SGDINTGMGNCLIM  <46> NNGDDCVL  [103]
+   ||||||||||||         |||+||+|||||||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 84.9, Tolivirales (PH14 +24.5)
+
+>A0A1L3KGN1_9VIRU/359-803
+   A:166-177(30.8)      B:233-246(32.5)      C:265-272(20.3)
+   IGLDASRFDQHV    <79> SGDMNTGMGNCIIA  <46> NNGDDCVI  [107]
+   ||||||||||||         ||||||+||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 83.6, Tolivirales (PH14 +24.1)
+
+>A0A1L3KH95_9VIRU/75-519
+   A:179-190(20.3)      B:240-253(20.6)      C:269-276(13.0)
+   LNVDASRFDAHV    <73> SGDVNTALGNTLIQ  <43> VEGDDAVI  [98]
+   .++|||||||||         ||| ||.||||||        |+|||.|+
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 53.9, PH14 (Tolivirales +3.5)
+
+>A0A1L3KGS0_9VIRU/9-454
+   A:172-183(19.9)      B:232-245(28.9)      C:268-275(8.7)
+   YSLDASRWDQHC    <72> SGDVNTALGNCLLA  <50> DDGDDLLV  [104]
+     ||||| |||+         ||| |||||||||.        +||| +|
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 57.6, Tolivirales (PH14 +2.7)
+
+>A0A1L3KGL4_9VIRU/16-459
+   A:175-186(13.9)      B:236-249(19.7)      C:268-275(10.4)
+   YQIDCSKCDAHT    <73> SGDFNTGLGTSIIC  <46> CDGDDCML  [101]
+   + .|.|+ |||.         |||+||+|| |+|         ||||| +
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 44.0, PH14 (Kitrino +7.7)
+
+>A0A1L3KFX8_9VIRU/1-293
+   A:21-32(30.9)      B:84-97(29.9)       C:116-123(14.8)
+   VGLDASRFDQHV  <75> SGDMNTALGNVFLM <46> NDGDDCGI  [103]
+   ||||||||||||       ||||||||||  ||      |+|||| +
+   vGLDASRFDQHV       SGDMNTSLGNCLLM      NNGDDCVv
+Score 75.6, Tolivirales (PH14 +18.4)
+
+>A0A1L3KGK0_9VIRU/1-440
+   A:168-179(14.3)      B:234-247(14.6)      C:264-271(7.9)
+   ISIDMSKCDSTI    <78> SGTAHTGAGNTVLV  <44> SNGDDTIL  [104]
+   +++|.|| |||+         || + | .|||..         +||| ..
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 36.8, Kitrino (PH16 +3.6)
+
+>A0A1L3KG88_9VIRU/6-449
+   A:190-201(15.2)      B:251-264(17.2)      C:284-291(12.8)
+   ICADHSKFDSSV    <73> SGDYDTGGRNSRLN  <47> IDGDDSVV  [102]
+   ++.|.|+||++|         |||.||+  || +|       .||||+||
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 45.2, PH14 (Kitrino +5.1)
+
+>A0A1L3KFF3_9VIRU/5-304
+   A:36-47(20.1)      B:103-116(22.3)      C:133-140(15.9)
+   YECDFTAFDSSQ  <79> SGDTDTYIGNTILN  <44> FSGDDSVV  [105]
+   || |||+|||||       ||| +||.||||.|       ||||||||
+   lenDyskFDksq       SGdanTslGNTltn       vsGDDsvv
+Score 58.2, Kitrino (PH5 +3.8)
+
+>A0A1L3KFZ8_9VIRU/271-570
+   A:134-145(18.0)      B:198-211(19.6)      C:231-238(12.4)
+   VEVDFSRFDMTL    <76> SGDAHTSFGNTLLN  <47> HEGDDGLI  [105]
+   || |||||| |          ||..||+ ||||+|        .|||||.
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 50.0, Nodamuvirales (Kitrino +0.5)
+
+>A0A1L3KFF2_9VIRU/450-722
+   A:95-106(13.9)      B:155-168(21.9)      C:184-191(11.8)
+   IEIDFTRFDRNC   <72> SGDVNTSIGNCLIV  <43> VEGDDMIA  [97]
+   +|.|.+||| ++        ||| ||| |||||        |+|||.+.
+   velDasrwDaHv        SGDmdTslGNslin       vdGDDclv
+Score 47.7, PH14 (Kitrino +1.7)
+
+>A0A1L3KGW1_9VIRU/1-391
+   A:115-126(29.3)      B:178-191(31.9)      C:210-217(20.3)
+   IGVDASRFDQHV    <75> SGDINTSMGNKLIM  <46> NNGDDCVI  [103]
+   ||.|||||||||         |||+||||||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.5, Tolivirales (PH14 +22.7)
+
+>A0A1L3KGD7_9VIRU/153-281
+   A:1-12(14.0)      B:67-80(24.9)       C:100-107(12.7)
+   YATDYTAFEAHF <78> SGEMNTSLGNGFSN <47> VEGDDGLF  [107]
+   + .| ++||||.      ||+|||||||++ |      |+|||.|.
+   velDasrwDaHv      SGDmdTslGNslin      vdGDDclv
+Score 51.6, PH14 (Kitrino +7.9)
+
+>A0A1L3KGA1_9VIRU/169-451
+   A:151-162(20.0)      B:215-228(17.3)      C:248-255(10.3)
+   VEIDYSRYDMTI    <76> SGDAHTSIGNGLLG  <47> HEGDDGLL  [105]
+   ||.|||| | ||         ||..||+.||.|+         .||||| 
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 47.7, Nodamuvirales (Kitrino +5.5)
+
+>A0A1L3KL96_9VIRU/2283-2441
+   A:27-38(18.5)      B:105-118(23.3)      C:138-145(7.9)
+   VSTDFSSFDATI  <90> SGDPFTTVGNTFIN  <47> QSGDDFII  [119]
+   +++|||+||+||       ||+|+||++||.+|         ||| |+
+   iagDfSkFDgsv       SGsplTsiiNslvN       vyGDDnli
+Score 49.7, PH2 (Kitrino +4.4)
+
+>A0A1L3KFT7_9VIRU/165-495
+   A:159-170(17.9)      B:222-235(21.4)      C:255-262(9.9)
+   LEVDFTRFDKTI    <75> SGDAHTSLGNGLIN  <47> HEGDDGII  [104]
+   .|.||||||||+         |||+ ||||| |+|         |||..|
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 49.1, Kitrino (Nodamuvirales +3.5)
+
+>A0A1L3KH11_9VIRU/2-322
+   A:181-192(18.4)      B:242-255(20.8)      C:275-282(13.1)
+   IENDYSRYDSRI    <73> SGDYNTGLGNSILN  <47> VDGDDSLL  [102]
+   +|||||||||++         ||| || |||+|.|       |.|||||.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 52.4, Kitrino (PH14 +0.0)
+
+>A0A1L3KG50_9VIRU/149-471
+   A:59-70(11.9)      B:122-135(23.3)      C:155-162(12.6)
+   METDYSSFEGSF  <75> SGDMWTSLANGFTN  <47> VEGDDAII  [104]
+   +|.| |+|| +.       ||||+||| |++.|       |+|||.++
+   velDasrwDaHv       SGDmdTslGNslin       vdGDDclv
+Score 47.8, PH14 (PH5 +4.7)
+
+>A0A1L3KGG2_9VIRU/89-358
+   A:147-158(21.5)      B:211-224(16.5)      C:244-251(11.6)
+   VETDYSRFDASL    <76> SGDAHTSIMNGLIN  <47> HEGDDGLV  [105]
+   ||||||||| |          ||..||+. |.|||        .||||| 
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 49.6, Nodamuvirales (PH2 +2.0)
+
+>Q65844_9VIRU/5-323
+   A:39-50(17.7)      B:103-116(25.5)      C:136-143(12.4)
+   ICLDASRFDLHV  <76> SGDNDTSLGNVIIM  <47> NDGDDQVI  [105]
+   +++|||||| ||       |||.||||||.+||       ||||| |+
+   velDasrwDaHv       SGDmdTslGNslin       vdGDDclv
+Score 55.6, PH14 (Tolivirales +1.7)
+
+>Q9DX77_9TOMB/1-301
+   A:33-44(26.3)      B:96-109(29.8)      C:128-135(18.7)
+   VGLDAKRFDQHI  <75> SGDMDTALGNCTIM <46> NNGDDCIV  [103]
+   |||||+|||||        |||| |||||| ||      |||||| |
+   vGLDASRFDQHV       SGDMNTSLGNCLLM      NNGDDCVv
+Score 74.8, Tolivirales (PH14 +16.2)
+
+>A0A1L3KG39_9VIRU/17-322
+   A:92-103(14.9)      B:151-164(18.7)      C:184-191(13.4)
+   VCIDHKQFEAHL   <71> SGHVKTSFGNSILN  <47> VNGDDSII  [100]
+   |+.|.|.||||.        ||+  || |||++|       |||||+++
+   velDasrwDaHv        SGDmdTslGNslin       vdGDDclv
+Score 47.0, PH14 (PH2 +7.0)
+
+>A0A1L3KGM2_9VIRU/10-135
+   A:4-15(2.1)       B:61-74(23.3)       C:98-105(8.9)
+   TNWDSTMQEPHM <69> SGDWNTSVGNSIIS <51> FHGDDYLA  [102]
+    + | +  | |+      |||+||| |||+|         |||.|.
+   velDasrwDaHv      SGDmdTslGNslin      vdGDDclv
+Score 34.3, PH14 (PH5 +5.7)
+
+>A0A0P0QKK5_9VIRU/6445-6691
+   A:102-113(10.5)      B:165-178(18.1)      C:205-212(9.8)
+   IMNDIKGWDNNV    <75> SGEITTSRGNGWLN  <54> CEGDDLIM  [111]
+   +. | | || +|         ||+ .|| ||+ +|        +||| +.
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 38.4, PH14 (PH5 +0.5)
+
+>A0A1L3KG77_9VIRU/2-332
+   A:80-91(14.4)      B:139-152(25.8)      C:169-176(10.4)
+   INIDHSKFDSTV  <71> SGDFDTGLGNTIIN  <44> LDGDDAVV  [97]
+   ++.|.|+||+.|       |||+||+||||+||        ||||.||
+   velDasrwDaHv       SGDmdTslGNslin       vdGDDclv
+Score 50.6, PH14 (Kitrino +2.8)
+
+>A0A1L3KG53_9VIRU/1-386
+   A:118-129(30.8)      B:181-194(36.7)      C:213-220(18.2)
+   IGLDASRFDQHV    <75> SGDMNTSLGNCLIM  <46> NNGDDCML  [103]
+   ||||||||||||         ||||||||||||||       |||||| +
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 85.7, Tolivirales (PH14 +24.5)
+
+>A0A1L3KG85_9VIRU/1-388
+   A:112-123(26.4)      B:178-191(35.7)      C:210-217(20.4)
+   VGIDATRFDQHV    <78> SGDMNTGMGNCLLM  <46> NNGDDCVL  [106]
+   || ||.||||||         ||||||+|||||||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 82.6, Tolivirales (PH14 +21.8)
+
+>A0A1L3KGY2_9VIRU/142-526
+   A:111-122(24.0)      B:175-188(18.5)      C:208-215(11.9)
+   IETDFSRFDMTV    <76> SGDAHTSIANGVLN  <47> HEGDDGII  [105]
+   ||||||||| ||         ||..||+..|.++|        .|||||.
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 54.4, Nodamuvirales (Kitrino +9.3)
+
+>A0A1L3KG59_9VIRU/41-425
+   A:151-162(12.1)      B:212-225(24.4)      C:244-251(13.4)
+   TESDHVTFDAHI    <73> SGDVDTSFGNSLIN  <46> VNGDDSII  [101]
+    |.|.  ||||+         ||| ||| ||||||       |||||+++
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 49.9, PH14 (Kitrino +0.9)
+
+>A0A1L3KG34_9VIRU/3-391
+   A:127-138(15.8)      B:189-202(23.4)      C:221-228(13.4)
+   TECDHTSFDAHV    <74> SGDVDTGFGNCLIN  <46> VNGDDSII  [102]
+    |.|.++|||||         ||| ||+ ||||||       |||||+++
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 52.6, PH14 (Kitrino +1.9)
+
+>A0A1L3KGU9_9VIRU/4-388
+   A:119-130(15.8)      B:184-197(13.2)      C:212-219(13.7)
+   LCLDHSKWDGHF    <77> SGEWTTAIENSKVN  <42> VNGDDSIV  [101]
+   .++|.|+|| |.         ||++.|.  || .|       |||||++|
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 42.7, PH14 (PH2 +0.6)
+
+>A0A1L3KGK4_9VIRU/4-393
+   A:125-136(13.3)      B:187-200(24.7)      C:219-226(14.2)
+   IMLDASKFDTCV    <74> SGDMDTGFGNSVLM  <46> VNGDDSVV  [102]
+   +.+|||+||  |         ||||||+ |||.+|       |||||+||
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 52.2, PH14 (Tolivirales +2.2)
+
+>A0A1L3KH03_9VIRU/44-433
+   A:140-151(13.1)      B:201-214(23.0)      C:233-240(12.0)
+   TEGDHTTFDSHV    <73> SGDVDTGFGNSIIN  <46> VNGDDFII  [101]
+    | |.+ ||+||         ||| ||+ |||+||       ||||| ++
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 48.1, PH14 (Kitrino +1.2)
+
+>A0A1L3KGN5_9VIRU/202-591
+   A:121-132(22.2)      B:185-198(23.4)      C:215-222(13.8)
+   YEIDYSRFDLSI    <76> SGDPHTSVGNGLLN  <44> CEGDDGII  [102]
+   +|.|||||| ||         ||.|||+.||.|+|       |.|||||.
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 59.4, Nodamuvirales (Kitrino +11.8)
+
+>A0A1L3KG14_9VIRU/926-1314
+   A:161-172(19.9)      B:221-234(23.2)      C:253-260(13.8)
+   VSADYSRFDAHV    <72> SGHPNTSCGNGIIN  <46> VNGDDTLI  [100]
+   |+.| |||||||         ||+.||| ||++||       |||||.|+
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 56.9, PH14 (PH2 +6.5)
+
+>A0A1L3KGC9_9VIRU/42-430
+   A:159-170(11.4)      B:220-233(23.7)      C:248-255(14.9)
+   HLVDHSAYDGSI    <73> SGDANTSLGNSVIN  <42> VNGDDSVI  [97]
+     .|.|+||.|+         |||+||||||+.+|       |+||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 50.0, Kitrino (PH14 +1.9)
+
+>A0A223DNC0_9VIRU/202-591
+   A:121-132(22.2)      B:185-198(23.4)      C:215-222(13.8)
+   YEIDYSRFDLSI    <76> SGDPHTSVGNGLLN  <44> CEGDDGII  [102]
+   +|.|||||| ||         ||.|||+.||.|+|       |.|||||.
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 59.4, Nodamuvirales (Kitrino +11.8)
+
+>POLG_BVDVN/3499-3833
+   A:113-124(18.9)      B:176-189(25.0)      C:216-223(13.7)
+   VSFDTKAWDTQV    <75> SGQPDTSAGNSMLN  <54> VCGDDGFL  [111]
+   .|.||..|||+|         |||+.|||||+| |       ||||| . 
+   fadDTacfDsti         SGvvtTSagNTiTc       VcGDDlVV
+Score 57.7, Amarillovirales (Kitrino +8.4)
+
+>A0A1L3KGQ1_9VIRU/12-391
+   A:127-138(17.7)      B:188-201(23.1)      C:216-223(11.4)
+   YQVDFSKFDAHV    <73> SGDLNTGLGNSIIH  <42> IDGDDGLW  [97]
+   + +|.|+|||||         ||| ||+||||+|        .||||.| 
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 52.1, PH14 (Kitrino +9.2)
+
+>A0A1L3KGG9_9VIRU/9-345
+   A:110-121(12.3)      B:171-184(24.1)      C:203-210(12.7)
+   TEGDHLTFDAHV    <73> SGDVDTSFGNSIIN  <46> VNGDDYII  [101]
+    | |.  |||||         ||| ||| |||+||       |||||.++
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 49.2, PH14 (Kitrino +6.1)
+
+>A0A1L3KGC3_9VIRU/6-345
+   A:170-181(15.9)      B:230-243(21.3)      C:262-269(11.3)
+   LAMDHSKFDSTI    <72> SGDFNTGLGNSVIN  <46> LDGDDSLV  [100]
+   .+ |.||||||+         |||.|| |||+.+|        .||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 48.6, Kitrino (PH14 +0.3)
+
+>A0A1L3KGG5_9VIRU/3-335
+   A:96-107(14.2)      B:157-170(22.6)      C:189-196(11.9)
+   TEGDHKTFDAHV   <73> SGDVDTGYGNSIIN  <46> VNGDDFIL  [101]
+    | |.| |||||        ||| ||+ |||+||       ||||| ++
+   velDasrwDaHv        SGDmdTslGNslin       vdGDDclv
+Score 48.7, PH14 (Kitrino +6.9)
+
+>A0A1L3KGQ4_9VIRU/2-336
+   A:78-89(18.7)      B:138-151(23.7)      C:170-177(11.6)
+   ISLDHSKFDAHV  <72> SGDQNTGIGNSIIN  <46> IDGDDFLV  [100]
+   +++|.|+|||||       |||.||+ |||+||       .|||| ||
+   velDasrwDaHv       SGDmdTslGNslin       vdGDDclv
+Score 54.1, PH14 (Kitrino +6.9)
+
+>A0A1L3KFZ7_9VIRU/1-335
+   A:83-94(12.6)      B:142-155(13.7)      C:172-179(14.4)
+   DLWDVSRMDAHL  <71> SGEACTSAGDSIVM  <44> VCGDDCVV  [97]
+      |.||+|||.       ||+  || | |+.|       |+||||||
+   velDasrwDaHv       SGDmdTslGNslin       vdGDDclv
+Score 40.7, PH14 (Kitrino +3.5)
+
+>A0A1L3KFR5_9VIRU/106-458
+   A:96-107(16.3)      B:156-169(19.9)      C:186-193(13.3)
+   VEADHSRFDSRI   <72> SGVVNTGLGNSVVN  <44> IDGDDSVI  [98]
+   +| |.|||||++        ||.+|| |||+.+|       ..||||||
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 49.5, Kitrino (PH14 +2.3)
+
+>A0A1L3KGZ0_9VIRU/5-376
+   A:101-112(24.0)      B:165-178(19.6)      C:197-204(12.0)
+   IETDFSRFDMTV    <76> SGDAHTSIANGIIN  <46> HEGDDGVI  [104]
+   ||||||||| ||         ||..||+..|.|||        .|||||.
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 55.7, Nodamuvirales (Kitrino +8.2)
+
+>A0A1L3KG51_9VIRU/26-397
+   A:146-157(15.5)      B:207-220(25.9)      C:239-246(13.4)
+   TECDHSTFDAHV    <73> SGDVDTSLGNSLIN  <46> VNGDDSII  [101]
+    |.|.| |||||         ||| ||||||||||       |||||+++
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 54.9, PH14 (Kitrino +2.6)
+
+>A0A1L3KG60_9VIRU/1-342
+   A:84-95(15.0)      B:144-157(20.6)      C:177-184(10.8)
+   LLIDHSKFDSTV  <72> SGDPDTGCGNSVIN  <47> LDGDDSIV  [101]
+   . +|.|||||||       ||||+| .||+.+|        .||||.|
+   lenDyskFDksq       SGdanTslGNTltn       vsGDDsvv
+Score 46.4, Kitrino (PH14 +0.4)
+
+>A0A1L3KH21_9VIRU/1-347
+   A:71-82(29.3)      B:134-147(31.9)      C:166-173(20.3)
+   IGVDASRFDQHV  <75> SGDINTSMGNKLIM  <46> NNGDDCVI  [103]
+   ||.|||||||||       |||+||||||.|||       |||||||+
+   vGLDASRFDQHV       SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.5, Tolivirales (PH14 +22.7)
+
+>A0A1L3KGR0_9VIRU/1-344
+   A:84-95(16.5)      B:147-160(23.7)      C:179-186(13.4)
+   ICMDHSKFDAHF  <75> SGDQNTGMGNSLGN  <46> VDGDDSVM  [103]
+   ++ |.|+||||.       |||.||+||||| |       |||||+|.
+   velDasrwDaHv       SGDmdTslGNslin       vdGDDclv
+Score 53.6, PH14 (Kitrino +8.7)
+
+>A0A0B4MJK9_9TOMB/258-738
+   A:205-216(29.1)      B:269-282(25.4)      C:301-308(20.4)
+   IGFDMSRFDQHV    <76> SGDVNTSLGNVILA  <46> NNGDDCVL  [104]
+   ||||||||||||         ||| |||||| ||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 75.0, Tolivirales (PH14 +21.7)
+
+>A0A1L3KGC6_9VIRU/4-484
+   A:204-215(21.8)      B:271-284(16.4)      C:303-310(18.4)
+   LMADASRFDQHV    <79> SGVPNTGGGNTLLM  <46> NDGDDCVL  [107]
+      |||||||||         ||  ||+ || |||       |+|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 56.5, Tolivirales (PH14 +3.8)
+
+>B4XRZ5_9TOMB/384-865
+   A:211-222(30.1)      B:271-284(18.5)      C:303-310(16.0)
+   IGFDASRFDQHV    <72> GCRMNTSLGNCILA  <46> NNGDDNVL  [100]
+   ||||||||||||            ||||||||||.       ||||| |+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 64.7, Tolivirales (PH14 +16.9)
+
+>F1BA29_9TOMB/270-750
+   A:206-217(27.4)      B:270-283(23.5)      C:302-309(20.4)
+   VGFDMKRFDQHV    <76> SGDLNTSCGNVLLA  <46> NNGDDCVL  [104]
+   |||||+||||||         ||| ||| || ||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 71.3, Tolivirales (PH14 +19.6)
+
+>R9UDT8_9LUTE/348-828
+   A:205-216(29.3)      B:268-281(31.9)      C:300-307(20.3)
+   IGVDASRFDQHV    <75> SGDINTSMGNKLIM  <46> NNGDDCVI  [103]
+   ||.|||||||||         |||+||||||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.5, Tolivirales (PH14 +22.7)
+
+>A0A1J1DWM6_9TOMB/267-747
+   A:205-216(29.2)      B:269-282(32.7)      C:299-306(18.2)
+   VGFDMSRFDQHV    <76> SGDMNTALGNCLLA  <44> NNGDDCVF  [102]
+   ||||||||||||         |||||||||||||.       ||||||| 
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 80.2, Tolivirales (PH14 +24.0)
+
+>Q8B5S0_9TOMB/225-707
+   A:204-215(29.4)      B:270-283(30.8)      C:303-310(18.2)
+   IGMDASRFDQHV    <78> SGDINTSSGNCYIM  <47> NNGDDCML  [107]
+   ||.|||||||||         |||+|||+||| ||       |||||| +
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.4, Tolivirales (PH14 +21.8)
+
+>Q6EN28_9TOMB/261-742
+   A:205-216(29.1)      B:269-282(32.2)      C:301-308(21.3)
+   IGFDMSRFDQHV    <76> SGDMNTALGNCILA  <46> NNGDDCVV  [104]
+   ||||||||||||         |||||||||||||.       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 82.6, Tolivirales (PH14 +26.2)
+
+>Q83424_MNSV/290-772
+   A:205-216(27.3)      B:269-282(33.5)      C:301-308(21.3)
+   IGFDMKRFDQHV    <76> SGDMNTAMGNCLIA  <46> NNGDDCVV  [104]
+   |||||+||||||         |||||||||||||.       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 82.1, Tolivirales (PH14 +25.8)
+
+>RDRP_MCMVK/460-941
+   A:206-217(30.1)      B:270-283(27.4)      C:302-309(16.0)
+   IGFDASRFDQHV    <76> SGDMNISLGNCILA  <46> NNGDDNVL  [104]
+   ||||||||||||         ||||| |||||||.       ||||| |+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 73.5, Tolivirales (PH14 +20.9)
+
+>A0A1L3KG10_9VIRU/1-482
+   A:205-216(27.3)      B:269-282(33.2)      C:301-308(20.4)
+   IGFDMKRFDQHV    <76> SGDMNTAMGNCLLA  <46> NNGDDCVL  [104]
+   |||||+||||||         |||||||||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 80.9, Tolivirales (PH14 +25.6)
+
+>A0A1L3KG12_9VIRU/620-1099
+   A:202-213(20.7)      B:269-282(26.4)      C:301-308(18.4)
+   VGYDAKRFDQHT    <79> SGDVNTSLGNIVLM  <46> NDGDDCVL  [107]
+   || ||+|||||          ||| |||||| .||       |+|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 65.5, Tolivirales (PH14 +12.3)
+
+>M1NMF8_9TOMB/259-740
+   A:205-216(29.1)      B:269-282(24.8)      C:301-308(21.3)
+   IGFDMSRFDQHV    <76> SGDVNTAAGNCLLA  <46> NNGDDCVV  [104]
+   ||||||||||||         ||| ||| |||||.       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 75.2, Tolivirales (Kitrino +23.3)
+
+>A0A2U8N4X5_9LUTE/446-925
+   A:204-215(29.3)      B:267-280(31.9)      C:299-306(20.3)
+   IGVDASRFDQHV    <75> SGDINTSMGNKLIM  <46> NNGDDCVI  [103]
+   ||.|||||||||         |||+||||||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.5, Tolivirales (PH14 +22.7)
+
+>B7U995_9TOMB/249-728
+   A:205-216(29.1)      B:269-282(32.7)      C:299-306(21.3)
+   IGFDMSRFDQHV    <76> SGDMNTALGNCLLA  <44> NNGDDCVV  [102]
+   ||||||||||||         |||||||||||||.       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 83.2, Tolivirales (PH14 +26.6)
+
+>A0A2H4QXD3_9LUTE/445-923
+   A:203-214(29.3)      B:266-279(31.9)      C:298-305(20.3)
+   IGVDASRFDQHV    <75> SGDINTSMGNKLIM  <46> NNGDDCVI  [103]
+   ||.|||||||||         |||+||||||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.5, Tolivirales (PH14 +22.7)
+
+>D3U5B4_FNSVC/263-743
+   A:205-216(30.8)      B:269-282(36.7)      C:301-308(20.3)
+   IGLDASRFDQHV    <76> SGDMNTSLGNCLIM  <46> NNGDDCVI  [104]
+   ||||||||||||         ||||||||||||||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 87.8, Tolivirales (PH14 +24.3)
+
+>A0A1B2ARY9_9TOMB/282-760
+   A:205-216(27.3)      B:269-282(26.1)      C:301-308(20.4)
+   IGFDMKRFDQHV    <76> SGDLNTALGNCMLS  <46> NNGDDCVL  [104]
+   |||||+||||||         ||| ||||||| |        |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 73.8, Tolivirales (PH14 +20.9)
+
+>A0A141G5I6_9TOMB/224-703
+   A:204-215(30.9)      B:268-281(35.9)      C:300-307(20.3)
+   VGLDASRFDQHV    <76> SGDMNTSLGNCILM  <46> NNGDDCVI  [104]
+   ||||||||||||         ||||||||||||||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 87.1, Tolivirales (PH14 +24.0)
+
+>RDRP_TCV/272-752
+   A:205-216(27.3)      B:268-281(28.9)      C:298-305(20.4)
+   IGFDMKRFDQHV    <75> SGDVNTALGNCLLA  <44> NNGDDCVL  [101]
+   |||||+||||||         ||| |||||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 76.6, Tolivirales (PH14 +24.2)
+
+>A2TJS9_9TOMB/21-501
+   A:206-217(25.5)      B:270-283(28.2)      C:300-307(21.3)
+   IGFDMERFDQHV    <76> SGDMNTGLGNCALA  <44> NNGDDCVV  [102]
+   ||||| ||||||         ||||||+|||| |.       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 75.1, Tolivirales (PH14 +21.7)
+
+>A0A1L3KFT2_9VIRU/371-850
+   A:203-214(25.2)      B:267-280(35.3)      C:299-306(21.3)
+   IGLDAKKFDMHV    <76> SGDMNTGLGNCLLM  <46> NNGDDCVV  [104]
+   |||||++|||||         ||||||+|||||||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.8, Tolivirales (PH14 +22.2)
+
+>RDRP_TNVA/224-703
+   A:204-215(30.9)      B:268-281(35.9)      C:300-307(20.3)
+   VGLDASRFDQHV    <76> SGDMNTSLGNCILM  <46> NNGDDCVI  [104]
+   ||||||||||||         ||||||||||||||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 87.1, Tolivirales (PH14 +24.0)
+
+>Q56TL0_9TOMB/262-744
+   A:205-216(29.1)      B:269-282(28.5)      C:301-308(20.4)
+   IGFDMSRFDQHV    <76> SGDVNTGLGNCLLA  <46> NNGDDCVL  [104]
+   ||||||||||||         ||| ||+||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.0, Tolivirales (PH14 +24.2)
+
+>RDRP_OCSVU/235-734
+   A:211-222(30.8)      B:278-291(35.1)      C:310-317(21.3)
+   IGLDASRFDQHV    <79> SGDMNTSLGNCVLM  <46> NNGDDCVV  [107]
+   ||||||||||||         |||||||||||.||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 87.3, Tolivirales (PH14 +24.8)
+
+>A0A1L3KGF0_9VIRU/44-542
+   A:208-219(11.4)      B:276-289(14.5)      C:322-329(11.7)
+   VCLDHRNWDGHY    <80> SGEYTTSDENGSAN  <60> INGDDSVS  [122]
+   |++|. .|| |          ||+..||  |+ .|       .||||+| 
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 37.6, PH14 (Kitrino +2.6)
+
+>Q83938_9TOMB/223-702
+   A:204-215(30.9)      B:268-281(35.9)      C:300-307(20.3)
+   VGLDASRFDQHV    <76> SGDMNTSLGNCILM  <46> NNGDDCVI  [104]
+   ||||||||||||         ||||||||||||||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 87.1, Tolivirales (PH14 +24.0)
+
+>A0A1L3KFB7_9VIRU/366-859
+   A:214-225(11.9)      B:283-296(6.7)      C:316-323(5.4)
+   VQLDCERFSQHV    <81> DGVMNTSLYGILMM <47> DGGDDTNI  [110]
+   | +|. || |||          | |||||   |.|      . |||. +
+   velDasrwDaHv         SGDmdTslGNslin      vdGDDclv
+Score 24.0, PH14 (Kitrino +6.6)
+
+>A0A1L3KFD3_9VIRU/13-521
+   A:225-236(25.6)      B:297-310(29.9)      C:329-336(12.2)
+   VGFDAKRFDQHI    <84> SGDMNTSLGNVTIM  <46> NDGDDLVI  [112]
+   |||||+|||||          ||||||||||  ||       |+||| |+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 67.8, Tolivirales (PH14 +11.2)
+
+>O41892_PEGIA/2409-2899
+   A:206-217(17.4)      B:267-280(24.5)      C:300-307(13.2)
+   ITVDATCFDSSI    <73> SGVLTTSSANSXTC  <47> IAGDDCLI  [102]
+   +|.| +|||| |         |||||||| |+ ||       |+|||| +
+   fadDTacfDsti         SGvvtTSagNTiTc       VcGDDlVV
+Score 55.1, Amarillovirales (Kitrino +8.8)
+
+>RDRP_PMVK/447-937
+   A:213-224(30.1)      B:277-290(32.9)      C:309-316(16.0)
+   IGFDASRFDQHV    <76> SGDMNTSLGNCILA  <46> NNGDDNVL  [104]
+   ||||||||||||         |||||||||||||.       ||||| |+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 79.1, Tolivirales (PH14 +20.9)
+
+>A0A1L3KGI5_9VIRU/9-509
+   A:206-217(8.8)      B:272-285(12.9)      C:305-312(10.8)
+   FDVDVEKMDRST   <78> SGQMNTSLVGVSMV  <47> DAGDDCTV  [107]
+   | +|. ++| +.        || |||||  . .        ..|||| |
+   velDasrwDaHv        SGDmdTslGNslin       vdGDDclv
+Score 32.4, PH14 (Kitrino +8.0)
+
+>A0A0P0QKS2_9FLAV/2483-2997
+   A:218-229(13.9)      B:283-296(28.8)      C:316-323(18.0)
+   FTADAFCYDSQI    <77> SGVLTTSTGNTLTC  <47> VCGDDCIV  [106]
+   || |  |+||+|         ||||||| |||+||       ||||||.|
+   fadDTacfDsti         SGvvtTSagNTiTc       VcGDDlVV
+Score 60.8, Amarillovirales (Kitrino +15.8)
+
+>A0A1L3KGV2_9VIRU/26-526
+   A:224-235(28.2)      B:292-305(32.5)      C:326-333(18.2)
+   VGLDASRFDQHI    <80> SGDMNTSLGNVIIM  <48> NDGDDCVI  [110]
+   |||||||||||          |||||||||| |||       |+|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.8, Tolivirales (PH14 +17.7)
+
+>POLG_HCVH/2423-2934
+   A:215-226(22.9)      B:280-293(18.6)      C:313-320(18.9)
+   LSYDTRCFDSTV    <77> SRVLTTSCGNTLTR  <47> VCGDDLVV  [106]
+    |||||||||||         | |||||.|||+|        ||||||||
+   fadDTacfDsti         SGvvtTSagNTiTc       VcGDDlVV
+Score 60.4, Amarillovirales (Kitrino +15.3)
+
+>A0A1L3KFK0_9VIRU/12-512
+   A:223-234(28.2)      B:291-304(32.5)      C:325-332(18.2)
+   VGLDASRFDQHI    <80> SGDMNTSLGNVIIM  <48> NDGDDCVI  [110]
+   |||||||||||          |||||||||| |||       |+|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.8, Tolivirales (PH14 +17.7)
+
+>A0A1L3KFP3_9VIRU/13-497
+   A:206-217(21.2)      B:270-283(32.4)      C:302-309(21.3)
+   VGLDAKKFDMHT    <76> SGDLNTSLGNCIIM  <46> NNGDDCVV  [104]
+   |||||++||||          ||| ||||||||||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 74.9, Tolivirales (PH14 +17.2)
+
+>A0A1L3KGT8_9VIRU/8-510
+   A:225-236(28.2)      B:293-306(32.5)      C:327-334(18.2)
+   VGLDASRFDQHI    <80> SGDMNTSLGNVIIM  <48> NDGDDCVI  [110]
+   |||||||||||          |||||||||| |||       |+|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.8, Tolivirales (PH14 +17.7)
+
+>RDRP_CRSVL/260-744
+   A:207-218(29.3)      B:271-284(29.4)      C:303-310(20.4)
+   IGLDASRFDQHC    <76> SGDINTGLGNKILM  <46> NNGDDCVL  [104]
+   |||||||||||+         |||+||+|||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 79.1, Tolivirales (PH14 +23.5)
+
+>RDRP_RCNMV/260-745
+   A:207-218(29.3)      B:272-285(29.4)      C:304-311(20.4)
+   IGLDASRFDQHC    <77> SGDINTGLGNKILM  <46> NNGDDCVL  [105]
+   |||||||||||+         |||+||+|||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 79.1, Tolivirales (PH14 +23.5)
+
+>O41347_TNVD/224-708
+   A:204-215(26.7)      B:270-283(33.3)      C:304-311(18.2)
+   IGMDASRFDQHI    <78> SGDMNTSSGNCYIM  <48> NNGDDCML  [108]
+   ||.||||||||          |||||||+||| ||       |||||| +
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.2, Tolivirales (PH14 +20.2)
+
+>Q83103_9TOMB/228-711
+   A:204-215(26.7)      B:270-283(33.4)      C:303-310(19.0)
+   IGMDASRFDQHI    <78> SGDMNTSSGNCFIM  <47> NNGDDCMV  [107]
+   ||.||||||||          |||||||+||| ||       |||||| |
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 79.2, Tolivirales (PH14 +20.4)
+
+>Q7T4K3_9TOMB/246-730
+   A:204-215(27.3)      B:268-281(34.0)      C:300-307(20.4)
+   IGFDMKRFDQHV    <76> SGDMNTSMGNCLLA  <46> NNGDDCVL  [104]
+   |||||+||||||         |||||||||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.7, Tolivirales (PH14 +24.7)
+
+>A0A1L3KGZ3_9VIRU/19-508
+   A:208-219(20.6)      B:279-292(28.9)      C:311-318(20.4)
+   IDLDASRFDQHQ    <83> SGDMNTSSGNCFTM  <46> NNGDDCVL  [111]
+   | |||||||||          |||||||+|||  |       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 69.9, Tolivirales (PH14 +9.9)
+
+>A0A1L3KGA6_9VIRU/16-504
+   A:211-222(20.6)      B:279-292(28.9)      C:310-317(20.4)
+   IDLDASRFDQHQ    <80> SGDMNTSSGNCFTM  <45> NNGDDCVL  [107]
+   | |||||||||          |||||||+|||  |       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 69.9, Tolivirales (PH14 +9.9)
+
+>A0A1L6C7T2_9TOMB/355-844
+   A:214-225(30.1)      B:278-291(32.9)      C:310-317(16.0)
+   IGFDASRFDQHV    <76> SGDMNTSLGNCILA  <46> NNGDDNVL  [104]
+   ||||||||||||         |||||||||||||.       ||||| |+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 79.1, Tolivirales (PH14 +20.9)
+
+>O37364_9VIRU/252-737
+   A:206-217(18.0)      B:272-285(24.0)      C:305-312(12.3)
+   VCLDASRFDLHV    <78> SGDSDTSLGNVSIM  <47> NDGDDQVL  [107]
+   |++|||||| ||         |||.||||||. ||       ||||| |+
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 54.4, PH14 (Tolivirales +3.2)
+
+>A0A1L3KGL0_9VIRU/11-497
+   A:207-218(30.9)      B:274-287(35.1)      C:306-313(21.3)
+   VGLDASRFDQHV    <79> SGDMNTSLGNCVLM  <46> NNGDDCVV  [107]
+   ||||||||||||         |||||||||||.||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 87.4, Tolivirales (PH14 +24.6)
+
+>A0A0C5BKM2_9VIRU/251-736
+   A:206-217(18.0)      B:270-283(25.5)      C:303-310(12.4)
+   VCLDASRFDLHV    <76> SGDNDTSLGNVIIM  <47> NDGDDQVI  [105]
+   |++|||||| ||         |||.||||||.+||       ||||| |+
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 56.0, PH14 (Tolivirales +2.0)
+
+>Q84694_PEMV2/60-526
+   A:196-207(30.9)      B:259-272(32.1)      C:291-298(18.7)
+   VGLDASRFDQHV    <75> SGDMDTSLGNCVLM  <46> NNGDDCIV  [103]
+   ||||||||||||         |||| ||||||.||       |||||| |
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.7, Tolivirales (PH14 +19.4)
+
+>A0A1L3KFQ4_9VIRU/14-480
+   A:197-208(30.9)      B:260-273(32.6)      C:292-299(18.7)
+   VGLDASRFDQHV    <75> SGDMDTALGNCLLM  <46> NNGDDCIV  [103]
+   ||||||||||||         |||| |||||||||       |||||| |
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 82.2, Tolivirales (PH14 +20.8)
+
+>Q8V3U5_9TOMB/337-807
+   A:199-210(30.9)      B:262-275(31.3)      C:294-301(18.7)
+   VGLDASRFDQHV    <75> SGDMDTALGNCVLM  <46> NNGDDCIV  [103]
+   ||||||||||||         |||| ||||||.||       |||||| |
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 80.9, Tolivirales (PH14 +20.3)
+
+>A0A1L3KFW7_9VIRU/13-479
+   A:199-210(30.9)      B:264-277(35.9)      C:296-303(19.2)
+   VGLDASRFDQHV    <77> SGDMNTALGNCLIM  <46> NDGDDCVV  [105]
+   ||||||||||||         ||||||||||||||       |+||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 86.1, Tolivirales (PH14 +23.6)
+
+>B6UQC5_9TOMB/346-812
+   A:198-209(30.9)      B:261-274(31.3)      C:293-300(15.8)
+   VGLDASRFDQHV    <75> SGDMDTALGNCVLM  <46> DNGDDCIV  [103]
+   ||||||||||||         |||| ||||||.||        ||||| |
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.1, Tolivirales (PH14 +18.3)
+
+>A0A097PAC9_9TOMB/337-807
+   A:199-210(30.9)      B:262-275(29.6)      C:294-301(17.7)
+   VGLDASRFDQHV    <75> SGDMDTALGNCTLM  <46> NNGDDCII  [103]
+   ||||||||||||         |||| |||||| ||       |||||| +
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.1, Tolivirales (PH14 +18.4)
+
+>A0A1Z1G753_9LUTE/386-864
+   A:203-214(29.3)      B:266-279(31.1)      C:298-305(20.3)
+   IGVDASRFDQHV    <75> SGDINTAMGNKLIM  <46> NNGDDCVI  [103]
+   ||.|||||||||         |||+||||||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 80.7, Tolivirales (PH14 +23.6)
+
+>A0A1L3KG36_9VIRU/3-469
+   A:190-201(30.9)      B:256-269(35.9)      C:288-295(21.3)
+   VGLDASRFDQHV    <78> SGDMNTALGNCLIM  <46> NNGDDCVV  [106]
+   ||||||||||||         ||||||||||||||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 88.2, Tolivirales (PH14 +25.7)
+
+>A0A077D8K4_9TOMB/315-785
+   A:199-210(30.9)      B:262-275(31.3)      C:294-301(15.8)
+   VGLDASRFDQHV    <75> SGDMDTALGNCVLM  <46> DNGDDCIV  [103]
+   ||||||||||||         |||| ||||||.||        ||||| |
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.1, Tolivirales (PH14 +18.3)
+
+>A0A1U8YMV9_9TOMB/343-810
+   A:199-210(30.9)      B:262-275(31.3)      C:294-301(18.5)
+   VGLDASRFDQHV    <75> SGDMDTALGNCVLM  <46> DNGDDCVV  [103]
+   ||||||||||||         |||| ||||||.||        |||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 80.7, Tolivirales (PH14 +20.6)
+
+>A0A1L3KG41_9VIRU/2-469
+   A:192-203(30.9)      B:258-271(35.9)      C:290-297(21.3)
+   VGLDASRFDQHV    <78> SGDMNTALGNCLIM  <46> NNGDDCVV  [106]
+   ||||||||||||         ||||||||||||||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 88.2, Tolivirales (PH14 +25.7)
+
+>Q66127_9TOMB/52-519
+   A:198-209(30.9)      B:261-274(31.3)      C:293-300(15.8)
+   VGLDASRFDQHV    <75> SGDMDTALGNCVLM  <46> DNGDDCIV  [103]
+   ||||||||||||         |||| ||||||.||        ||||| |
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 78.1, Tolivirales (PH14 +18.3)
+
+>Q9Q9R1_9VIRU/10-466
+   A:183-194(18.0)      B:244-257(26.5)      C:277-284(9.2)
+   LEVDGKAFEAHV    <73> SGDFNTGMGNSLIM  <47> CDGDNALL  [102]
+   .|+|||+|||||         |||+||+|||||||        |||+.|+
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 53.8, PH14 (Tolivirales +5.0)
+
+>A0A1L3KGI2_9VIRU/21-490
+   A:205-216(30.9)      B:269-282(35.9)      C:301-308(19.2)
+   VGLDASRFDQHV    <76> SGDMNTALGNCLIM  <46> NDGDDCVV  [104]
+   ||||||||||||         ||||||||||||||       |+||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 86.1, Tolivirales (PH14 +23.6)
+
+>A0A1L3KGH4_9VIRU/1-457
+   A:190-201(30.9)      B:253-266(33.1)      C:285-292(20.4)
+   VGLDASRFDQHV    <75> SGDINTGLGNCLIM  <46> NNGDDCVL  [103]
+   ||||||||||||         |||+||+|||||||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 84.4, Tolivirales (PH14 +24.1)
+
+>A0A1L3KFW2_9VIRU/1-456
+   A:180-191(26.2)      B:243-256(35.9)      C:275-282(21.3)
+   VLLDASRFDQHV    <75> SGDMNTALGNCLIM  <46> NNGDDCVV  [103]
+   | ||||||||||         ||||||||||||||       ||||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 83.5, Tolivirales (PH14 +21.9)
+
+>A0A1L3KFJ3_9VIRU/10-465
+   A:183-194(15.5)      B:243-256(24.5)      C:273-280(13.8)
+   ICADASRFDAYV    <72> SGDQNTALGNCIVN  <44> VDGDDSVI  [98]
+   ++.||||||| |         |||.||.||||+.|       |||||+|+
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 53.8, PH14 (Kitrino +5.7)
+
+>A0A1L3KFI8_9VIRU/52-507
+   A:193-204(13.7)      B:256-269(18.3)      C:289-296(14.9)
+   VCLDHSCFDGHY    <75> SGEFTTSHGNGETN  <47> VNGDDSVI  [104]
+   +..|.||||.|          |||.||| ||  ||       |+||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 46.9, Kitrino (PH14 +4.5)
+
+>A0A1L3KFS5_9VIRU/1-462
+   A:189-200(28.6)      B:252-265(30.5)      C:284-291(17.5)
+   LGLDASRFDQHV    <75> SGDMNTALGNIIIM  <46> NNGDDCTL  [103]
+    |||||||||||         |||||||||| |||       |||||| +
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 76.6, Tolivirales (PH14 +20.5)
+
+>A0A1L3KGK5_9VIRU/1-456
+   A:178-189(21.2)      B:242-255(32.4)      C:275-282(6.7)
+   VGLDASRFDQCI    <76> SGDMNTSLGNCIIS  <47> CDGDDLLL  [105]
+   ||||||||||           |||||||||||||         +||| ++
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 60.4, Tolivirales (PH14 +6.9)
+
+>A0A1L3KGK9_9VIRU/19-481
+   A:186-197(17.3)      B:247-260(28.9)      C:280-287(14.7)
+   FSLDCSRWDKHV    <73> SGDMNTALGNVTLM  <47> DDGDDCLV  [102]
+   . ||||| | ||         ||||||||||  ||        +||||+|
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 60.9, Tolivirales (PH14 +3.7)
+
+>A0A1L3KG48_9VIRU/452-917
+   A:200-211(15.7)      B:263-276(32.0)      C:295-302(11.2)
+   LLLDASNFDAHV    <75> SGDMNTGLGNSILM  <46> VDGDDSVV  [103]
+     |||| || ||         ||||||+|||+|||        +||| ||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 58.9, Tolivirales (PH14 +0.4)
+
+>A0A1L3KGP1_9VIRU/22-480
+   A:196-207(17.8)      B:257-270(22.2)      C:289-296(10.8)
+   LLLDHSRFDAHV    <73> SGDINTGVGNTVLN  <46> LDGDDSVV  [101]
+   . +|.|||||||         ||| ||+ |||.+|        ||||+||
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 50.8, PH14 (Kitrino +5.5)
+
+>A0A1L3KFQ8_9VIRU/4-462
+   A:184-195(30.9)      B:251-264(35.9)      C:283-290(19.2)
+   VGLDASRFDQHV    <79> SGDMNTALGNCLIM  <46> NDGDDCVV  [107]
+   ||||||||||||         ||||||||||||||       |+||||||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 86.1, Tolivirales (PH14 +23.6)
+
+>S4TYN1_9VIRU/210-687
+   A:205-216(22.0)      B:268-281(31.6)      C:300-307(13.7)
+   VSLDASRFDLHV    <75> SGDMDTALGNCVIM  <46> DNGDDCLF  [103]
+   | ||||||| ||         |||| ||||||.||        |||||+ 
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 67.2, Tolivirales (PH14 +9.1)
+
+>A0A1L3KFP7_9VIRU/3-462
+   A:179-190(9.3)      B:245-258(16.1)      C:282-289(10.3)
+   TIGDYTSYEASF   <78> SGESDTALSNALDN  <51> VEGDDNAS  [111]
+   + .|||+| .|         ||| +|+| | + |       ++|||+. 
+   venDysafDssq        SGergTslgNtlvN       flGDDsli
+Score 35.7, PH5 (PH14 +1.0)
+
+>RDRP_POLVP/251-722
+   A:205-216(29.4)      B:268-281(33.9)      C:300-307(17.9)
+   VGLDASRFDQHC    <75> SGDMNTSMGNYLIM  <46> NCGDDCVL  [103]
+   |||||||||||+         |||||||||| |||       |.|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.2, Tolivirales (PH14 +23.7)
+
+>O12301_GAMV/231-708
+   A:202-213(30.8)      B:266-279(36.7)      C:298-305(20.4)
+   IGLDASRFDQHV    <76> SGDMNTSLGNCLIM  <46> NNGDDCVL  [104]
+   ||||||||||||         ||||||||||||||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 87.9, Tolivirales (PH14 +24.6)
+
+>RDRP_CARMS/267-744
+   A:204-215(29.1)      B:268-281(26.7)      C:297-304(20.4)
+   IGFDMSRFDQHV    <76> IGDMNTALGNCLLA  <43> NNGDDCVL  [101]
+   ||||||||||||          ||||||||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 76.3, Tolivirales (PH14 +26.1)
+
+>RDRP_CRV/325-800
+   A:203-214(29.3)      B:267-280(30.7)      C:300-307(17.9)
+   IGLDASRFDQHC    <76> SGDINTSLGNYLLM  <47> NCGDDCVL  [105]
+   |||||||||||+         |||+|||||| |||       |.|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 77.9, Tolivirales (PH14 +23.7)
+
+>A0A1L3KGE9_9VIRU/1-476
+   A:197-208(16.1)      B:264-277(19.8)      C:297-304(18.4)
+   LSIDMAKFDQHV    <79> SGCMHTSLGNIIIM  <47> NDGDDCVL  [108]
+      || +|||||         || | ||||| |||       |+|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 54.2, Tolivirales (Kitrino +7.5)
+
+>Q9IR83_9TOMB/236-712
+   A:205-216(27.4)      B:268-281(29.4)      C:298-305(20.4)
+   VGFDMKRFDQHV    <75> SGDVNTAMGNCLLA  <44> NNGDDCVL  [101]
+   |||||+||||||         ||| |||||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 77.2, Tolivirales (PH14 +24.3)
+
+>Q8V2F7_BLRV/390-868
+   A:203-214(29.3)      B:266-279(31.9)      C:298-305(20.3)
+   IGVDASRFDQHV    <75> SGDINTSMGNKLIM  <46> NNGDDCVI  [103]
+   ||.|||||||||         |||+||||||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.5, Tolivirales (PH14 +22.7)
+
+>C7E3L1_9TOMB/267-745
+   A:207-218(29.2)      B:271-284(32.2)      C:300-307(20.4)
+   VGFDMSRFDQHV    <76> SGDMNTALGNCILA  <43> NNGDDCVL  [101]
+   ||||||||||||         |||||||||||||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.8, Tolivirales (PH14 +25.6)
+
+>B3FHB8_9LUTE/396-874
+   A:203-214(29.3)      B:266-279(31.3)      C:298-305(20.3)
+   IGVDASRFDQHV    <75> SGDINTSMGNKIIM  <46> NNGDDCVI  [103]
+   ||.|||||||||         |||+||||||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 80.9, Tolivirales (PH14 +22.4)
+
+>Q91QR4_9LUTE/24-502
+   A:203-214(29.3)      B:266-279(30.2)      C:298-305(20.3)
+   IGVDASRFDQHV    <75> SGDINTSSGNKLIM  <46> NNGDDCVI  [103]
+   ||.|||||||||         |||+|||+||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 79.8, Tolivirales (PH14 +21.8)
+
+>A0A1Q1MK97_9TOMB/256-734
+   A:205-216(27.3)      B:268-281(28.5)      C:298-305(20.4)
+   IGFDMKRFDQHV    <75> SGDMNTSMGNIILA  <44> NNGDDCVL  [101]
+   |||||+||||||         |||||||||| ||.       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 76.2, Tolivirales (PH14 +22.7)
+
+>Q70P86_9TOMB/305-777
+   A:207-218(29.4)      B:270-283(33.9)      C:302-309(17.9)
+   VGLDASRFDQHC    <75> SGDMNTSMGNYLIM  <46> NCGDDCVL  [103]
+   |||||||||||+         |||||||||| |||       |.|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.2, Tolivirales (PH14 +23.7)
+
+>A5YVA4_9TOMB/307-779
+   A:207-218(29.4)      B:270-283(33.9)      C:302-309(17.9)
+   VGLDASRFDQHC    <75> SGDMNTSMGNYLIM  <46> NCGDDCVL  [103]
+   |||||||||||+         |||||||||| |||       |.|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.2, Tolivirales (PH14 +23.7)
+
+>A0A1I9W765_9LUTE/386-864
+   A:203-214(29.3)      B:266-279(31.1)      C:298-305(20.3)
+   IGVDASRFDQHV    <75> SGDINTAMGNKLIM  <46> NNGDDCVI  [103]
+   ||.|||||||||         |||+||||||.|||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 80.7, Tolivirales (PH14 +23.6)
+
+>A0A1L3KH37_9VIRU/172-644
+   A:202-213(30.9)      B:265-278(33.3)      C:297-304(20.4)
+   VGLDASRFDQHV    <75> SGDINTGMGNCLLM  <46> NNGDDCVL  [103]
+   ||||||||||||         |||+||+|||||||       |||||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 84.6, Tolivirales (PH14 +24.8)
+
+>A8CZ12_9TOMB/251-722
+   A:205-216(29.4)      B:268-281(33.9)      C:300-307(17.9)
+   VGLDASRFDQHC    <75> SGDMNTSMGNYLIM  <46> NCGDDCVL  [103]
+   |||||||||||+         |||||||||| |||       |.|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.2, Tolivirales (PH14 +23.7)
+
+>V5LKD9_9TOMB/251-722
+   A:205-216(29.4)      B:268-281(33.9)      C:300-307(17.9)
+   VGLDASRFDQHC    <75> SGDMNTSMGNYLIM  <46> NCGDDCVL  [103]
+   |||||||||||+         |||||||||| |||       |.|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 81.2, Tolivirales (PH14 +23.7)
+
+>A0A1L3KGL5_9VIRU/15-489
+   A:204-215(30.9)      B:267-280(31.5)      C:299-306(17.6)
+   VGLDASRFDQHV    <75> SGDMNTSLGNKFLM  <46> NNGDDCLM  [103]
+   ||||||||||||         ||||||||||. ||       ||||||+ 
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 79.9, Tolivirales (PH14 +19.9)
+
+>A0A1L3KFN7_9VIRU/545-1017
+   A:197-208(18.4)      B:257-270(25.3)      C:287-294(13.2)
+   LCLDAHRWDAHL    <72> SGDLNTALGNCLIN  <44> VDGDDGIV  [98]
+   .++||.|||||.         ||| ||.|||||||       |||||.+|
+   velDasrwDaHv         SGDmdTslGNslin       vdGDDclv
+Score 56.9, PH14 (Kitrino +12.4)
+
+>Q9E352_MNESV/296-770
+   A:203-214(29.3)      B:267-280(30.7)      C:300-307(17.9)
+   IGLDASRFDQHC    <76> SGDINTSLGNYLLM  <47> NCGDDCVL  [105]
+   |||||||||||+         |||+|||||| |||       |.|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 77.9, Tolivirales (PH14 +23.7)
+
+>RDRP_TBSVC/325-800
+   A:203-214(29.3)      B:267-280(30.7)      C:300-307(17.9)
+   IGLDASRFDQHC    <76> SGDINTSLGNYLLM  <47> NCGDDCVL  [105]
+   |||||||||||+         |||+|||||| |||       |.|||||+
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 77.9, Tolivirales (PH14 +23.7)
+
+>A0A1L3KFT6_9VIRU/5-477
+   A:202-213(18.1)      B:266-279(30.9)      C:298-305(7.4)
+   IGQDYSKFDQHI    <76> SGDMNTALGNCVIS  <46> VDGDDSVA  [104]
+   || | |+||||          |||||||||||.|         +||| | 
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 56.4, Tolivirales (PH14 +3.6)
+
+>A0A1L3KFQ1_9VIRU/5-478
+   A:203-214(16.9)      B:267-280(32.1)      C:299-306(11.2)
+   VGHDFSKFDQHI    <76> SGDMNTAMGNCIIS  <46> VDGDDSVV  [104]
+   || | |+||||          |||||||||||||         +||| ||
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 60.2, Tolivirales (PH14 +7.7)
+
+>A0A1L3KFP1_9VIRU/15-488
+   A:198-209(25.2)      B:262-275(27.8)      C:294-301(9.5)
+   VGLDASRFDQSI    <76> SGDQNTSLGNCLIS  <46> NDGDDLLM  [104]
+   ||||||||||.          ||| |||||||||        |+||| + 
+   vGLDASRFDQHV         SGDMNTSLGNCLLM       NNGDDCVv
+Score 62.4, Tolivirales (PH14 +7.6)

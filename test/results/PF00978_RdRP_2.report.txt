@@ -1,0 +1,2646 @@
+
+>E7FL32_RUBV/1804-2087
+   A:70-81(21.2)      B:130-143(25.8)      C:161-168(14.4)
+   IEVDFTEFDMNQ  <72> SGEPATLLHNTTVA  <45> FQGDDMVI  [99]
+    | ||||||++|       ||||.|||+||+ .       |+|||+|.
+   FENDFSEFDSTQ       SGEPGTLLwNTVWN       FKGDDSVV
+Score 61.4, Hepelivirales (PH5 +19.2)
+
+>RDRP_PVXX3/1110-1444
+   A:130-141(27.9)      B:186-199(31.7)      C:217-224(15.1)
+   LANDYTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDSAL  [95]
+   .|||||||||||         ||||||||||||||       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 74.7, Tymovirales (Kitrino +23.8)
+
+>A0A177SXW6_9BASI/114-422
+   A:195-206(18.4)      B:251-264(24.3)      C:282-289(13.7)
+   TANDYTAWDSGC    <68> SGDRWTWLLNTLRN  <45> FSGDDSVV  [95]
+   +.|||||||| |         ||||||||+||+.|       |+||||++
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 56.4, PH5 (Kitrino +6.0)
+
+>A0A2P1JHW7_9VIRU/1649-2065
+   A:212-223(30.2)      B:268-281(32.0)      C:299-306(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A0A0A0YT49_9VIRU/1080-1440
+   A:159-170(24.8)      B:215-228(31.1)      C:246-253(12.3)
+   YTSDYTQYDQSQ    <68> SGEGPTFDANTECN  <45> YAGDDLVR  [95]
+   |+||||.+||||         ||||||||||||||       ||||| + 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 68.2, Tymovirales (Kitrino +19.7)
+
+>F5BIK4_9BROM/308-745
+   A:207-218(27.6)      B:269-282(28.6)      C:300-307(15.3)
+   LEIDLSKFDKSQ    <74> TGDAFTYFGNTIVT  <45> FSGDDSLG  [101]
+   ||||+|||||||         ||||+|||||||||       ||||||| 
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 71.4, Martellivirales (Kitrino +17.7)
+
+>A0A1Z2RSY7_9VIRU/1908-2350
+   A:219-230(27.6)      B:281-294(20.4)      C:312-319(17.3)
+   LEIDISKYDKSQ    <74> SGDASTFIGNTLFL  <45> FSGDDSLL  [101]
+   ||||||||||||         |||| |||||||         |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 65.3, Martellivirales (Nidovirales +6.3)
+
+>RDRP_TOML/1168-1609
+   A:216-227(25.1)      B:278-291(24.5)      C:309-316(16.9)
+   LELDVSKYDKSQ    <74> SGDVTTFIGNTVII  <45> FCGDDSLL  [101]
+   ||+| |||||||         |||+|||||||+|.       |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.5, Martellivirales (Kitrino +13.7)
+
+>RDRP_TMV/1168-1609
+   A:216-227(26.5)      B:278-291(24.5)      C:309-316(16.9)
+   LELDISKYDKSQ    <74> SGDVTTFIGNTVII  <45> FCGDDSLL  [101]
+   ||+|||||||||         |||+|||||||+|.       |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.0, Martellivirales (Kitrino +14.2)
+
+>A0A1L3KJQ2_9VIRU/1764-2122
+   A:156-167(6.1)      B:218-231(15.9)      C:249-256(9.9)
+   YNFDLSQQDCCK   <74> SGSPWTLCSNTLME  <45> FQGDDATV  [101]
+   .  |.|+|| +         ||.|||.+ ||+.        |.|||  +
+   venDysafDssq        SGergTslgNtlvN       flGDDsli
+Score 31.9, PH5 (Kitrino +4.1)
+
+>K4MTI1_9VIRU/1613-1974
+   A:214-225(30.2)      B:270-283(32.6)      C:301-308(20.4)
+   TESDYEAFDASQ    <68> TGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 83.2, Tymovirales (Kitrino +28.6)
+
+>A0A220NQ47_9VIRU/1021-1378
+   A:154-165(22.3)      B:210-223(31.1)      C:241-248(12.3)
+   YTSDYSQYDQSQ    <68> SGEGPTFDANTECN  <45> YAGDDLVR  [95]
+   |+||| .+||||         ||||||||||||||       ||||| + 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 65.7, Tymovirales (Kitrino +16.2)
+
+>O09498_9VIRU/1093-1452
+   A:158-169(24.8)      B:214-227(31.1)      C:245-252(12.3)
+   YTSDYTQYDQSQ    <68> SGEGPTFDANTECN  <45> YAGDDLVR  [95]
+   |+||||.+||||         ||||||||||||||       ||||| + 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 68.2, Tymovirales (Kitrino +19.7)
+
+>Q9IMS9_9VIRU/1443-1802
+   A:197-208(26.4)      B:253-266(31.6)      C:284-291(20.4)
+   VESDYTAFDVSQ    <68> TGEFSTFLFNTLAN  <45> FAGDDMCA  [95]
+   +|||||||| ||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 78.4, Tymovirales (Kitrino +26.0)
+
+>RDRP_SHVX/1261-1620
+   A:156-167(24.8)      B:212-225(26.2)      C:243-250(12.3)
+   YTSDYTQYDQSQ    <68> SAEGPTFDANTECN  <45> YAGDDLVR  [95]
+   |+||||.+||||         | ||||||||||||       ||||| + 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 63.3, Tymovirales (Kitrino +19.7)
+
+>RDRP_BNYVS/1683-2051
+   A:156-167(17.9)      B:216-229(30.1)      C:247-254(14.4)
+   GVIDAAACDSGQ    <72> SGEPGTLLGNTILM  <45> MKGDDGFK  [99]
+   +++|+ +|||+|         ||||||||.|||+|       +||||+|+
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 62.4, Hepelivirales (PH5 +27.3)
+
+>A0A0A0P710_9VIRU/1425-1793
+   A:212-223(28.7)      B:268-281(30.8)      C:299-306(19.8)
+   VESDYEAFDASQ    <68> TGEFGTFFFNTLAN  <45> FAGDDMCI  [95]
+   +|||||||||||         |||||||+|||+||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 79.3, Tymovirales (Kitrino +24.5)
+
+>A0A345F6V0_9VIRU/1427-1794
+   A:177-188(28.0)      B:233-246(26.2)      C:264-271(19.8)
+   VENDYEAFDSSQ    <68> TGEFCTFLFNSLSN  <45> FAGDDMCI  [95]
+   +||||||||+||         ||||||||||.+ |       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 74.0, Tymovirales (Kitrino +20.4)
+
+>A0A2S1ZRD8_9VIRU/1558-1931
+   A:213-224(28.2)      B:269-282(32.2)      C:300-307(19.8)
+   IESDYEAFDASQ    <68> TGEFGTFFFNTMAN  <45> FAGDDMCI  [95]
+   .|||||||||||         |||||||+||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 80.2, Tymovirales (Kitrino +25.2)
+
+>RDRP_BOTVX/973-1343
+   A:174-185(20.8)      B:230-243(31.1)      C:260-267(12.8)
+   YTSDYTQYDKSQ    <68> SGEGPTFDANTECN  <44> YAGDDLAR  [94]
+   |+||||.+| ||         ||||||||||||||       ||||| | 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 64.6, Tymovirales (Kitrino +18.3)
+
+>F5BB17_9VIRU/1331-1694
+   A:149-160(27.7)      B:209-222(33.1)      C:240-247(17.9)
+   YENDFSAFDSTQ    <72> SGEPGTMLFNTIWN  <45> FKGDDSLV  [99]
+    |||||+|||||         ||||||.|||||||       ||||||.|
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 78.7, Hepelivirales (PH5 +19.4)
+
+>RDRP_SSDRV/1178-1541
+   A:195-206(21.3)      B:251-264(28.7)      C:282-289(11.3)
+   TINDCEAFDASQ    <68> SGEGPTYDFNTWAN  <45> YSGDDFAC  [95]
+   | || |||||||         ||||||||||| ||       ||||| |.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 61.3, Tymovirales (Kitrino +18.1)
+
+>A0A346FH31_9CLOS/1-372
+   A:146-157(26.5)      B:208-221(22.3)      C:239-246(17.7)
+   GEVDFSKFDKSQ    <74> SGASNTWVGNCLVT  <45> VSGDDSLI  [101]
+   .|+|||||||||         ||..||| ||.|||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.5, Martellivirales (Kitrino +16.0)
+
+>A0A386GY22_9VIRU/1618-1985
+   A:153-164(17.9)      B:213-226(27.8)      C:244-251(14.4)
+   SVIDATACDSGQ    <72> SGEPGTLLGNSILM  <45> MKGDDGFK  [99]
+    ++|+|+|||+|         ||||||||.|+|+|       +||||+|+
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 60.1, Hepelivirales (PH5 +23.8)
+
+>A0A1L3KJT6_9VIRU/1101-1463
+   C:128-135(5.2)      A:168-179(8.0)      B:231-244(6.5)
+   YSEEDMAR       <48> HSCDQTQFDSRQ   <75> SGEPFTLDGNSLVT  [117]
+   ||  |||             +  | |.||+ |        |||| | | |.+  
+   FAGDDMca            teSDYEAFDqSQ        TGEagTFlFNTmaN
+Score 19.8 permuted, Tymovirales
+
+>A0A1W5W6E2_9VIRU/1403-1767
+   A:202-213(28.7)      B:258-271(31.4)      C:289-296(19.5)
+   VESDYEAFDASQ    <68> TGEFCTFLFNTLAN  <45> FAGDDMCS  [95]
+   +|||||||||||         |||||||||||+||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 79.6, Tymovirales (Kitrino +26.3)
+
+>A0A1L3KJJ7_9VIRU/1774-2139
+   A:155-166(10.1)      B:215-228(17.4)      C:246-253(13.1)
+   VFTDFTEFDTFH    <72> SGQPDTLLKNTLFS  <45> FCGDDSVL  [99]
+   | .|||.||+ +         ||||+|.| ||++        |.||||+.
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 40.6, PH5 (Kitrino +1.0)
+
+>A0A1L3KJR4_9VIRU/959-1300
+   A:169-180(7.8)      B:229-242(14.0)      C:264-271(8.1)
+   YSIDVKEMDSTY   <72> SGEPCTLIKNSIWA  <49> HKGDDIGI  [103]
+   .+ | ...|||         ||||.|.+ |+|.        .+|||  |
+   venDysafDssq        SGergTslgNtlvN       flGDDsli
+Score 30.0, PH5 (Kitrino +1.8)
+
+>A0A1L3KK06_9VIRU/1302-1643
+   A:123-134(18.1)      B:183-196(19.2)      C:212-219(11.9)
+   FCNDFTEYDSCQ    <72> SGEPFTLIGNTIFT  <43> VKGDDSAA  [97]
+   ++||||.|||+|         |||| |.+||||+        ++||||..
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 49.2, PH5 (Hepelivirales +2.8)
+
+>A0A345GSD2_9VIRU/1191-1531
+   A:151-162(26.9)      B:207-220(31.7)      C:238-245(15.6)
+   YANDFTAFDQSQ    <68> TGEGPTFDANTECN  <45> FAGDDSAL  [95]
+   ||||||||||||         ||||||||||||||       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 74.1, Tymovirales (Kitrino +21.9)
+
+>A0A288XSF8_9VIRU/1278-1622
+   A:199-210(27.6)      B:255-268(29.9)      C:286-293(17.1)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTICN  <45> FAGDDMYS  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||.+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 74.6, Tymovirales (PH5 +23.9)
+
+>Q6UNI1_9VIRU/1201-1545
+   A:142-153(29.0)      B:198-211(31.7)      C:229-236(12.8)
+   YANDYTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDCAF  [95]
+   ||||||||||||         ||||||||||||||       |||||.| 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.5, Tymovirales (Kitrino +21.9)
+
+>A0A2U7MWY3_9VIRU/889-1233
+   A:134-145(26.6)      B:194-207(12.4)      C:224-231(15.1)
+   VCNDFTEFDSTQ    <72> SGEANTLFGNTVVT  <44> FKGDDSII  [98]
+    +||||||||||         |||  || .|||         |||||| .
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 54.2, Hepelivirales (PH5 +2.1)
+
+>G8H9D4_9VIRU/1277-1614
+   A:191-202(27.6)      B:247-260(29.9)      C:278-285(17.5)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTICN  <45> YAGDDMYA  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||.|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 75.0, Tymovirales (PH5 +24.0)
+
+>POLN_HEVCH/1341-1676
+   A:117-128(32.2)      B:177-190(37.6)      C:208-215(17.0)
+   FENDFSEFDSTQ    <72> SGEPGTLLWNTVWN  <45> FKGDDSIV  [99]
+   ||||||||||||         ||||||||||||||       |||||| |
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 86.8, Hepelivirales (PH5 +31.0)
+
+>A0A2K8JAV9_9VIRU/1300-1635
+   A:177-188(27.6)      B:233-246(32.4)      C:264-271(18.2)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTMCN  <45> FAGDDMVA  [95]
+   |.|||||||+||         |||||||+||||||       ||||||+|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 78.1, Tymovirales (Kitrino +25.3)
+
+>F8VAF9_9VIRU/1089-1427
+   A:153-164(24.8)      B:209-222(31.1)      C:240-247(12.3)
+   YTSDYTQYDQSQ    <68> SGEGPTFDANTECN  <45> YAGDDLVR  [95]
+   |+||||.+||||         ||||||||||||||       ||||| + 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 68.2, Tymovirales (Kitrino +19.7)
+
+>A0A096XMB6_9VIRU/1017-1355
+   A:135-146(26.9)      B:191-204(31.7)      C:222-229(17.4)
+   YANDFTAFDQSQ    <68> TGEGPTFDANTECN  <45> FAGDDMAQ  [95]
+   ||||||||||||         ||||||||||||||       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 76.0, Tymovirales (Kitrino +25.9)
+
+>B3Y531_9VIRU/1302-1641
+   A:176-187(27.6)      B:232-245(32.4)      C:263-270(18.2)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTMCN  <45> FAGDDMVA  [95]
+   |.|||||||+||         |||||||+||||||       ||||||+|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 78.1, Tymovirales (Kitrino +25.3)
+
+>A0A1X9PY63_9VIRU/1258-1608
+   A:151-162(24.9)      B:207-220(31.1)      C:238-245(12.3)
+   YTSDYEQYDQSQ    <68> SGEGPTFDANTECN  <45> YAGDDLVR  [95]
+   |+||||.+||||         ||||||||||||||       ||||| + 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 68.3, Tymovirales (Kitrino +20.4)
+
+>S6AVG4_9VIRU/1795-2144
+   A:157-168(17.9)      B:217-230(30.6)      C:248-255(14.2)
+   GVIDAAACDSGQ    <72> SGEPGTLLGNTVLM  <45> IKGDDGFK  [99]
+   +++|+ +|||+|         ||||||||.|||+|       .||||+|+
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 62.7, Hepelivirales (PH5 +28.1)
+
+>A0A2H4ZU23_9VIRU/1174-1522
+   A:146-157(25.8)      B:202-215(31.7)      C:233-240(15.9)
+   LANDFTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDSAI  [95]
+   .|||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.4, Tymovirales (Kitrino +22.2)
+
+>A0A075DMT8_9VIRU/1334-1689
+   A:204-215(25.6)      B:260-273(27.5)      C:291-298(15.9)
+   TDSDYESFDRSQ    <68> TGEFGTFFLNTCCN  <45> FAGDDMFS  [95]
+   |.||||.||+||         |||||||+ || ||       |||||| +
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 69.0, Tymovirales (PH5 +22.2)
+
+>A0A1X9ZMU6_9VIRU/1123-1480
+   A:195-206(27.6)      B:251-264(29.2)      C:282-289(18.2)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTVCN  <45> FAGDDMVA  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||+|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 75.0, Tymovirales (Kitrino +23.1)
+
+>Q6UNI6_9VIRU/1179-1532
+   A:152-163(29.0)      B:208-221(31.7)      C:239-246(12.8)
+   YANDYTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDCAF  [95]
+   ||||||||||||         ||||||||||||||       |||||.| 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.5, Tymovirales (Kitrino +21.9)
+
+>RDRP_CLBVS/1541-1886
+   A:202-213(28.7)      B:258-271(31.4)      C:289-296(20.4)
+   VESDYEAFDASQ    <68> TGEFCTFLFNTLAN  <45> FAGDDMCA  [95]
+   +|||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 80.5, Tymovirales (Kitrino +26.5)
+
+>Q52V15_9VIRU/71-416
+   A:192-203(27.6)      B:248-261(29.9)      C:279-286(17.5)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTICN  <45> YAGDDMYA  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||.|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 75.0, Tymovirales (PH5 +24.0)
+
+>A0A2H4N946_9VIRU/1309-1653
+   A:175-186(27.6)      B:231-244(29.9)      C:262-269(18.2)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTICN  <45> FAGDDMVA  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||+|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 75.7, Tymovirales (Kitrino +22.9)
+
+>A0A3G1GJ42_9VIRU/991-1338
+   A:153-164(24.9)      B:209-222(31.1)      C:240-247(12.3)
+   YTSDYEQYDQSQ    <68> SGEGPTFDANTECN  <45> YAGDDLVR  [95]
+   |+||||.+||||         ||||||||||||||       ||||| + 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 68.3, Tymovirales (Kitrino +20.4)
+
+>A0A0A0P9V6_9VIRU/1428-1774
+   A:206-217(28.7)      B:262-275(27.8)      C:293-300(19.8)
+   VESDYEAFDASQ    <68> TGEFGTFFLNTLAN  <45> FAGDDMCI  [95]
+   +|||||||||||         |||||||+ ||+||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 76.4, Tymovirales (Kitrino +22.0)
+
+>W0UU68_9VIRU/1253-1601
+   A:207-218(28.7)      B:263-276(31.6)      C:294-301(20.4)
+   VESDYEAFDASQ    <68> TGEFSTFLFNTLAN  <45> FAGDDMCA  [95]
+   +|||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 80.7, Tymovirales (Kitrino +26.7)
+
+>A7XVN0_9VIRU/1677-2050
+   A:153-164(17.9)      B:213-226(30.1)      C:244-251(14.2)
+   GVIDAAACDSGQ    <72> SGEPGTLLGNTILM  <45> IKGDDGFK  [99]
+   +++|+ +|||+|         ||||||||.|||+|       .||||+|+
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 62.2, Hepelivirales (PH5 +27.0)
+
+>Q5GR23_9VIRU/1586-1995
+   A:205-216(30.2)      B:261-274(32.0)      C:292-299(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A0A0A7MB61_9VIRU/1585-1994
+   A:205-216(30.2)      B:261-274(32.0)      C:292-299(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>B9UZ23_9VIRU/1537-1946
+   A:205-216(30.2)      B:261-274(32.0)      C:292-299(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>C7AGE9_9VIRU/1578-1988
+   A:206-217(30.2)      B:262-275(32.0)      C:293-300(19.5)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   ||||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.7, Tymovirales (Kitrino +26.5)
+
+>Q8UZK2_9VIRU/1420-1830
+   A:206-217(29.5)      B:262-275(29.6)      C:293-300(20.4)
+   TESDYEAFDSSQ    <68> TGEAATFLFNTMAN  <45> FAGDDMCA  [95]
+   |||||||||+||         |||| |||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 79.6, Tymovirales (Kitrino +25.7)
+
+>O91901_9VIRU/1741-2151
+   A:207-218(30.2)      B:263-276(32.6)      C:294-301(20.4)
+   TESDYEAFDASQ    <68> TGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 83.2, Tymovirales (Kitrino +28.6)
+
+>K4P1P6_9VIRU/1247-1655
+   A:202-213(27.5)      B:258-271(31.6)      C:289-296(19.1)
+   LESDYEAFDSSQ    <68> TGEFGTFLFNTLAN  <45> FAGDDMCC  [95]
+   .||||||||+||         |||||||||||+||       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 78.1, Tymovirales (Kitrino +23.9)
+
+>A0A173G8G7_9VIRU/1548-1956
+   A:204-215(29.5)      B:260-273(32.0)      C:291-298(20.4)
+   TESDYEAFDSSQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   |||||||||+||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.9, Tymovirales (Kitrino +25.3)
+
+>A0A0F7KL09_9VIRU/1087-1495
+   A:212-223(24.1)      B:274-287(16.9)      C:305-312(15.3)
+   VEIDISKFDKSK    <74> SGNCDTYGSNTWCA  <45> FGGDDSLV  [101]
+   .||||||||||.         ||.+.|| +|||         |.|||||.
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 56.4, Martellivirales (Kitrino +10.5)
+
+>Q0QBU6_9VIRU/1526-1935
+   A:205-216(30.2)      B:261-274(32.0)      C:292-299(19.5)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   ||||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.7, Tymovirales (Kitrino +26.5)
+
+>RDRP_BBSCV/1547-1956
+   A:205-216(30.2)      B:261-274(32.0)      C:292-299(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>I1W5T2_9VIRU/1559-1968
+   A:205-216(30.2)      B:261-274(32.0)      C:292-299(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>G5CCW5_9VIRU/1508-1918
+   A:206-217(30.2)      B:262-275(32.0)      C:293-300(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>Q993S7_9VIRU/1334-1748
+   A:213-224(28.2)      B:269-282(29.6)      C:300-307(19.1)
+   IESDYEAFDASQ    <68> TGEAATFLFNTMAN  <45> FAGDDMCM  [95]
+   .|||||||||||         |||| |||||||||       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 77.0, Tymovirales (Kitrino +23.4)
+
+>M9QSD3_9VIRU/1595-2008
+   A:209-220(29.5)      B:265-278(31.1)      C:296-303(20.4)
+   TESDYEAFDSSQ    <68> TGEAGTFLFNTLAN  <45> FAGDDMCA  [95]
+   |||||||||+||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.1, Tymovirales (Kitrino +25.9)
+
+>A0A068EN58_9VIRU/1605-2018
+   A:209-220(29.5)      B:265-278(31.1)      C:296-303(20.4)
+   TESDYEAFDSSQ    <68> TGEAGTFLFNTLAN  <45> FAGDDMCA  [95]
+   |||||||||+||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.1, Tymovirales (Kitrino +25.9)
+
+>A8C5N0_9VIRU/1713-2127
+   A:210-221(30.2)      B:266-279(32.6)      C:297-304(20.4)
+   TESDYEAFDASQ    <68> TGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 83.2, Tymovirales (Kitrino +28.6)
+
+>Q9IH80_9VIRU/1605-2019
+   A:210-221(29.5)      B:266-279(31.1)      C:297-304(20.4)
+   TESDYEAFDSSQ    <68> TGEAGTFLFNTLAN  <45> FAGDDMCA  [95]
+   |||||||||+||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.1, Tymovirales (Kitrino +25.9)
+
+>A0A1L3KGR2_9VIRU/398-812
+   A:214-225(18.7)      B:281-294(20.8)      C:324-331(11.6)
+   MEDDFSSYDSTQ    <79> SGDQNTSIGNTVIN  <57> GLGDDNLM  [118]
+   .|.|||+|||||         |||  ||+|||+.|        +|||+|+
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 51.1, PH5 (PH2 +2.9)
+
+>A0A0A8JEL2_9CLOS/1-413
+   A:187-198(27.2)      B:249-262(27.4)      C:280-287(13.1)
+   GEIDFSKYDKSQ    <74> SGGANTFLGNTIVN  <45> VAGDDSVM  [101]
+   .|||||||||||         ||.|||||||||||       |.|||| |
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.7, Martellivirales (Martellivirales +9.1)
+
+>Q70WL7_LSV/1528-1938
+   A:206-217(30.2)      B:262-275(32.0)      C:293-300(19.5)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   ||||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.7, Tymovirales (Kitrino +26.5)
+
+>Q8QXY8_9VIRU/1500-1913
+   A:209-220(25.6)      B:265-278(30.5)      C:296-303(20.4)
+   TESDCEAFDASQ    <68> SGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   |||| |||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 76.6, Tymovirales (Kitrino +24.1)
+
+>J7GS73_9VIRU/1579-1991
+   A:208-219(30.2)      B:264-277(31.1)      C:295-302(20.4)
+   TESDYEAFDASQ    <68> TGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.8, Tymovirales (Kitrino +27.4)
+
+>V5NX44_9VIRU/1086-1470
+   A:183-194(24.8)      B:239-252(31.1)      C:270-277(12.3)
+   YTSDYTQYDQSQ    <68> SGEGPTFDANTECN  <45> YAGDDLVR  [95]
+   |+||||.+||||         ||||||||||||||       ||||| + 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 68.2, Tymovirales (Kitrino +19.7)
+
+>RDRP_ACLSA/1442-1827
+   A:196-207(26.4)      B:252-265(31.6)      C:283-290(20.4)
+   VESDYTAFDVSQ    <68> TGEFSTFLFNTLAN  <45> FAGDDMCA  [95]
+   +|||||||| ||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 78.4, Tymovirales (Kitrino +26.0)
+
+>Q8QXW5_9VIRU/1072-1463
+   A:192-203(24.8)      B:248-261(31.1)      C:279-286(12.3)
+   YTSDYTQYDQSQ    <68> SGEGPTFDANTECN  <45> YAGDDLVR  [95]
+   |+||||.+||||         ||||||||||||||       ||||| + 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 68.2, Tymovirales (Kitrino +19.7)
+
+>A0A1L3KKG6_9VIRU/1622-2033
+   A:208-219(8.3)      B:268-281(15.0)      C:299-306(13.2)
+   MSVDIKEQDTTK   <72> SGRPDTLLDNTLMT  <45> AQGDDGYI  [99]
+    |+|||  |++         |||||| . .|+|        .|||||.+
+   sSiDIsGMDASi        SGradTSahHTvlL       vqGDDifl
+Score 36.5, PH16 (PH5 +2.8)
+
+>Q4U0G5_9VIRU/1511-1923
+   A:208-219(30.2)      B:264-277(32.0)      C:295-302(19.5)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   ||||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.7, Tymovirales (Kitrino +26.5)
+
+>RDRP_ACLSP/1445-1827
+   A:192-203(26.4)      B:248-261(31.6)      C:279-286(20.4)
+   VESDYTAFDVSQ    <68> TGEFSTFLFNTLAN  <45> FAGDDMCA  [95]
+   +|||||||| ||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 78.4, Tymovirales (Kitrino +26.0)
+
+>A0A1L3KJT7_9VIRU/1929-2318
+   A:183-194(9.4)      B:244-257(17.6)      C:275-282(9.4)
+   VESDITQMDSVR   <73> SGRFDTLSSNTIVN  <45> AMGDDFAA  [100]
+   ||+| |+.||          ||  +|.  |||+|       ++||| ..
+   venDysafDssq        SGergTslgNtlvN       flGDDsli
+Score 36.4, PH5 (PH8 +4.9)
+
+>A0A2R3ZVF1_9VIRU/1209-1596
+   A:205-216(28.2)      B:261-274(28.6)      C:292-299(20.4)
+   TESDYEAYDASQ    <68> TGEFCTFLFNTLTN  <45> FAGDDMCA  [95]
+   |||||||+||||         |||||||||||+ |       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 77.3, Tymovirales (Kitrino +23.3)
+
+>Q91QY4_9VIRU/1440-1815
+   A:180-191(26.0)      B:236-249(31.2)      C:267-274(20.4)
+   IESDYEAFDVSQ    <68> TGEFCTFLFNTFCN  <45> FAGDDMCA  [95]
+   .|||||||| ||         ||||||||||| ||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 77.6, Tymovirales (Kitrino +26.0)
+
+>Q9IF44_9VIRU/1690-2063
+   A:157-168(17.9)      B:217-230(30.1)      C:248-255(14.4)
+   GVIDAAACDSGQ    <72> SGEPGTLLGNTILM  <45> MKGDDGFK  [99]
+   +++|+ +|||+|         ||||||||.|||+|       +||||+|+
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 62.4, Hepelivirales (PH5 +27.3)
+
+>Q65980_9VIRU/1221-1601
+   A:200-211(24.4)      B:256-269(28.6)      C:287-294(20.4)
+   TESDYKAYDASQ    <68> TGEFCTFLFNTLTN  <45> FAGDDMCA  [95]
+   ||||| |+||||         |||||||||||+ |       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.4, Tymovirales (Kitrino +19.8)
+
+>A0A1L3KK96_9VIRU/1336-1710
+   A:170-181(11.6)      B:230-243(16.7)      C:261-268(9.3)
+   FECDVSEMDRQR    <72> SGRADTLLSNTLVS  <45> WQGDDVAI  [99]
+   +|.| |..|||          || ++|.| ||++         .||| .|
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 37.6, PH5 (Kitrino +6.2)
+
+>A0A1L3KKD8_9VIRU/979-1356
+   A:211-222(10.8)      B:272-285(20.2)      C:303-310(11.8)
+   CESDLEACDAGQ    <73> SGAPDTLDGNTIVN  <45> FKGDDTFI  [100]
+    |+|..| |. |         || |+|. ||||+|       |+|||..|
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 42.8, PH5 (Kitrino +2.4)
+
+>F4ZNG9_9VIRU/1264-1655
+   A:185-196(27.5)      B:241-254(31.6)      C:272-279(19.1)
+   LESDYEAFDSSQ    <68> TGEFGTFLFNTLAN  <45> FAGDDMCC  [95]
+   .||||||||+||         |||||||||||+||       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 78.1, Tymovirales (Kitrino +23.9)
+
+>A0A126JJK9_9VIRU/1375-1754
+   A:205-216(27.5)      B:261-274(28.6)      C:292-299(20.4)
+   TESDYEAYDSSQ    <68> TGEFCTFLFNTLTN  <45> FAGDDMCA  [95]
+   |||||||+|+||         |||||||||||+ |       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 76.6, Tymovirales (Kitrino +21.9)
+
+>G9CHA2_9VIRU/1536-1944
+   A:204-215(30.2)      B:260-273(32.0)      C:291-298(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A0A0A7M929_9VIRU/1541-1948
+   A:203-214(30.2)      B:259-272(32.0)      C:290-297(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>B3VKH1_9VIRU/1531-1938
+   A:203-214(30.2)      B:259-272(32.0)      C:290-297(19.5)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   ||||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.7, Tymovirales (Kitrino +26.5)
+
+>I6YB60_9VIRU/1531-1939
+   A:204-215(30.2)      B:260-273(32.0)      C:291-298(19.5)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   ||||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.7, Tymovirales (Kitrino +26.5)
+
+>Q91UJ3_9VIRU/1567-1975
+   A:204-215(30.2)      B:260-273(30.5)      C:291-298(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.2, Tymovirales (Kitrino +25.5)
+
+>B0LFB7_9VIRU/1528-1936
+   A:204-215(30.2)      B:260-273(32.0)      C:291-298(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A0A0K2BN37_9VIRU/1628-2024
+   A:192-203(30.2)      B:248-261(32.0)      C:279-286(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A0A0H3YBN9_9VIRU/1572-1970
+   A:199-210(28.7)      B:255-268(31.6)      C:286-293(19.1)
+   VESDYEAFDASQ    <68> TGEFSTFLFNTLAN  <45> FAGDDMCM  [95]
+   +|||||||||||         |||||||||||+||       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 79.4, Tymovirales (Kitrino +25.1)
+
+>A0A1L3KKE6_9VIRU/2000-2395
+   A:184-195(4.1)      B:244-257(13.0)      C:275-282(10.0)
+   KSIDLSEQDTIK   <72> SGRMDTLFSNTIHV  <45> AQGDDVYI  [99]
+    + |.|.||+          || .+|.+ |||         +.||| .|
+   venDysafDssq        SGergTslgNtlvN       flGDDsli
+Score 27.2, PH5 (Kitrino +0.2)
+
+>A7TZR7_9VIRU/1556-1963
+   A:203-214(30.2)      B:259-272(32.0)      C:290-297(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>V5LWR9_9VIRU/1003-1336
+   A:127-138(23.5)      B:183-196(29.3)      C:214-221(14.9)
+   LSNDYQAFDQSQ    <68> TGEGPTFDANTIAN  <45> FAGDDMTC  [95]
+   . ||| ||||||         ||||||||||| ||       |||||| .
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 67.8, Tymovirales (Kitrino +19.9)
+
+>RDRP_HASV/938-1341
+   A:192-203(15.0)      B:253-266(17.7)      C:282-289(16.1)
+   VSADWTEFDTAH    <73> SGAAWTPCRNTIFS  <43> FKGDDSLL  [98]
+    . ||||||+ +         ||  ||.|.|||+        ||||||..
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 48.8, Hepelivirales (PH5 +9.4)
+
+>A0A386QX66_9VIRU/1623-2024
+   A:209-220(28.7)      B:265-278(28.5)      C:296-303(20.4)
+   VESDYEAFDASQ    <68> TGEFCTFLFNTTAN  <45> FAGDDMCA  [95]
+   +|||||||||||         ||||||||||| ||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 77.7, Tymovirales (Kitrino +26.3)
+
+>A0A1L3KK61_9VIRU/1438-1713
+   A:167-178(9.2)      B:227-240(16.9)      C:258-265(11.2)
+   LEADISQFDSLR   <72> SGRCDTLLSNTLIC  <45> HQGDDSLI  [99]
+   .| |.|.|||          ||  +| |.|||+|         ||||||
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 37.3, Kitrino (PH5 +0.4)
+
+>RDRP_ICRSV/1315-1586
+   A:126-137(27.8)      B:182-195(28.3)      C:213-220(15.2)
+   HENDFEAFDQSQ    <68> SGEGPTFDANTECS  <45> YAGDDSAC  [95]
+   +|||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.3, Tymovirales (Kitrino +23.0)
+
+>A0A1L3KK05_9VIRU/1919-2198
+   A:77-88(9.2)      B:137-150(15.9)      C:168-175(13.8)
+   MSTDVSEQDTTK <72> SGRADTLLFNTCYT  <45> FQGDDCCV  [99]
+    +.| | .|+|       || ++| |+|| .+       | ||||||
+   lenDyskFDksq      SGdanTslGNTltn       vsGDDsvv
+Score 39.0, Kitrino (PH5 +2.1)
+
+>G3LHV4_9VIRU/1168-1444
+   A:122-133(24.8)      B:178-191(31.7)      C:209-216(14.6)
+   YANDFTQFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDSVL  [95]
+   ||||||.|||||         ||||||||||||||       ||||||+.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.1, Tymovirales (Kitrino +18.8)
+
+>A0A1L3KJH4_9VIRU/2003-2282
+   A:72-83(11.2)      B:132-145(11.6)      C:163-170(11.5)
+   LSVDISEQDTTK  <72> SGRADTLFANTCHI  <45> FQGDDCYL  [99]
+   .+.|.| .|+|        || ++| + ||          | |||| .
+   lenDyskFDksq       SGdanTslGNTltn       vsGDDsvv
+Score 34.3, Kitrino (PH5 +4.2)
+
+>A0A220NQ59_9VIRU/1083-1346
+   A:119-130(26.5)      B:175-188(31.7)      C:206-213(17.4)
+   YANDYSAFDQSQ    <68> TGEGPTFDANTECN  <45> FAGDDMAQ  [95]
+   ||||| ||||||         ||||||||||||||       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 75.6, Tymovirales (Kitrino +24.1)
+
+>Q65005_9VIRU/1033-1295
+   A:107-118(24.9)      B:163-176(31.7)      C:194-201(13.8)
+   YTNDFEAYDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDCAL  [95]
+   |+|||||+||||         ||||||||||||||       |||||.|.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 70.4, Tymovirales (Kitrino +21.1)
+
+>A0A1B2RVP2_9VIRU/1282-1552
+   A:138-149(27.9)      B:194-207(30.7)      C:224-231(12.0)
+   VCNDYTAFDQSQ    <68> TGEPGTYDDNTDYN  <44> ISGDDSAL  [94]
+   +.||||||||||         ||||||||||||||        ||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 70.6, Tymovirales (PH5 +17.7)
+
+>A0A1L3KK26_9VIRU/806-1069
+   A:96-107(12.2)      B:160-173(9.1)      C:191-198(9.5)
+   LCTDFSEHDTSH   <76> SGSADTIHGNSKLT <45> FKGDDTDV  [103]
+   ++.|||. |+|+        ||.++|  ||+         |+|||. +
+   venDysafDssq        SGergTslgNtlvN      flGDDsli
+Score 30.8, PH5 (PH2 +0.8)
+
+>A0A1L3KGZ5_9VIRU/456-740
+   A:100-111(19.3)      B:164-177(30.8)      C:202-209(13.2)
+   LTVDYSRLDGTV    <76> SGSPITTDGNTMIC  <52> VYGDDGAF  [110]
+   .  |||||||||         ||||+||||||||.       .||||| |
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 63.4, Nodamuvirales (PH23 +10.6)
+
+>A0A1V0JB95_9VIRU/1348-1633
+   A:128-139(29.5)      B:184-197(26.9)      C:215-222(15.9)
+   TDSDYEAFDQSQ    <68> SGEFGTFFLNTCCN  <45> FAGDDMFS  [95]
+   |.||||||||||         |||||||+ || ||       |||||| +
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 72.3, Tymovirales (Kitrino +22.8)
+
+>RDRP_PMV/1198-1466
+   A:130-141(25.8)      B:186-199(31.7)      C:217-224(15.9)
+   LANDFTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDSAI  [95]
+   .|||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.4, Tymovirales (Kitrino +22.2)
+
+>A0A2S1YEA3_9VIRU/1327-1590
+   A:130-141(27.6)      B:186-199(29.2)      C:217-224(18.2)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTVCN  <45> FAGDDMVA  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||+|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 75.0, Tymovirales (Kitrino +23.1)
+
+>A0A1L3KGD8_9VIRU/168-454
+   A:49-60(13.7)      B:112-125(25.7)      C:158-165(3.7)
+   FENDMSKYEASQ  <75> SGDMDTGLGNGVLN  <60> LKGDDSYG  [117]
+   || | |+|||++       ||||||+|||+.+|         |||+  
+   velDasrwDaHv       SGDmdTslGNslin       vdGDDclv
+Score 43.1, PH14 (Kitrino +1.3)
+
+>POLR_TYMV/1455-1745
+   A:121-132(28.0)      B:177-190(30.7)      C:207-214(12.8)
+   IANDYTAFDQSQ    <68> TGEPGTYDDNTDYN  <44> VSGDDSLI  [94]
+   .|||||||||||         ||||||||||||||       +||||| +
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.5, Tymovirales (Kitrino +15.8)
+
+>Q0Z8V5_9VIRU/1219-1509
+   A:117-128(26.5)      B:173-186(28.3)      C:204-211(16.6)
+   HTNDFTAFDQSQ    <68> SGEGPTFDANTECS  <45> YAGDDMAL  [95]
+   ++||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.4, Tymovirales (Kitrino +23.9)
+
+>Q80QV2_9VIRU/1180-1468
+   A:147-158(18.3)      B:203-216(22.3)      C:234-241(12.8)
+   FTNDYTAYDKSC    <68> SGQWCTYLFNTWYN  <45> FSGDDMFI  [95]
+   +.|||||||.||         |||..|+|||||+|       |+||||.|
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 53.4, PH5 (Tymovirales +0.9)
+
+>Q96806_9VIRU/1331-1612
+   A:137-148(27.6)      B:193-206(29.9)      C:224-231(17.5)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTICN  <45> YAGDDMYA  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||.|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 75.0, Tymovirales (PH5 +24.0)
+
+>RDRP_LOLV/1365-1646
+   A:131-142(25.4)      B:187-200(26.3)      C:218-225(15.6)
+   FASDFEAFDQSQ    <68> TGEGPTFDANTACS  <45> YAGDDMLL  [95]
+    |||||||||||         ||||||||||| |.       |||||| .
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 67.3, Tymovirales (Kitrino +20.1)
+
+>A0A1L3KJW7_9VIRU/1695-1976
+   A:169-180(9.1)      B:229-242(11.5)      C:261-268(15.8)
+   VNVDISEQDTTK   <72> SGRADTIDSNTFDS  <46> FCGDDSCV  [100]
+   + .|.| .|+|         || ++| +.||.         ||||||||
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 36.4, Kitrino (PH5 +5.3)
+
+>A0A0S1WF54_9VIRU/1814-1955
+   A:40-51(16.5)      B:96-109(23.8)      C:127-134(11.9)
+   TGNDYTAWDSGI  <68> SGDRWTWILNTLRN <45> ISGDDSVT  [95]
+   + |||||||| .       |||||||++||+.|      .+||||+.
+   venDysafDssq       SGergTslgNtlvN      flGDDsli
+Score 52.3, PH5 (Kitrino +5.9)
+
+>RDRP_SJNNV/482-764
+   A:101-112(24.8)      B:165-178(26.7)      C:203-210(14.8)
+   VETDYSKFDGTF    <76> SGSALTTDGNSIAN  <52> VYGDDGLR  [110]
+   ||||||+||||.         |||.+|||||+|.|       .||||||+
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 66.3, Nodamuvirales (PH2 +13.6)
+
+>A0A1L3KJJ6_9VIRU/1986-2267
+   A:152-163(6.6)      B:214-227(14.6)      C:245-252(9.9)
+   FNFDLSQQDCCK   <74> SGSPWTLTSNTLME  <45> FQGDDATV  [101]
+   +  |.|+|| +         ||.|||.  ||+.        |.|||  +
+   venDysafDssq        SGergTslgNtlvN       flGDDsli
+Score 31.1, PH5 (Kitrino +5.5)
+
+>Q5DKR3_9VIRU/1053-1336
+   A:117-128(26.9)      B:173-186(31.7)      C:204-211(15.9)
+   YANDFTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDSAI  [95]
+   ||||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 74.5, Tymovirales (Kitrino +22.3)
+
+>A0A1L6YQ22_9VIRU/2-256
+   A:106-117(21.5)      B:168-181(21.1)      C:199-206(5.0)
+   KESDIRKFDKSQ    <74> SGDASTFLGNSLVL  <45> FPGDDFYI  [101]
+   +| || ||||||         |||| |||||+||        | |||  |
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 47.6, Martellivirales (Kitrino +3.0)
+
+>A0A3G2LQF9_9VIRU/883-1141
+   A:136-147(9.3)      B:197-210(14.4)      C:232-239(10.7)
+   LAADVTEFDSVH   <73> SGQPATLFSNTFLA  <49> AKGDDTVL  [104]
+   +. | |.||| +        |||| |.+ ||.         ++|||.+.
+   venDysafDssq        SGergTslgNtlvN       flGDDsli
+Score 34.3, PH5 (Kitrino +1.9)
+
+>Q8JSN4_9VIRU/1103-1364
+   A:116-127(23.6)      B:172-185(28.3)      C:203-210(16.6)
+   QTNDFTAFDQSQ    <68> SGEGPTFDANTECS  <45> YAGDDMAL  [95]
+    +||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 68.6, Tymovirales (Kitrino +23.3)
+
+>B3CJG2_9VIRU/1328-1584
+   A:117-128(26.5)      B:173-186(28.3)      C:204-211(16.6)
+   HTNDFTAFDQSQ    <68> SGEGPTFDANTECS  <45> YAGDDMAL  [95]
+   ++||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.4, Tymovirales (Kitrino +23.9)
+
+>Q83080_9VIRU/1-226
+   A:6-17(25.6)      B:68-81(17.6)       C:99-106(17.0)
+   LEIDFSKFDKSK <74> SGNCDTYGSNTWSA <45> FGGDDSLI  [101]
+   |||||||||||.      ||.+.|| +|||        |.||||||
+   lEiDfSKFDKSQ      TGdatTylGNTivn      fsGDDSLI
+Score 60.2, Martellivirales (Kitrino +15.3)
+
+>RDRP_GFKVM/1575-1836
+   A:111-122(27.9)      B:167-180(30.7)      C:197-204(11.1)
+   LANDYTAFDQSQ    <68> TGEPGTYDDNTDYN  <44> VSGDDSLV  [94]
+   .|||||||||||         ||||||||||||||       +|||||  
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 69.8, Tymovirales (Kitrino +14.1)
+
+>A0A1L3KFN5_9VIRU/693-953
+   A:78-89(14.3)      B:142-155(21.7)      C:174-181(9.8)
+   FMSDVSSWDGSL  <76> SGDLWTSLFNSMIN  <46> ILGDDSTV  [104]
+   | .| |+||||+       ||+ +||++|||+|       ..|||| +
+   iagDfSkFDgsv       SGsplTsiiNslvN       vyGDDnli
+Score 45.8, PH2 (PH5 +1.2)
+
+>POLG_MRFVC/1396-1646
+   A:115-126(27.9)      B:171-184(30.7)      C:201-208(12.0)
+   LANDYTAFDQSQ    <68> TGEPGTYDDNTDYN  <44> VSGDDSLL  [94]
+   .|||||||||||         ||||||||||||||       +||||| .
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 70.7, Tymovirales (Kitrino +15.9)
+
+>A0A125R919_9VIRU/1704-1949
+   A:142-153(16.5)      B:198-211(23.8)      C:229-236(12.3)
+   TGNDYTAWDSGI    <68> SGDRWTWILNTLRN  <45> VSGDDSVT  [95]
+   + |||||||| .         |||||||++||+.|       ++||||+.
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 52.6, PH5 (Kitrino +5.2)
+
+>RDRP_SMYEA/985-1276
+   A:123-134(25.4)      B:179-192(28.3)      C:210-217(15.3)
+   HSNDFTAFDQSQ    <68> SGEGPTFDANTECS  <45> YAGDDSAQ  [95]
+   + ||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 68.9, Tymovirales (Kitrino +22.2)
+
+>A0A218MK55_9VIRU/1184-1502
+   A:117-128(27.7)      B:173-186(28.9)      C:204-211(16.9)
+   HENDFTAFDQSQ    <68> TGEGPTFDANTECS  <45> YAGDDMAQ  [95]
+   +|||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.5, Tymovirales (Kitrino +27.3)
+
+>Q6UNJ1_9VIRU/1214-1532
+   A:119-130(29.0)      B:175-188(31.7)      C:206-213(12.8)
+   YANDYTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDCAF  [95]
+   ||||||||||||         ||||||||||||||       |||||.| 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.5, Tymovirales (Kitrino +21.9)
+
+>A0A1L3KK21_9VIRU/4110-4430
+   A:154-165(19.7)      B:214-227(25.6)      C:247-254(13.2)
+   FENDLTKQDRQT    <72> TGQATTALGNCITN  <47> FLGDDMCM  [101]
+   +|+|+.||||||         ||||||+|||.|+|       |+|||..|
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 58.4, Martellivirales (PH5 +7.6)
+
+>B0I2Z2_9VIRU/967-1288
+   A:120-131(25.4)      B:176-189(27.0)      C:207-214(16.9)
+   HSNDFTAFDQSQ    <68> SGEGPTFDANTECA  <45> YAGDDMAQ  [95]
+   + ||||||||||         |||||||||||||        |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 69.3, Tymovirales (Kitrino +22.7)
+
+>A9JQJ5_9VIRU/1-253
+   A:63-74(28.7)      B:119-132(28.6)      C:150-157(20.4)
+   VESDYEAFDASQ  <68> TGEFCTFLFNTLSN  <45> FAGDDMCA  [95]
+   +|||||||||||       |||||||||||+ |       ||||||||
+   teSDYEAFDqSQ       TGEagTFlFNTmaN       FAGDDMca
+Score 77.7, Tymovirales (Kitrino +24.6)
+
+>C0L9E1_9VIRU/1370-1688
+   A:121-132(24.8)      B:177-190(31.7)      C:208-215(15.1)
+   YANDFTQFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDSAL  [95]
+   ||||||.|||||         ||||||||||||||       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.5, Tymovirales (Kitrino +21.0)
+
+>A0A1L3KJN1_9VIRU/1161-1475
+   C:51-58(3.1)      A:93-104(8.7)      B:156-169(3.5)
+   GYSDEDLA     <50> YESDQSQFDASF  <75> SGKVQTLPLNSAIS  [119]
+    ||| .||          .||||+ |+|+        ||   ||. ||   
+   ilGDDrla          dEsDkksWEATt       SGsllTLdGNTlRH
+Score 15.3 permuted, PH25
+
+>A0A240G1F3_9VIRU/1283-1596
+   A:183-194(27.6)      B:239-252(29.1)      C:270-277(17.1)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTIAN  <45> FAGDDMYS  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||.+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.8, Tymovirales (PH5 +23.4)
+
+>RDRP_GVAIS/1290-1602
+   A:183-194(27.6)      B:239-252(29.2)      C:270-277(17.1)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTVCN  <45> FAGDDMYS  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||.+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.9, Tymovirales (PH5 +23.9)
+
+>RDRP_P1AMV/1044-1361
+   A:124-135(26.9)      B:180-193(31.7)      C:211-218(14.7)
+   YANDFTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDCAI  [95]
+   ||||||||||||         ||||||||||||||       |||||.|+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.3, Tymovirales (Kitrino +20.8)
+
+>B1B3N8_9VIRU/1253-1569
+   A:110-121(26.5)      B:166-179(28.3)      C:197-204(16.6)
+   HTNDFTAFDQSQ    <68> SGEGPTFDANTECS  <45> YAGDDMAL  [95]
+   ++||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.4, Tymovirales (Kitrino +23.9)
+
+>X2J276_9VIRU/3019-3338
+   A:155-166(21.8)      B:216-229(15.1)      C:246-253(12.7)
+   LEMDLSKQDRQT    <73> SGGAMTSMGNEIRN  <44> TLGDDSLV  [99]
+   ||.|+|||||||         ||.|.|  || | |        +|||||.
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 49.6, Martellivirales (PH5 +8.1)
+
+>G8H9C9_9VIRU/1292-1625
+   A:184-195(27.6)      B:240-253(29.9)      C:271-278(17.5)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTICN  <45> YAGDDMYA  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||.|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 75.0, Tymovirales (PH5 +24.0)
+
+>A0A1L3KKD4_9VIRU/1760-2077
+   A:209-220(6.4)      B:269-282(10.9)      C:300-307(13.2)
+   FISDFVEFDTFH   <72> SGRTLTLLKNTLVA  <45> VCGDDVCI  [99]
+   | +||  ||+          ||   | | |||+        ||||| ||
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 30.5, Kitrino (PH5 +2.2)
+
+>A0A345X1J4_9VIRU/1014-1346
+   A:116-127(24.8)      B:172-185(31.7)      C:203-210(14.7)
+   YTNDFTAYDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDCAI  [95]
+   |+|||||+||||         ||||||||||||||       |||||.|+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.2, Tymovirales (Kitrino +20.5)
+
+>A0A1L3KK60_9VIRU/4321-4649
+   A:156-167(14.7)      B:216-229(14.8)      C:249-256(17.6)
+   VEIDMQKMDRQT    <72> TGQASTSLGNVICS  <47> FLGDDSLI  [101]
+   .|||  | ||||         |||| | |||.|         |+||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 47.2, Martellivirales (PH5 +2.7)
+
+>RDRP_FXMV/987-1319
+   A:119-130(24.8)      B:175-188(31.7)      C:206-213(13.8)
+   YTNDFTAYDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDCAL  [95]
+   |+|||||+||||         ||||||||||||||       |||||.|.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 70.3, Tymovirales (Kitrino +20.4)
+
+>A0A385L3F5_9VIRU/1361-1685
+   A:156-167(27.1)      B:212-225(16.8)      C:245-252(5.0)
+   YANDYTSFDQSQ    <68> SGEPATYAFNCRCN  <47> VSGDDGGL  [97]
+   ||||||.|||||         |||| || ||  ||       +||||  .
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 48.8, Tymovirales (Kitrino +1.6)
+
+>Q2TJB1_9VIRU/1196-1520
+   A:126-137(25.8)      B:182-195(31.7)      C:213-220(15.9)
+   LANDFTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDSAI  [95]
+   .|||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.4, Tymovirales (Kitrino +22.2)
+
+>A0A1L3KK54_9VIRU/4735-5064
+   A:152-163(19.7)      B:212-225(25.2)      C:245-252(15.0)
+   YENDLTKQDRQT    <72> TGQATTALGNVITN  <47> FLGDDMLM  [101]
+   +|+|+.||||||         ||||||+|||.|+|       |+|||.||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 59.9, Martellivirales (PH5 +8.7)
+
+>B5ACE2_PVT92/1186-1518
+   A:180-191(29.3)      B:236-249(29.7)      C:267-274(18.0)
+   TESDYEAFDRSQ    <68> TGEFGTFFFNTIAN  <45> FAGDDMYA  [95]
+   |||||||||+||         |||||||+||| ||       ||||||.|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 77.0, Tymovirales (PH5 +24.3)
+
+>RDRP_NCBVS/962-1289
+   A:115-126(10.2)      B:174-187(15.3)      C:203-210(10.2)
+   KSIDIKEFDTVH    <71> SGAVWTIARNTLFA  <43> AKGDDVFL  [96]
+    .+|  |||+ +         ||  ||. .||.+.        |||| |.
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 35.7, Hepelivirales (PH5 +8.6)
+
+>E0D4K0_9VIRU/305-632
+   A:126-137(25.8)      B:182-195(31.7)      C:213-220(15.9)
+   LANDFTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDSAI  [95]
+   .|||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.4, Tymovirales (Kitrino +22.2)
+
+>Q86820_PAMV/1269-1566
+   A:119-130(26.5)      B:175-188(28.3)      C:206-213(15.8)
+   HTNDFTAFDQSQ    <68> SGEGPTFDANTECS  <45> YAGDDMAV  [95]
+   ++||||||||||         |||||||||||||.       ||||||| 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 70.6, Tymovirales (Kitrino +22.1)
+
+>Q8BF56_9VIRU/1015-1340
+   A:129-140(26.9)      B:185-198(31.7)      C:216-223(14.7)
+   YANDFTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDCAI  [95]
+   ||||||||||||         ||||||||||||||       |||||.|+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.3, Tymovirales (Kitrino +20.8)
+
+>A0A0S2ZX87_9VIRU/1224-1545
+   A:118-129(26.5)      B:174-187(28.3)      C:205-212(16.6)
+   HTNDFTAFDQSQ    <68> SGEGPTFDANTECS  <45> YAGDDMAL  [95]
+   ++||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.4, Tymovirales (Kitrino +23.9)
+
+>Q4LD46_LVX/963-1259
+   A:124-135(25.4)      B:180-193(27.0)      C:211-218(16.9)
+   HSNDFTAFDQSQ    <68> SGEGPTFDANTECA  <45> YAGDDMAQ  [95]
+   + ||||||||||         |||||||||||||        |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 69.3, Tymovirales (Kitrino +22.7)
+
+>A0A3G2LQI1_9VIRU/883-1182
+   A:185-196(8.3)      B:245-258(13.9)      C:276-283(13.0)
+   VSCDMDQQDTTK   <72> SGRSDTLFANTMHS  <45> FQGDDSYI  [99]
+   |+.|. +||+|         ||  +|.+ ||+         |.||||.|
+   venDysafDssq        SGergTslgNtlvN       flGDDsli
+Score 35.2, PH5 (Kitrino +3.4)
+
+>A0A1L3KJT1_9VIRU/1590-1889
+   A:183-194(11.2)      B:243-256(13.3)      C:274-281(10.2)
+   LSLDISEQDTTK    <72> SGRADTLASNTMHI  <45> FQGDDCHI  [99]
+   .+.|.| .|+|          || ++| ..|||         | |||| |
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 34.7, Kitrino (PH5 +4.2)
+
+>J7HA37_9VIRU/1328-1621
+   A:163-174(27.6)      B:219-232(32.4)      C:250-257(18.0)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTMCN  <45> FAGDDMYA  [95]
+   |.|||||||+||         |||||||+||||||       ||||||.|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 77.9, Tymovirales (PH5 +26.9)
+
+>A0A1L3KJX4_9VIRU/1167-1466
+   A:156-167(28.5)      B:212-225(30.7)      C:242-249(9.1)
+   VANDYTAFDQSQ    <68> TGEPGTYDDNTDYN  <44> LSGDDSVV  [94]
+   +|||||||||||         ||||||||||||||        |||||+ 
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 68.3, Tymovirales (Kitrino +14.5)
+
+>POLG_ASGVP/1204-1498
+   A:158-169(27.4)      B:214-227(30.5)      C:246-253(19.5)
+   IESDYTAFDSSQ    <68> TGEFCTFLFNTFAN  <46> FAGDDMCS  [96]
+   .||||||||+||         ||||||||||| ||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 77.4, Tymovirales (Kitrino +23.6)
+
+>RDRP_WCMVM/953-1244
+   A:122-133(24.0)      B:178-191(30.3)      C:209-216(14.9)
+   FSNDFTAFDQSQ    <68> SGEGPTFDANTEAN  <45> YAGDDMSI  [95]
+     ||||||||||         ||||||||||||||       |||||| +
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 69.2, Tymovirales (Kitrino +18.4)
+
+>Q91ND9_9VIRU/1205-1501
+   A:125-136(29.0)      B:181-194(31.7)      C:212-219(13.8)
+   YANDYTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDCAL  [95]
+   ||||||||||||         ||||||||||||||       |||||.|.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 74.5, Tymovirales (Kitrino +22.3)
+
+>O10688_9VIRU/1055-1361
+   A:114-125(26.5)      B:170-183(28.3)      C:201-208(16.8)
+   HTNDFTAFDQSQ    <68> SGEGPTFDANTECS  <45> YAGDDMAM  [95]
+   ++||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.6, Tymovirales (Kitrino +24.0)
+
+>Q3V6G7_9VIRU/1261-1552
+   A:119-130(22.1)      B:175-188(28.3)      C:206-213(16.6)
+   HTNDFTAFDQTQ    <68> SGEGPTFDANTECS  <45> YAGDDMAL  [95]
+   ++|||||||| |         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 67.1, Tymovirales (Kitrino +20.0)
+
+>Q5IJQ4_9VIRU/2-297
+   A:86-97(30.2)      B:142-155(31.1)      C:173-180(20.4)
+   TESDYEAFDASQ  <68> TGEAGTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||       |||||||||||+||       ||||||||
+   teSDYEAFDqSQ       TGEagTFlFNTmaN       FAGDDMca
+Score 81.8, Tymovirales (Kitrino +27.3)
+
+>A0A2P1BXW9_9VIRU/1292-1600
+   A:178-189(27.6)      B:234-247(28.4)      C:265-272(17.1)
+   TDSDYEAFDRSQ    <68> SGEFGTFFFNTVAN  <45> FAGDDMYS  [95]
+   |.|||||||+||         |||||||+||| ||       ||||||.+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.1, Tymovirales (PH5 +23.4)
+
+>RDRP_NMV/1267-1576
+   A:109-120(26.5)      B:165-178(28.3)      C:196-203(16.6)
+   HTNDFTAFDQSQ    <68> SGEGPTFDANTECS  <45> YAGDDMAL  [95]
+   ++||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 71.4, Tymovirales (Kitrino +23.9)
+
+>A0A1L3KFD8_9VIRU/514-808
+   A:111-122(26.3)      B:175-188(29.7)      C:213-220(14.8)
+   VETDYSRFDGTF    <76> SGSPLTTDGNSICN  <52> VYGDDGLR  [110]
+   |||||||||||.         ||||+|||||+|+|       .||||||+
+   iEtDYSRFDGtv         SGSPtTTDgNTliN       afGDDGlf
+Score 70.8, Nodamuvirales (PH2 +15.4)
+
+>Q5G7H3_9VIRU/986-1297
+   A:115-126(25.4)      B:171-184(27.0)      C:202-209(16.9)
+   HSNDFTAFDQSQ    <68> SGEGPTFDANTECA  <45> YAGDDMAQ  [95]
+   + ||||||||||         |||||||||||||        |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 69.3, Tymovirales (Kitrino +22.7)
+
+>Q5GR28_9VIRU/1124-1435
+   A:153-164(26.9)      B:209-222(31.7)      C:240-247(15.1)
+   YANDFTAFDQSQ    <68> TGEGPTFDANTECN  <45> YAGDDSAL  [95]
+   ||||||||||||         ||||||||||||||       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.6, Tymovirales (Kitrino +22.2)
+
+>Q40712_OSEVJ/4181-4481
+   A:137-148(19.7)      B:197-210(25.6)      C:230-237(13.2)
+   FENDLTKQDRQT    <72> TGQATTALGNCITN  <47> FLGDDMCM  [101]
+   +|+|+.||||||         ||||||+|||.|+|       |+|||..|
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 58.4, Martellivirales (PH5 +7.6)
+
+>Q2V0S0_9VIRU/1179-1478
+   A:116-127(25.6)      B:172-185(28.3)      C:203-210(15.8)
+   YSNDFTAFDQSQ    <68> SGEGPTFDANTECS  <45> FAGDDSAQ  [95]
+   | ||||||||||         |||||||||||||.       |||||||.
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 69.7, Tymovirales (Kitrino +20.5)
+
+>A0A1L3KK82_9VIRU/1800-2100
+   A:170-181(13.0)      B:230-243(17.4)      C:261-268(11.7)
+   VTSDYTEFDTFH    <72> SGQPDTLFKNTIFS  <45> FVGDDSCL  [99]
+   |.+|||.||+ +         ||||+|.+ |||+        | |||| .
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 42.1, PH5 (Kitrino +3.3)
+
+>A0A1L3KK11_9VIRU/2161-2464
+   C:183-190(3.5)      A:210-221(6.6)      B:272-285(13.9)
+   IFADDSPD       <35> TEIDISKYDKSQ   <74> SGDAWTFGGNTLLT  [103]
+   |+ ||.               + | .|.|.|.        ||||.|  +||   
+   ilSDDGvv            lgwDypKCDRsm        SGDatTAyaNSvfN
+Score 23.9 permuted, PH17 (PH23 +10.7)
+
+>RDRP_BOTVF/1525-1827
+   A:147-158(22.5)      B:203-216(21.6)      C:233-240(5.2)
+   TDGDYTAYDASQ    <68> SGEVWTYLFNTLGN  <44> YGGDDKSI  [94]
+   |. ||||+||||         ||| +||||||+ |       | |||  +
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 49.3, Tymovirales (PH5 +3.5)
+
+>A0A223A3Q7_9CLOS/2-305
+   A:191-202(26.2)      B:253-266(24.7)      C:284-291(14.5)
+   VEMDFSKFDKSQ    <74> SGTANTFLGNSIVT  <45> VAGDDSIM  [101]
+   .|.|||||||||         || |||||||+|||       |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 65.4, Martellivirales (Kitrino +11.6)
+
+>A0A1D9CFF7_9VIRU/1623-1934
+   C:121-128(3.0)       A:218-229(14.6)      B:280-293(10.1)
+   IYSDKAFW       <105> GEGDISKFDVCQ    <74> SGDAWTLPGNSCYM  [173]
+   || |   |              ||||+|.| +.         ||  +|  |||.||
+   vYGDDhlw             veGDikgLDqSi         SGvldTShgDSwiv
+Score 27.8 permuted, PH28 (PH17 +4.2)
+
+>A0A2U8U8C2_9VIRU/1152-1594
+   A:217-228(26.5)      B:279-292(21.3)      C:310-317(18.3)
+   LELDISKYDKSQ    <74> SGDVTTFIGNTVLV  <45> FCGDDSLI  [101]
+   ||+|||||||||         |||+|||||||+         ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.2, Martellivirales (Kitrino +12.3)
+
+>A0A1L3KJR9_9VIRU/1777-2219
+   A:219-230(20.8)      B:281-294(23.7)      C:311-318(15.6)
+   TECDMSKYDKSQ    <74> SGDAATFFGNTIVL  <44> FAGDDSLL  [100]
+   .| | |||||||         |||| ||||||||        |.|||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 60.0, Martellivirales (Kitrino +7.7)
+
+>RDRP_SHMV/1182-1625
+   A:218-229(26.5)      B:280-293(25.3)      C:311-318(17.5)
+   LELDISKYDKSQ    <74> SGDVTTFIGNTIII  <45> FCGDDSII  [101]
+   ||+|||||||||         |||+|||||||||.       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.4, Martellivirales (Kitrino +14.4)
+
+>A8RS54_9CLOS/52-495
+   A:220-231(24.8)      B:282-295(27.6)      C:313-320(16.5)
+   AEVDLSKYDKSQ    <74> TGTATTWLGNTVVN  <45> FSGDDSIL  [101]
+    |+|+|||||||         || ||||||||+||       |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.9, Martellivirales (Kitrino +17.2)
+
+>A0A3G6V9C2_9CLOS/33-476
+   A:220-231(25.6)      B:282-295(27.2)      C:313-320(17.3)
+   GEVDISKYDKSQ    <74> TGTATTWIGNTLIN  <45> FSGDDSLL  [101]
+   .|+|||||||||         || |||||||||||       |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 70.1, Martellivirales (Kitrino +17.6)
+
+>A0A0S2RRD3_9VIRU/1900-2342
+   A:219-230(27.6)      B:281-294(20.4)      C:312-319(17.3)
+   LEIDISKYDKSQ    <74> SGDASTFIGNTLFL  <45> FSGDDSLL  [101]
+   ||||||||||||         |||| |||||||         |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 65.3, Martellivirales (Nidovirales +6.3)
+
+>A0A097A5B8_9VIRU/1876-2318
+   A:219-230(27.6)      B:281-294(20.4)      C:312-319(17.3)
+   LEIDISKYDKSQ    <74> SGDASTFIGNTLFL  <45> FSGDDSLL  [101]
+   ||||||||||||         |||| |||||||         |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 65.3, Martellivirales (Nidovirales +6.3)
+
+>A0A1L3KKF1_9VIRU/2245-2687
+   A:216-227(27.3)      B:278-291(20.8)      C:308-315(18.7)
+   LEVDFSKYDKSQ    <74> SGDAMTFFGNTMFL  <44> FSGDDSLI  [100]
+   ||+|||||||||         ||||.||||||.         ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.8, Martellivirales (Kitrino +12.0)
+
+>A0A146FDE4_9CLOS/50-492
+   A:219-230(26.0)      B:281-294(24.7)      C:312-319(16.8)
+   YELDISKYDKSQ    <74> SGGANTWLGNTMVL  <45> ASGDDSLI  [101]
+   +|+|||||||||         ||.||||||||.|        .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.5, Martellivirales (Kitrino +14.7)
+
+>Q9DQ91_9CLOS/67-509
+   A:219-230(26.0)      B:281-294(24.9)      C:312-319(17.7)
+   YELDISKYDKSQ    <74> SGGANTWLGNTIVV  <45> VSGDDSLI  [101]
+   +|+|||||||||         ||.||||||||||        ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.6, Martellivirales (Kitrino +14.6)
+
+>A0A1U7EIQ0_9VIRU/1871-2313
+   A:219-230(27.6)      B:281-294(20.4)      C:312-319(17.3)
+   LEIDISKYDKSQ    <74> SGDASTFIGNTLFL  <45> FSGDDSLL  [101]
+   ||||||||||||         |||| |||||||         |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 65.3, Martellivirales (Nidovirales +6.3)
+
+>A0A0M3TBA9_9CLOS/52-496
+   A:217-228(21.0)      B:278-291(26.0)      C:309-316(16.6)
+   TEIDFRMFDKSQ    <73> TGSPNTWLSNTLVT  <45> ISGDDSLI  [100]
+   .||||  |||||         ||.+||||+|||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 63.6, Martellivirales (Kitrino +11.8)
+
+>A0A1L3KKE4_9VIRU/1957-2400
+   A:213-224(22.9)      B:275-288(10.1)      C:309-316(11.6)
+   LEFDVSKYDKSQ    <74> SGDPSTWLLNTQQI  <48> ASGDDSEI  [104]
+   || | |||||||         |||+ ||| ||  .       .||||| |
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 44.6, Martellivirales (Kitrino +1.9)
+
+>J7M2S5_9CLOS/3022-3466
+   A:219-230(26.0)      B:281-294(26.6)      C:312-319(14.7)
+   AELDFSKFDKSQ    <74> SGGSNTWIGNTLVT  <45> LSGDDSII  [101]
+    |+|||||||||         ||..||||||||||        |||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.3, Martellivirales (Kitrino +17.1)
+
+>A0A1L3KJX5_9VIRU/136-580
+   A:221-232(27.3)      B:283-296(22.4)      C:314-321(17.3)
+   LEIDLSKYDKSQ    <74> SGNASTYLGNTIVL  <45> FSGDDSLL  [101]
+   ||||+|||||||         ||.| ||||||||        |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.0, Martellivirales (Kitrino +14.6)
+
+>Q70PI7_9CLOS/2022-2466
+   A:217-228(27.5)      B:278-291(25.1)      C:309-316(17.7)
+   TEIDFSKFDKSQ    <73> TGSPNTWLSNTLTT  <45> VSGDDSLI  [100]
+   .|||||||||||         ||.+||||+|||+|       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 70.2, Martellivirales (Kitrino +12.1)
+
+>Q5ICW0_9CLOS/1982-2426
+   A:217-228(27.7)      B:278-291(26.0)      C:309-316(17.7)
+   VEIDFSKFDKSQ    <73> TGSPNTWLSNTLVT  <45> VSGDDSLI  [100]
+   .|||||||||||         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 71.4, Martellivirales (Kitrino +14.1)
+
+>S5U8X6_9CLOS/52-494
+   A:219-230(26.0)      B:281-294(25.3)      C:312-319(17.7)
+   YELDISKYDKSQ    <74> SGGANTWLGNTVVL  <45> VSGDDSLI  [101]
+   +|+|||||||||         ||.||||||||+|        ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.0, Martellivirales (Kitrino +15.6)
+
+>Q7T737_9CLOS/58-501
+   A:220-231(24.0)      B:282-295(27.5)      C:313-320(17.0)
+   SEVDISKFDKSQ    <74> TGGSNTWLGNTIVN  <45> FSGDDSLV  [101]
+    |+|||||||||         ||..||||||||||       |||||||.
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.6, Martellivirales (Kitrino +14.8)
+
+>A0A1L3KKA5_9VIRU/2258-2701
+   A:217-228(25.8)      B:279-292(21.8)      C:309-316(18.7)
+   MEVDFSKYDKSQ    <74> SGDAMTFFGNTLFL  <44> FSGDDSLI  [100]
+    |+|||||||||         ||||.|||||||         ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.3, Martellivirales (Kitrino +12.9)
+
+>A0A1S6J0Z8_9VIRU/1875-2318
+   A:219-230(27.6)      B:281-294(20.4)      C:312-319(17.3)
+   LEIDISKYDKSQ    <74> SGDASTFIGNTLFL  <45> FSGDDSLL  [101]
+   ||||||||||||         |||| |||||||         |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 65.3, Martellivirales (Nidovirales +6.3)
+
+>Q6QCI3_9CLOS/53-496
+   A:220-231(27.5)      B:282-295(24.8)      C:313-320(16.9)
+   TEIDFSKFDKSQ    <74> SGASNTFLGNTITT  <45> FAGDDSLI  [101]
+   .|||||||||||         ||..||||||||+|       |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.2, Martellivirales (Kitrino +12.0)
+
+>B8RCA4_9BROM/224-664
+   A:210-221(27.0)      B:272-285(29.3)      C:305-312(16.8)
+   KEVDFSKFDKSQ    <74> TGDANTYLGNTLVT  <47> ASGDDSLI  [103]
+   +|+|||||||||         ||||||||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 73.1, Martellivirales (Kitrino +16.7)
+
+>R1AB_GLRV3/2287-2729
+   A:219-230(26.0)      B:281-294(23.9)      C:312-319(17.7)
+   YELDISKYDKSQ    <74> SGGANTWLGNSLVL  <45> VSGDDSLI  [101]
+   +|+|||||||||         ||.|||||||+||        ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.6, Martellivirales (Kitrino +15.1)
+
+>A0A1L3KK73_9VIRU/2193-2636
+   A:219-230(16.4)      B:280-293(20.5)      C:311-318(11.7)
+   YECDMSAFDKSL    <73> SGDPATALGNTLAT  <45> FMGDDSLL  [100]
+   || |.|+||||          |||| |.|||||.+       | |||||.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 48.6, Kitrino (PH5 +0.9)
+
+>RDRP_AMVLE/318-758
+   A:210-221(28.0)      B:272-285(28.0)      C:305-312(16.8)
+   KEIDFSKFDKSQ    <74> TGDALTYLGNTIVT  <47> ASGDDSLI  [103]
+   +|||||||||||         |||| |||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 72.8, Martellivirales (Kitrino +18.0)
+
+>A0A345GPR9_9VIRU/2058-2501
+   A:222-233(23.0)      B:284-297(22.4)      C:314-321(16.5)
+   LEIDIGKYDKSQ    <74> SGDASTFFGNTVVL  <44> FSGDDSIL  [100]
+   ||||| ||||||         |||| ||||||+|        |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 62.0, Martellivirales (Nidovirales +11.0)
+
+>M1F391_9VIRU/1876-2316
+   A:219-230(27.6)      B:281-294(20.4)      C:312-319(18.7)
+   LEIDISKYDKSQ    <74> SGDASTFIGNTLFL  <45> FSGDDSLI  [101]
+   ||||||||||||         |||| |||||||         ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.7, Martellivirales (Nidovirales +8.0)
+
+>Q91NQ3_9BROM/297-737
+   A:211-222(27.0)      B:272-285(24.8)      C:305-312(16.8)
+   KEVDFSKFDKSQ    <73> AGDACTYLGNTIVT  <47> ASGDDSLI  [102]
+   +|+|||||||||          |||||||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.6, Martellivirales (Kitrino +16.6)
+
+>A0A023Q305_9VIRU/1756-2196
+   C:201-208(3.9)      A:233-244(8.0)      B:295-308(3.3)
+   DLGDKCYE       <40> KEMDMSKFDKSQ   <74> SGSAATYLGNTCFC  [108]
+    .|| | |             +.|+| +| |         |||  |  +|+   
+   amGDDtle            vssDkSGWDWsV        SGsylTsstNSrmR
+Score 15.2 permuted, PH8
+
+>G9CU43_9VIRU/1198-1638
+   A:215-226(26.0)      B:277-290(27.2)      C:308-315(14.4)
+   YELDISKYDKSQ    <74> SGDVTTFIGNTIIN  <45> FCGDDSVV  [101]
+   +|+|||||||||         |||+||||||||||       |||||| .
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.6, Martellivirales (Kitrino +7.2)
+
+>A0A077JM42_9VIRU/19-459
+   A:212-223(23.4)      B:274-287(18.6)      C:305-312(17.0)
+   IEIDISKYDKSK    <74> SGNVDTYFSNTWCA  <45> FGGDDSLI  [101]
+    ||||||||||.         ||.+.|||+|||         |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 58.9, Martellivirales (Kitrino +11.6)
+
+>F8SRF6_RMV/1159-1598
+   A:214-225(26.5)      B:276-289(22.3)      C:307-314(18.3)
+   LELDISKYDKSQ    <74> SGDVSTFIGNTIII  <45> FCGDDSLI  [101]
+   ||+|||||||||         |||+ ||||||||.       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.1, Martellivirales (Kitrino +12.5)
+
+>A0A1Z2RTG1_9VIRU/2266-2706
+   A:213-224(18.4)      B:275-288(21.9)      C:308-315(6.2)
+   VEGDIGKFDKSQ    <74> SGDAMTFLGNTLFL  <47> FAGDDYYM  [103]
+   .| || ||||||         ||||.|||||||         |.|||  |
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 46.5, Martellivirales (Kitrino +1.8)
+
+>A0A1L3KJP3_9VIRU/605-1045
+   A:219-230(23.0)      B:281-294(23.3)      C:311-318(15.1)
+   LEIDIGKYDKSQ    <74> SGDASTFFGNTIVL  <44> FSGDDSVL  [100]
+   ||||| ||||||         |||| ||||||||        |||||| +
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 61.4, Martellivirales (Nidovirales +8.7)
+
+>G8DPJ7_HGSV2/2187-2626
+   A:215-226(27.6)      B:277-290(18.6)      C:308-315(15.6)
+   LEIDISKYDKSQ    <74> SGDAATLLGNTMFL  <45> FAGDDSLL  [101]
+   ||||||||||||         |||| |.||||.         |.|||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 61.8, Martellivirales (Kitrino +10.7)
+
+>A0A1L6YPZ6_9VIRU/2135-2575
+   A:219-230(22.7)      B:281-294(20.7)      C:309-316(12.3)
+   LEVDMKKYDKSQ    <74> SGDAATFLSNTVIL  <42> FAGDDSYI  [98]
+   ||+|  ||||||         |||| |||+||+|        |.|||| |
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 55.6, Martellivirales (Kitrino +7.8)
+
+>E2F1P6_9VIRU/1198-1639
+   A:216-227(24.5)      B:278-291(25.3)      C:309-316(15.8)
+   YELDVSKYDKSQ    <74> SGDVTTFIGNTIII  <45> FCGDDSIV  [101]
+   +|+| |||||||         |||+|||||||||.       |||||||.
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 65.7, Martellivirales (Kitrino +10.8)
+
+>A0A1L3KJR3_9VIRU/1982-2423
+   A:216-227(24.2)      B:278-291(21.3)      C:309-316(12.0)
+   YEFDISKFDKSQ    <74> SGDPFTFLGNTLFL  <45> FGGDDQII  [101]
+   +| |||||||||         |||++|||||||         |.||| ||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 57.4, Martellivirales (Kitrino +6.3)
+
+>Q66107_9BROM/228-669
+   A:210-221(27.0)      B:272-285(29.3)      C:305-312(16.8)
+   KEVDFSKFDKSQ    <74> TGDANTYLGNTLVT  <47> ASGDDSLI  [103]
+   +|+|||||||||         ||||||||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 73.1, Martellivirales (Kitrino +16.7)
+
+>A0A1L3KJT4_9VIRU/1993-2434
+   A:216-227(27.3)      B:278-291(23.1)      C:308-315(18.7)
+   LEVDFSKYDKSQ    <74> SGDAMTFFGNTVIL  <44> FSGDDSLI  [100]
+   ||+|||||||||         ||||.||||||+|        ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.1, Martellivirales (Martellivirales +15.3)
+
+>RDRP_TMGMV/1163-1604
+   A:215-226(26.5)      B:277-290(24.5)      C:308-315(14.7)
+   LELDISKYDKSQ    <74> SGDVTTFIGNTVII  <45> FCGDDSVL  [101]
+   ||+|||||||||         |||+|||||||+|.       |||||| +
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 65.8, Martellivirales (Kitrino +11.4)
+
+>B7T2J4_9BROM/210-651
+   A:210-221(27.0)      B:272-285(26.6)      C:305-312(16.8)
+   KEVDFSKFDKSQ    <74> TGDAVTYLGNTIVT  <47> ASGDDSLI  [103]
+   +|+|||||||||         |||| |||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 70.4, Martellivirales (Kitrino +15.1)
+
+>D6CHU1_9BROM/327-767
+   A:210-221(28.0)      B:272-285(28.5)      C:305-312(16.8)
+   KEIDFSKFDKSQ    <74> TGDACTYLGNTIIT  <47> ASGDDSLI  [103]
+   +|||||||||||         ||||||||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 73.3, Martellivirales (Kitrino +17.3)
+
+>Q1XF44_9VIRU/1157-1598
+   A:216-227(26.5)      B:278-291(25.3)      C:309-316(17.5)
+   LELDISKYDKSQ    <74> SGDVTTFIGNTIII  <45> FCGDDSII  [101]
+   ||+|||||||||         |||+|||||||||.       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.4, Martellivirales (Kitrino +14.4)
+
+>Q91NQ0_9BROM/311-752
+   A:210-221(28.0)      B:272-285(28.5)      C:305-312(16.8)
+   KEIDFSKFDKSQ    <74> TGDACTYLGNTIIT  <47> ASGDDSLI  [103]
+   +|||||||||||         ||||||||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 73.3, Martellivirales (Kitrino +17.3)
+
+>RDRP_RBDVR/1234-1674
+   A:212-223(27.5)      B:274-287(25.7)      C:308-315(16.0)
+   TEIDFSKFDKSQ    <74> TGDAFTFLGNSLVT  <48> VGGDDSLI  [104]
+   .|||||||||||         ||||+|||||+|||       |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.2, Martellivirales (Kitrino +15.2)
+
+>T1WFS1_9BROM/296-737
+   A:210-221(28.0)      B:272-285(28.5)      C:305-312(16.8)
+   KEIDFSKFDKSQ    <74> TGDACTYLGNTIIT  <47> ASGDDSLI  [103]
+   +|||||||||||         ||||||||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 73.3, Martellivirales (Kitrino +17.3)
+
+>A0A1L3KJM6_9VIRU/1966-2407
+   A:209-220(28.0)      B:271-284(12.0)      C:307-314(17.0)
+   FEIDFSKFDKSQ    <74> SGDAGTWVLNTVFQ  <50> FSGDDSLV  [106]
+   +|||||||||||         |||| ||  ||+         |||||||.
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 57.0, Martellivirales (Kitrino +3.9)
+
+>POLN_CHIKS/2014-2462
+   A:218-229(22.6)      B:280-293(19.3)      C:313-320(15.3)
+   LETDIASFDKSQ    <74> SGMFLTLFVNTLLN  <47> FIGDDNII  [103]
+   ||+||..|||||         |||+ |.| ||| |       |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 57.2, Martellivirales (Kitrino +14.3)
+
+>POLN_SFV/1969-2417
+   A:218-229(22.6)      B:280-293(18.4)      C:313-320(13.7)
+   LETDIASFDKSQ    <74> SGMFLTLFINTVLN  <47> FIGDDNIV  [103]
+   ||+||..|||||         |||+ |.| ||+ |       |.|||||.
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 54.7, Martellivirales (Kitrino +12.8)
+
+>B6E276_9VIRU/1190-1639
+   A:224-235(26.5)      B:286-299(24.9)      C:317-324(16.1)
+   LELDISKYDKSQ    <74> SGDVTTFIGNTLII  <45> FCGDDSVI  [101]
+   ||+|||||||||         |||+|||||||||.       |||||| |
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.5, Martellivirales (Kitrino +11.6)
+
+>G9L8E7_9CLOS/52-499
+   A:224-235(26.0)      B:286-299(25.7)      C:317-324(17.3)
+   YELDISKYDKSQ    <74> SGGANTWLGNTLVL  <45> VCGDDSLI  [101]
+   +|+|||||||||         ||.||||||||||        ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.0, Martellivirales (Kitrino +14.4)
+
+>POLN_SINDV/2053-2501
+   A:218-229(22.6)      B:280-293(18.9)      C:313-320(15.3)
+   LETDIASFDKSQ    <74> SGMFLTLFVNTVLN  <47> FIGDDNII  [103]
+   ||+||..|||||         |||+ |.| ||+ |       |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 56.8, Martellivirales (Kitrino +14.7)
+
+>A0A1L3KJQ0_9VIRU/2775-3224
+   A:222-233(23.1)      B:284-297(18.2)      C:315-322(10.5)
+   LENDFSKYDKAQ    <74> SGEATTFSGNTLVA  <45> AAGDDTLI  [101]
+   ||+||||||| |         || |||| |||||        ..||| ||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 51.8, Martellivirales (Kitrino +2.5)
+
+>A0A1L3KJN5_9VIRU/1470-1916
+   A:219-230(27.3)      B:281-294(17.6)      C:312-319(13.7)
+   LEVDFSKYDKSQ    <74> TGDSFTCLGNTIIS  <45> FVGDDSLL  [101]
+   ||+|||||||||         |||.+| ||||||        | |||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 58.6, Martellivirales (Kitrino +10.4)
+
+>RDRP_CGMVS/1196-1642
+   A:221-232(25.1)      B:283-296(23.1)      C:314-321(18.3)
+   LELDVSKYDKSQ    <74> SGDVTTFIGNTFII  <45> FCGDDSLI  [101]
+   ||+| |||||||         |||+||||||| |.       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.5, Martellivirales (Kitrino +12.9)
+
+>A0A1L3KKA8_9VIRU/2239-2686
+   A:221-232(27.3)      B:283-296(21.8)      C:313-320(17.9)
+   LEVDFSKYDKSQ    <74> SGDAMTFFGNTLFL  <44> FSGDDSII  [100]
+   ||+|||||||||         ||||.|||||||         ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.0, Martellivirales (Kitrino +12.9)
+
+>A0A385HW49_9CLOS/2437-2883
+   A:221-232(26.5)      B:283-296(24.5)      C:314-321(16.0)
+   GEVDFSKFDKSQ    <74> SGASNTWIGNSVVT  <45> ISGDDSLM  [101]
+   .|+|||||||||         ||..||||||++||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.0, Martellivirales (Kitrino +18.6)
+
+>A0A1L3KJU8_9VIRU/2479-2926
+   A:224-235(26.6)      B:286-299(19.4)      C:317-324(16.9)
+   LEVDISKYDKSQ    <74> SGDASTFFGNTMFL  <45> FAGDDSLI  [101]
+   ||+|||||||||         |||| ||||||.         |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 63.0, Martellivirales (Kitrino +8.9)
+
+>Q911R4_9VIRU/1218-1664
+   A:221-232(25.1)      B:283-296(23.1)      C:314-321(18.3)
+   LELDVSKYDKSQ    <74> SGDVTTFIGNTFII  <45> FCGDDSLI  [101]
+   ||+| |||||||         |||+||||||| |.       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.5, Martellivirales (Kitrino +12.9)
+
+>F6KJM4_9VIRU/1153-1608
+   A:229-240(25.1)      B:291-304(24.5)      C:322-329(16.7)
+   LELDVSKYDKSQ    <74> SGDVTTFIGNTVII  <45> FCGDDSLV  [101]
+   ||+| |||||||         |||+|||||||+|.       |||||||.
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.2, Martellivirales (Kitrino +12.6)
+
+>A0A1L3KK66_9VIRU/2718-3173
+   A:223-234(27.7)      B:285-298(19.3)      C:318-325(15.6)
+   FEIDFSKYDKSQ    <74> SGDAMTFFGNTLWL  <47> FGGDDSLL  [103]
+   +|||||||||||         ||||.|||||||         |.|||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 62.6, Martellivirales (Kitrino +9.5)
+
+>A0SEL2_9VIRU/22-477
+   A:229-240(25.1)      B:291-304(24.5)      C:322-329(16.7)
+   LELDVSKYDKSQ    <74> SGDVTTFIGNTVII  <45> FCGDDSLV  [101]
+   ||+| |||||||         |||+|||||||+|.       |||||||.
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.2, Martellivirales (Kitrino +12.6)
+
+>A0A088CPQ6_9VIRU/1662-2118
+   A:223-234(21.0)      B:285-298(24.9)      C:318-325(13.6)
+   AENDFSDYDRSQ    <74> SGDVTTAFGNTVLN  <47> FLGDDSWF  [103]
+    |+||| |||||         |||+||+||||+ |       |+||||  
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 59.4, Martellivirales (PH5 +8.0)
+
+>A0A348AVR9_9VIRU/3840-4303
+   A:229-240(19.5)      B:291-304(15.9)      C:324-331(17.2)
+   HEIDISAYDKSQ    <74> SGAFYTLIGNTMVS  <47> FIGDDSLI  [103]
+    ||||| |||||         ||.+ |.||||.|        |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 52.6, Martellivirales (Kitrino +7.5)
+
+>A0A2P1DMA3_9VIRU/1785-2248
+   A:216-227(12.8)      B:278-291(17.4)      C:331-338(10.5)
+   GEGDIGKYDKSQ    <74> SGDASTFILNTILV  <67> ASGDDTAL  [123]
+    |.|  |||.||         |||+.|+++|||         ++|||...
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 40.7, PH5 (Martellivirales +0.3)
+
+>A0A1L3KJV6_9VIRU/2243-2693
+   A:222-233(16.8)      B:284-297(22.5)      C:315-322(11.2)
+   VEEDMSKYDKAQ    <74> SGDATTFAGNTLVI  <45> VAGDDSYI  [101]
+   .| | ||||| |         ||||||| |||||.       |.|||| |
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 50.6, Martellivirales (Kitrino +2.9)
+
+>Q5K6D3_9VIRU/1186-1635
+   A:224-235(26.5)      B:286-299(24.9)      C:317-324(14.7)
+   LELDISKYDKSQ    <74> SGDVTTFIGNTLII  <45> FCGDDSVL  [101]
+   ||+|||||||||         |||+|||||||||.       |||||| +
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.2, Martellivirales (Kitrino +11.0)
+
+>RDRP_PCV87/1198-1647
+   A:212-223(24.5)      B:274-287(13.4)      C:305-312(17.0)
+   VEIDFSKYDKSK    <74> SGNCDTYGSNTYSS  <45> FGGDDSLI  [101]
+   .||||||||||.         ||.+.|| +||          |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 54.9, Martellivirales (Kitrino +12.8)
+
+>A0A2P1DMB9_9VIRU/2445-2896
+   A:217-228(23.7)      B:279-292(21.3)      C:317-324(12.0)
+   LEADMSKYDKSQ    <74> SGDPMTYFGNTLFL  <52> FSGDDFLA  [108]
+   || | |||||||         |||+.|||||||         ||||| | 
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 57.0, Martellivirales (Kitrino +7.2)
+
+>M7SBW0_EUTLA/1987-2439
+   A:219-230(21.0)      B:281-294(19.1)      C:314-321(12.9)
+   IENDFSDFDRSQ    <74> SGDVTTSFCNTVLN  <47> FLGDDSFL  [103]
+   +||||| |||||         ||| +||+ ||+ |       |+||||..
+   venDysafDssq         SGergTslgNtlvN       flGDDsli
+Score 53.1, PH5 (Martellivirales +1.9)
+
+>Q91E49_9VIRU/1218-1664
+   A:221-232(25.1)      B:283-296(23.1)      C:314-321(18.3)
+   LELDVSKYDKSQ    <74> SGDVTTFIGNTFII  <45> FCGDDSLI  [101]
+   ||+| |||||||         |||+||||||| |.       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.5, Martellivirales (Kitrino +12.9)
+
+>A0A223FUP3_9VIRU/2181-2631
+   A:224-235(25.3)      B:286-299(7.9)      C:317-324(18.7)
+   LEVDMSKYDKSQ    <74> SGDASTFTMNTFYL <45> FSGDDSLI  [101]
+   ||+| |||||||         |||| ||  ||         ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn      fsGDDSLI
+Score 51.9, Martellivirales (Kitrino +2.2)
+
+>A0A1L3KJZ7_9VIRU/2339-2783
+   A:218-229(27.3)      B:280-293(20.8)      C:310-317(18.7)
+   LEVDFSKYDKSQ    <74> SGDAMTFFGNTMFL  <44> FSGDDSLI  [100]
+   ||+|||||||||         ||||.||||||.         ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.8, Martellivirales (Kitrino +12.0)
+
+>O40960_9CLOS/62-506
+   A:217-228(26.7)      B:278-291(21.0)      C:309-316(17.7)
+   VEVDFSKFDKSQ    <73> TGSPNTWLSNSLAT  <45> VSGDDSLI  [100]
+   .|+|||||||||         ||.+||||+|+| |       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 65.4, Martellivirales (Kitrino +10.9)
+
+>G4U4A6_9CLOS/55-499
+   A:221-232(24.9)      B:283-296(27.5)      C:314-321(15.6)
+   DEVDISKYDKSQ    <74> TGAANTWIGNTVIN  <45> FAGDDSLL  [101]
+    |+|||||||||         ||.||||||||+||       |.|||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.9, Martellivirales (Kitrino +16.9)
+
+>C7DUW5_9CLOS/2052-2496
+   A:217-228(27.5)      B:278-291(26.5)      C:309-316(17.7)
+   TEIDFSKFDKSQ    <73> TGSPNTWLSNTIVT  <45> VSGDDSLI  [100]
+   .|||||||||||         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 71.6, Martellivirales (Kitrino +14.4)
+
+>Q4KRZ4_9CLOS/51-495
+   A:217-228(28.5)      B:278-291(26.0)      C:309-316(17.7)
+   LEIDFSKFDKSQ    <73> TGSPNTWLSNTLVT  <45> VSGDDSLI  [100]
+   ||||||||||||         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 72.2, Martellivirales (Kitrino +15.3)
+
+>G3CCC3_GLRV7/52-496
+   A:217-228(26.4)      B:278-291(23.4)      C:309-316(16.3)
+   TELDFSKFDKSQ    <73> TGSPNTWLSNTLCT  <45> VSGDDSLL  [100]
+   .|+|||||||||         ||.+||||+||| |       |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.2, Martellivirales (Kitrino +10.0)
+
+>C7B977_9CLOS/1941-2385
+   A:217-228(27.5)      B:278-291(22.8)      C:309-316(17.7)
+   TEIDFSKFDKSQ    <73> TGSPNTWLSNTLAT  <45> VSGDDSLI  [100]
+   .|||||||||||         ||.+||||+||| |       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.0, Martellivirales (Kitrino +11.3)
+
+>Q8JJW9_9CLOS/2039-2483
+   A:217-228(28.5)      B:278-291(26.0)      C:309-316(17.7)
+   LEIDFSKFDKSQ    <73> TGSPNTWLSNTLVT  <45> VSGDDSLI  [100]
+   ||||||||||||         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 72.2, Martellivirales (Kitrino +15.3)
+
+>Q8JUU9_9CLOS/61-505
+   A:217-228(21.0)      B:278-291(26.0)      C:309-316(17.7)
+   TEIDFRMFDKSQ    <73> TGSPNTWLSNTLVT  <45> VSGDDSLI  [100]
+   .||||  |||||         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 64.7, Martellivirales (Kitrino +11.8)
+
+>Q8V3A3_9CLOS/58-502
+   A:221-232(24.9)      B:283-296(27.5)      C:314-321(16.9)
+   DEVDISKYDKSQ    <74> TGAANTWIGNTVIN  <45> FAGDDSLI  [101]
+    |+|||||||||         ||.||||||||+||       |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.3, Martellivirales (Kitrino +17.5)
+
+>Q6JGW4_9CLOS/1998-2442
+   A:217-228(27.5)      B:278-291(26.0)      C:309-316(17.7)
+   TEIDFSKFDKSQ    <73> TGSPNTWLSNTLVT  <45> VSGDDSLI  [100]
+   .|||||||||||         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 71.2, Martellivirales (Kitrino +14.0)
+
+>B2BZW1_9CLOS/68-512
+   A:217-228(21.0)      B:278-291(26.0)      C:309-316(17.7)
+   TEIDFRMFDKSQ    <73> TGSPNTWLSNTLVT  <45> VSGDDSLI  [100]
+   .||||  |||||         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 64.7, Martellivirales (Kitrino +11.8)
+
+>C6FJ53_9CLOS/2042-2486
+   A:217-228(21.0)      B:278-291(26.0)      C:309-316(17.7)
+   TEIDFRMFDKSQ    <73> TGSPNTWLSNTLVT  <45> VSGDDSLI  [100]
+   .||||  |||||         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 64.7, Martellivirales (Kitrino +11.8)
+
+>E7CT63_9CLOS/66-510
+   A:217-228(27.2)      B:278-291(23.2)      C:309-316(16.3)
+   CEIDFSKFDKSQ    <73> TGSPNTFLSNSIVT  <45> VSGDDSLL  [100]
+    |||||||||||         ||.+||||+|+|||       |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.7, Martellivirales (Kitrino +13.2)
+
+>B2KIT4_9CLOS/58-502
+   A:221-232(24.9)      B:283-296(25.5)      C:314-321(16.9)
+   DEVDISKYDKSQ    <74> TGAANTWVGNTLIN  <45> FAGDDSLI  [101]
+    |+|||||||||         ||.|||| ||||||       |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.3, Martellivirales (Kitrino +16.1)
+
+>A0A1L3KKD0_9VIRU/1360-1805
+   A:222-233(13.0)      B:286-299(18.3)      C:317-324(16.7)
+   TCNDFSEWDASF    <76> SGNPFTICENTIGN  <45> FKGDDSAV  [103]
+    +|||||||            || | |.|.||| |       |||||| |
+   FENDFSEFDSTQ         SGEPGTLLwNTVWN       FKGDDSVV
+Score 48.0, Hepelivirales (PH5 +3.4)
+
+>R1AB_LIYV9/1925-2370
+   A:217-228(28.5)      B:279-292(26.0)      C:310-317(17.7)
+   LEIDFSKFDKSQ    <74> TGSPNTWLSNTLVT  <45> VSGDDSLI  [101]
+   ||||||||||||         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 72.2, Martellivirales (Kitrino +15.3)
+
+>R1AB_BYVU/2601-3046
+   A:220-231(27.5)      B:282-295(21.3)      C:313-320(17.7)
+   GEIDFSKFDKSQ    <74> SGASNTWIGNSIET  <45> VSGDDSLI  [101]
+   .|||||||||||         ||..||||||+| |       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.5, Martellivirales (Kitrino +17.5)
+
+>A0A0G2UG82_9CLOS/52-496
+   A:217-228(26.1)      B:278-291(25.5)      C:309-316(17.7)
+   CELDFSKFDKSQ    <73> TGSPNTWLSNTITT  <45> VSGDDSLI  [100]
+    |+|||||||||         ||.+||||+|||+|       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.3, Martellivirales (Kitrino +12.8)
+
+>L7P0B7_9CLOS/80-524
+   A:217-228(27.2)      B:278-291(21.5)      C:309-316(15.2)
+   CEIDFSKFDKSQ    <73> TGSPNTFLSNCLTT  <45> ISGDDSLL  [100]
+    |||||||||||         ||.+||||+|.|+|       .||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 63.9, Martellivirales (Kitrino +10.0)
+
+>Q6VRA8_9CLOS/1988-2432
+   A:217-228(22.7)      B:278-291(26.0)      C:309-316(17.7)
+   IEIDFSKFDKPQ    <73> TGSPNTWLSNTLVT  <45> VSGDDSLI  [100]
+    ||||||||| |         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.4, Martellivirales (Kitrino +13.6)
+
+>D3KY87_9CLOS/2039-2483
+   A:217-228(21.0)      B:278-291(26.0)      C:309-316(17.7)
+   TEIDFRMFDKSQ    <73> TGSPNTWLSNTLVT  <45> VSGDDSLI  [100]
+   .||||  |||||         ||.+||||+|||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 64.7, Martellivirales (Kitrino +11.8)
+
+>L7P0B1_9CLOS/68-512
+   A:217-228(27.2)      B:278-291(23.2)      C:309-316(16.3)
+   CEIDFSKFDKSQ    <73> TGSPNTFLSNSIVT  <45> VSGDDSLL  [100]
+    |||||||||||         ||.+||||+|+|||       |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.7, Martellivirales (Kitrino +13.2)
+
+>A0A0C5H7M3_9VIRU/1472-1892
+   A:216-227(30.2)      B:272-285(32.0)      C:303-310(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>G9I487_9VIRU/1185-1629
+   A:219-230(26.5)      B:281-294(26.1)      C:312-319(17.5)
+   LELDISKYDKSQ    <74> SGDVTTFIGNTIVI  <45> FCGDDSII  [101]
+   ||+|||||||||         |||+|||||||||.       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 70.1, Martellivirales (Kitrino +15.3)
+
+>A0A0U3DYR9_9VIRU/1593-2013
+   A:216-227(29.5)      B:272-285(32.6)      C:303-310(19.5)
+   TESDYEAFDSSQ    <68> TGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   |||||||||+||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.6, Tymovirales (Kitrino +26.9)
+
+>A0A2L0V1Q0_9VIRU/1571-1991
+   A:215-226(28.7)      B:271-284(31.4)      C:302-309(19.5)
+   VESDYEAFDASQ    <68> TGEFCTFLFNTLAN  <45> FAGDDMCS  [95]
+   +|||||||||||         |||||||||||+||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 79.6, Tymovirales (Kitrino +26.3)
+
+>A0A0U3DD24_9VIRU/1576-1996
+   A:216-227(29.5)      B:272-285(32.6)      C:303-310(19.5)
+   TESDYEAFDSSQ    <68> TGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   |||||||||+||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.6, Tymovirales (Kitrino +26.9)
+
+>A0A0H3YGY3_9VIRU/1472-1892
+   A:216-227(30.2)      B:272-285(32.0)      C:303-310(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A0A346G7J9_9VIRU/1711-2130
+   A:218-229(30.2)      B:274-287(31.1)      C:305-312(20.4)
+   TESDYEAFDASQ    <68> TGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.8, Tymovirales (Kitrino +27.4)
+
+>B6RTB0_9VIRU/1352-1772
+   A:216-227(30.2)      B:272-285(32.0)      C:303-310(19.5)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   ||||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.7, Tymovirales (Kitrino +26.5)
+
+>A8II53_9VIRU/1621-2039
+   A:214-225(30.2)      B:270-283(32.0)      C:301-308(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A3KL92_CVB/1651-2070
+   A:215-226(30.2)      B:271-284(25.6)      C:302-309(9.8)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAI  <45> SIGDDMCA  [95]
+   ||||||||||||         |||||||||||||          ||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 65.6, Tymovirales (Kitrino +18.5)
+
+>A0A0K1HSF2_9CLOS/7-426
+   A:194-205(26.5)      B:256-269(25.3)      C:287-294(17.1)
+   GEVDFSKFDKSQ    <74> SGASNTWIGNSIVT  <45> VSGDDSLM  [101]
+   .|+|||||||||         ||..||||||+|||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.9, Martellivirales (Kitrino +18.5)
+
+>A0A1L3KKA1_9VIRU/2183-2609
+   A:203-214(25.3)      B:265-278(19.5)      C:296-303(13.9)
+   IEVDISKYDKSQ    <74> SGDAFTLLGNTMLS  <45> FIGDDSWL  [101]
+    |+|||||||||         ||||+|.||||.         |.|||| +
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 58.7, Martellivirales (Kitrino +10.1)
+
+>A0A1L3KJK9_9VIRU/1491-1910
+   A:211-222(6.9)      B:271-284(15.4)      C:302-309(12.3)
+   ASVDISEQDTTK   <72> SGRPDTLFDNTAHN  <45> ATGDDGCI  [99]
+    | | |  | |         ||+||| + || +|       |.|||+ |
+   iSiDGSaFDStQ        SGhpdTTlgNTlrr       AsGDDvvi
+Score 34.7, PH24 (PH16 +0.1)
+
+>RDRP_PVMR/1541-1960
+   A:212-223(30.2)      B:268-281(30.5)      C:299-306(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.2, Tymovirales (Kitrino +25.5)
+
+>V5IV60_9CLOS/22-447
+   A:200-211(27.2)      B:262-275(25.3)      C:293-300(17.7)
+   GEIDFSKYDKSQ    <74> SGASNTWIGNSIVT  <45> VSGDDSLI  [101]
+   .|||||||||||         ||..||||||+|||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 70.2, Martellivirales (Kitrino +19.9)
+
+>A0A1L3KKG1_9VIRU/1927-2353
+   A:215-226(9.5)      B:277-290(14.8)       C:377-384(3.7)
+   MEIDISKYDKSQ   <74> SGDASTFILNTVFL  <114> SFSDNVRC  [170]
+   |+ | .|.|.|.        ||||.| . ||||          +||.+ |
+   lgwDypKCDRsm        SGDatTAyaNSvfN        ilSDDGvv
+Score 28.0, PH17 (PH10 +7.6)
+
+>RDRP_PZSVT/233-660
+   A:198-209(26.6)      B:260-273(27.5)      C:291-298(14.4)
+   LEVDLSKFDKSQ    <74> TGDAFTFFGNTLVT  <45> FAGDDSLA  [101]
+   ||+|+|||||||         ||||+|||||||||       |.||||| 
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.5, Martellivirales (Kitrino +14.7)
+
+>A0A240G1F7_9VIRU/1703-2124
+   A:217-228(29.5)      B:273-286(31.1)      C:304-311(20.4)
+   TESDYEAFDSSQ    <68> TGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   |||||||||+||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.1, Tymovirales (Kitrino +26.0)
+
+>A0A1C9IAW9_9VIRU/1532-1953
+   A:217-228(30.2)      B:273-286(32.0)      C:304-311(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>Q66238_9CLOS/7-433
+   A:201-212(26.5)      B:263-276(24.8)      C:294-301(17.7)
+   GEVDFSKFDKSQ    <74> SGGSNTWIGNSLVT  <45> VSGDDSLI  [101]
+   .|+|||||||||         ||..||||||+|||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.0, Martellivirales (Kitrino +18.0)
+
+>Q6RBY9_9VIRU/1561-1982
+   A:217-228(30.2)      B:273-286(32.0)      C:304-311(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>RDRP_OLV2I/310-732
+   A:199-210(26.5)      B:261-274(21.6)      C:293-300(17.7)
+   TEIDLSKFDKSQ    <74> TGNTATYFGNTLVT  <46> FSGDDNLI  [102]
+   .|||+|||||||         ||.  |||||||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 65.8, Martellivirales (Kitrino +16.8)
+
+>I2E5K4_9VIRU/1443-1865
+   A:218-229(30.2)      B:274-287(29.2)      C:305-312(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMSN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||| |       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 79.8, Tymovirales (Kitrino +24.8)
+
+>A0A1L3KJV4_9VIRU/1150-1572
+   A:217-228(28.5)      B:273-286(29.7)      C:303-310(15.7)
+   VANDYTAFDQSQ    <68> TGEPGTWDDNTDYN  <44> VSGDDSCI  [94]
+   +|||||||||||         ||||||+|||||||       +||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 73.9, Tymovirales (Kitrino +18.4)
+
+>B2CML7_9VIRU/1533-1951
+   A:214-225(30.2)      B:270-283(30.5)      C:301-308(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.2, Tymovirales (Kitrino +25.5)
+
+>Q5L4G0_9VIRU/1663-2078
+   A:212-223(30.2)      B:268-281(29.5)      C:299-306(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTIAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||| ||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 80.1, Tymovirales (Kitrino +24.4)
+
+>A0MBW4_9CLOS/1-416
+   A:190-201(26.5)      B:252-265(24.8)      C:283-290(16.6)
+   GEVDFSKFDKSQ    <74> SGGSNTWIGNSLVT  <45> ISGDDSLI  [101]
+   .|+|||||||||         ||..||||||+|||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.9, Martellivirales (Martellivirales +13.0)
+
+>E5KJF1_9VIRU/1412-1827
+   A:211-222(30.2)      B:267-280(31.1)      C:298-305(19.5)
+   TESDYEAFDASQ    <68> TGEASTFLFNTLAN  <45> FAGDDMCS  [95]
+   ||||||||||||         |||||||||||+||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 80.9, Tymovirales (Kitrino +27.1)
+
+>Q9E9R6_9VIRU/1555-1970
+   A:211-222(30.2)      B:267-280(30.5)      C:298-305(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.2, Tymovirales (Kitrino +25.5)
+
+>A0A0A7MDS8_9VIRU/1565-1980
+   A:211-222(30.2)      B:267-280(32.0)      C:298-305(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A0A1W5KQI9_9VIRU/1615-2029
+   A:210-221(29.5)      B:266-279(32.0)      C:297-304(19.5)
+   TESDYEAFDSSQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   |||||||||+||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.0, Tymovirales (Kitrino +25.0)
+
+>Q0VZD1_9VIRU/1540-1954
+   A:211-222(30.2)      B:267-280(30.5)      C:298-305(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.2, Tymovirales (Kitrino +25.5)
+
+>Q49IH2_9CLOS/1-416
+   A:190-201(26.2)      B:252-265(24.9)      C:283-290(16.6)
+   GEVDFSKYDKSQ    <74> SGASNTWIGNSLVT  <45> ISGDDSLI  [101]
+   .|+|||||||||         ||..||||||+|||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.7, Martellivirales (Kitrino +19.0)
+
+>A0A0A7M8S8_9VIRU/1571-1985
+   A:210-221(30.2)      B:266-279(32.0)      C:297-304(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>Q4F978_9VIRU/1545-1960
+   A:211-222(30.2)      B:267-280(32.0)      C:298-305(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A0A0A7M9C7_9VIRU/1551-1966
+   A:211-222(30.2)      B:267-280(32.0)      C:298-305(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A0A0B4VMT5_9VIRU/1531-1946
+   A:211-222(30.2)      B:267-280(30.5)      C:298-305(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.2, Tymovirales (Kitrino +25.5)
+
+>D2Z042_9VIRU/1571-1988
+   A:213-224(30.2)      B:269-282(30.5)      C:300-307(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.2, Tymovirales (Kitrino +25.5)
+
+>A4ZWC5_9VIRU/1561-1979
+   A:214-225(30.2)      B:270-283(32.0)      C:301-308(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>RDRP_ASPVP/1752-2169
+   A:213-224(30.2)      B:269-282(32.6)      C:300-307(20.4)
+   TESDYEAFDASQ    <68> TGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 83.2, Tymovirales (Kitrino +28.6)
+
+>C6GFJ8_9CLOS/13-430
+   A:192-203(26.5)      B:254-267(26.0)      C:285-292(16.6)
+   GEVDFSKFDKSQ    <74> SGAANTWIGNSVVT  <45> ISGDDSLI  [101]
+   .|+|||||||||         ||.|||||||++||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.1, Martellivirales (Kitrino +18.2)
+
+>A0A1W7HH22_9VIRU/1660-2077
+   A:213-224(30.2)      B:269-282(30.5)      C:300-307(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTLAN  <45> FAGDDMCA  [95]
+   ||||||||||||         |||||||||||+||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 81.2, Tymovirales (Kitrino +25.5)
+
+>Q65854_9CLOS/1-418
+   A:190-201(27.2)      B:254-267(24.5)      C:285-292(17.7)
+   GEIDFSKYDKSQ    <76> SGASNTWIGNSVVT  <45> VSGDDSLI  [103]
+   .|||||||||||         ||..||||||++||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.4, Martellivirales (Kitrino +20.0)
+
+>C0L9E8_9VIRU/1505-1922
+   A:213-224(30.2)      B:269-282(32.0)      C:300-307(20.4)
+   TESDYEAFDASQ    <68> SGEASTFLFNTMAN  <45> FAGDDMCA  [95]
+   ||||||||||||         ||||||||||||||       ||||||||
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.6, Tymovirales (Kitrino +26.7)
+
+>A0A088MG77_9CLOS/1-417
+   A:191-202(26.5)      B:253-266(26.8)      C:284-291(16.6)
+   GEVDFSKFDKSQ    <74> SGGANTWIGNSIVT  <45> ISGDDSLI  [101]
+   .|+|||||||||         ||.|||||||+|||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.9, Martellivirales (Martellivirales +12.9)
+
+>Q5G7G6_9CLOS/1-417
+   A:191-202(26.5)      B:253-266(24.5)      C:284-291(17.1)
+   GEVDFSKFDKSQ    <74> SGASNTWIGNSVVT  <45> VSGDDSLM  [101]
+   .|+|||||||||         ||..||||||++||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.1, Martellivirales (Kitrino +18.5)
+
+>G5D8V5_9VIRU/452-869
+   A:212-223(30.2)      B:268-281(32.6)      C:299-306(19.5)
+   TESDYEAFDASQ    <68> TGEASTFLFNTMAN  <45> FAGDDMCS  [95]
+   ||||||||||||         ||||||||||||||       |||||||+
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 82.3, Tymovirales (Kitrino +28.3)
+
+>A0A0U3ALY5_9VIRU/1394-1832
+   A:213-224(24.8)      B:275-288(17.6)      C:306-313(16.4)
+   VEIDFSKFDKSK    <74> SGNCDTYGSNTWSA  <45> FGGDDSLM  [101]
+   .||||||||||.         ||.+.|| +|||         |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 58.7, Martellivirales (Kitrino +14.3)
+
+>Q84918_9VIRU/1232-1670
+   A:213-224(21.7)      B:275-288(14.3)      C:306-313(13.9)
+   IEIDLSKFDKSA    <74> SGDADTYNANSDRT  <45> YGGDDSLI  [101]
+    |||+||||||          ||||.||  |+  |        .||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 49.8, Martellivirales (Kitrino +7.6)
+
+>W5VFZ4_9VIRU/1806-2243
+   A:230-241(21.1)      B:292-305(14.8)       C:392-399(4.4)
+   REMDMSKFDKSQ    <74> SGSAATYFGNTCFC  <114> VSQYDSLL  [170]
+    |.| |||||||         ||.| ||||||           ||  |||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn        fsGDDSLI
+Score 40.3, Martellivirales (PH15 +4.7)
+
+>Q91BP7_9VIRU/1508-1924
+   A:212-223(30.2)      B:268-281(32.6)      C:299-306(18.0)
+   TESDYEAFDASQ    <68> TGEASTFLFNTMAN  <45> FAGDDMYA  [95]
+   ||||||||||||         ||||||||||||||       ||||||.|
+   teSDYEAFDqSQ         TGEagTFlFNTmaN       FAGDDMca
+Score 80.8, Tymovirales (Kitrino +27.6)
+
+>Q0GK54_9CLOS/1-416
+   A:190-201(27.5)      B:252-265(24.8)      C:283-290(16.6)
+   GEIDFSKFDKSQ    <74> SGGSNTWIGNSLVT  <45> ISGDDSLI  [101]
+   .|||||||||||         ||..||||||+|||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.9, Martellivirales (Martellivirales +13.0)
+
+>RDRP_TRVPP/1240-1678
+   A:213-224(21.2)      B:275-288(14.3)      C:306-313(13.9)
+   VEIDMSKFDKSA    <74> SGDADTYNANSDRT  <45> YGGDDSLI  [101]
+   .||| ||||||          ||||.||  |+  |        .||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 49.3, Martellivirales (Kitrino +6.3)
+
+>RDRP_PMTVS/1356-1794
+   A:213-224(24.8)      B:275-288(17.6)      C:306-313(17.0)
+   VEIDFSKFDKSK    <74> SGNCDTYGSNTWSA  <45> FGGDDSLI  [101]
+   .||||||||||.         ||.+.|| +|||         |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 59.3, Martellivirales (Kitrino +14.2)
+
+>A0A1L3KJH5_9VIRU/2513-2950
+   A:210-221(22.2)      B:272-285(18.5)      C:304-311(10.9)
+   FETDFGKYDKSQ    <74> SGDPMTFLGNTMYL  <46> FAGDDSYL  [102]
+   +|+|| ||||||         |||+.||||||.         |.|||| +
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 51.6, Martellivirales (Kitrino +1.2)
+
+>Q5VI74_9BROM/328-766
+   A:209-220(28.0)      B:270-283(25.7)      C:303-310(16.8)
+   KEIDFSKFDKSQ    <73> TGDAVTYLGNTVVT  <47> ASGDDSLI  [102]
+   +|||||||||||         |||| ||||||+||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 70.5, Martellivirales (Kitrino +15.7)
+
+>Q9JGK2_9VIRU/52-489
+   A:212-223(25.1)      B:274-287(17.6)      C:305-312(17.0)
+   FEIDFSKFDKSK    <74> SGNCDTYGSNTWSA  <45> FGGDDSLI  [101]
+   +||||||||||.         ||.+.|| +|||         |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 59.6, Martellivirales (Kitrino +14.1)
+
+>Q9IWB1_9VIRU/1361-1798
+   A:212-223(25.1)      B:274-287(17.6)      C:305-312(17.0)
+   FEIDFSKFDKSK    <74> SGNCDTYGSNTWSA  <45> FGGDDSLI  [101]
+   +||||||||||.         ||.+.|| +|||         |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 59.6, Martellivirales (Kitrino +14.1)
+
+>O90699_9VIRU/1363-1800
+   A:212-223(24.8)      B:274-287(17.6)      C:305-312(17.0)
+   VEIDFSKFDKSK    <74> SGNCDTYGSNTWSA  <45> FGGDDSLI  [101]
+   .||||||||||.         ||.+.|| +|||         |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 59.3, Martellivirales (Kitrino +14.2)
+
+>RDRP_TVCV/1159-1598
+   A:214-225(26.5)      B:276-289(25.3)      C:307-314(18.3)
+   LELDISKYDKSQ    <74> SGDVTTFIGNTIII  <45> FCGDDSLI  [101]
+   ||+|||||||||         |||+|||||||||.       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 70.2, Martellivirales (Kitrino +14.7)
+
+>A0A088DBB7_9VIRU/1787-2224
+   A:230-241(8.3)      B:292-305(4.1)      C:351-358(4.2)
+   KEMDMSKFDKSQ   <74> SGSAATYFGNTCFC <73> VISDTRIR  [129]
+    |||++.|+ +         |||  |  |||         | || |||
+   dEsDkksWEATt        SGsllTLdGNTlRH      ilGDDrla
+Score 16.6, PH25 (PH28 +1.3)
+
+>A0A1U7EIZ3_9VIRU/1809-2246
+   A:230-241(14.2)      B:292-305(16.3)       C:392-399(4.1)
+   KEMDMSKFDKSQ    <74> SGSAATYFGNTCFC  <114> VSEYDCLM  [170]
+    | |+|||| ||         |||+ | ||||+          ||  |.|+
+   iEgDfSkfDqSQ         TGssdTTlGNtlvn        vaGDDsla
+Score 34.5, PH15 (Nidovirales +12.0)
+
+>B8PRG7_9VIRU/52-491
+   A:214-225(26.0)      B:276-289(24.9)      C:307-314(16.1)
+   YELDISKYDKSQ    <74> SGDVTTFIGNTFIN  <45> FCGDDSVI  [101]
+   +|+|||||||||         |||+||||||| ||       |||||| |
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 67.0, Martellivirales (Kitrino +7.6)
+
+>A0A1E1JQ47_9VIRU/1280-1719
+   A:211-222(27.5)      B:273-286(27.5)      C:307-314(16.0)
+   TEIDFSKFDKSQ    <74> TGDAFTFLGNTLVT  <48> VGGDDSLI  [104]
+   .|||||||||||         ||||+|||||||||       |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 71.0, Martellivirales (Kitrino +15.2)
+
+>Q9WJD8_PEBV/1299-1738
+   A:214-225(20.7)      B:276-289(14.3)      C:307-314(13.9)
+   IEVDLSKFDKSA    <74> SGDADTYNANSDRT  <45> YGGDDSLI  [101]
+    |+|+||||||          ||||.||  |+  |        .||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 48.9, Martellivirales (Kitrino +7.1)
+
+>POLG_CILVC/2055-2494
+   A:214-225(25.0)      B:276-289(17.0)      C:307-314(17.3)
+   LEIDIKKYDKSQ    <74> SGDGGTFIGNTLFL  <45> FSGDDSLL  [101]
+   ||||| ||||||         |||  |||||||         |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 59.3, Martellivirales (Kitrino +8.9)
+
+>M1JAW3_9VIRU/2047-2486
+   A:214-225(25.0)      B:276-289(16.0)      C:307-314(17.3)
+   LEIDIKKYDKSQ    <74> SGDGGTFFGNTMFL  <45> FSGDDSLL  [101]
+   ||||| ||||||         |||  ||||||.         |||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 58.3, Martellivirales (Kitrino +7.2)
+
+>Q997A3_9BROM/267-705
+   A:207-218(25.3)      B:272-285(28.8)      C:305-312(16.8)
+   KEIDYSKFDKSQ    <77> TGDACTYLGNTLVT  <47> ASGDDSLI  [106]
+   +||| |||||||         ||||||||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 71.0, Martellivirales (Kitrino +14.8)
+
+>A0A1Z2RT39_9VIRU/35-474
+   A:209-220(27.7)      B:271-284(12.1)      C:307-314(18.7)
+   FEIDFSKYDKSQ    <74> SGDAGTWRLNTVVQ  <50> FSGDDSLI  [106]
+   +|||||||||||         |||| ||  ||+|        ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 58.5, Martellivirales (Kitrino +7.8)
+
+>A0A1L3KJR7_9VIRU/2050-2489
+   A:216-227(27.6)      B:278-291(23.3)      C:309-316(15.8)
+   LEIDISKYDKSQ    <74> SGDAFTLLGNTMLT  <45> FIGDDSLL  [101]
+   ||||||||||||         ||||+|.||||. |       |.|||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 66.7, Martellivirales (Kitrino +14.8)
+
+>A0A1W5YQJ4_9VIRU/1161-1600
+   A:214-225(26.5)      B:276-289(22.3)      C:307-314(14.7)
+   LELDISKYDKSQ    <74> SGDVSTFIGNTIII  <45> FCGDDSVL  [101]
+   ||+|||||||||         |||+ ||||||||.       |||||| +
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 63.5, Martellivirales (Kitrino +9.1)
+
+>G5DFC7_9VIRU/691-1125
+   A:211-222(22.6)      B:273-286(22.4)      C:304-311(18.7)
+   YEFDMSKYDKSQ    <74> SGDASTYFGNTVIL  <45> FSGDDSLI  [101]
+   +| | |||||||         |||| ||||||+|        ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 63.6, Martellivirales (Kitrino +7.9)
+
+>Q9YPH5_9VIRU/1359-1796
+   A:212-223(21.5)      B:274-287(17.6)      C:305-312(10.7)
+   VEIDFRKFDKSK    <74> SGNCDTYGSNTWSA  <45> SGGDDSLF  [101]
+   .|||| |||||.         ||.+.|| +|||          .||||| 
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 49.8, Martellivirales (Kitrino +10.9)
+
+>A0A386QVC9_9BROM/224-658
+   A:207-218(25.3)      B:269-282(28.8)      C:302-309(17.7)
+   KEIDYSKFDKSQ    <74> TGDACTYLGNTLVT  <47> VSGDDSLI  [103]
+   +||| |||||||         ||||||||||||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 71.8, Martellivirales (Kitrino +14.1)
+
+>Q6JE41_9BROM/377-810
+   A:210-221(28.0)      B:272-285(28.8)      C:305-312(12.7)
+   KEIDFSKFDKSQ    <74> TGDACTYLGNTLVT  <47> ASGDDCLI  [103]
+   +|||||||||||         ||||||||||||||       .|||| ||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.4, Martellivirales (Kitrino +13.3)
+
+>Q85065_9BROM/295-730
+   A:207-218(27.6)      B:269-282(25.3)      C:300-307(16.2)
+   LEIDLSKFDKSQ    <74> TGDAFTSFGNTLVT  <45> FSGDDSLA  [101]
+   ||||+|||||||         ||||+| |||||||       ||||||| 
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.1, Martellivirales (Kitrino +14.1)
+
+>A0A386QUR9_9VIRU/756-1191
+   A:212-223(21.6)      B:274-287(23.2)      C:305-312(13.9)
+   AEFDMSKYDKSQ    <74> SGDASTYIGNTIIL  <45> CSGDDSLL  [101]
+    | | |||||||         |||| ||||||||         ||||||+
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 58.7, Martellivirales (Kitrino +7.1)
+
+>I7HHJ1_9BROM/200-629
+   A:199-210(26.7)      B:261-274(27.5)      C:292-299(14.4)
+   VEIDLSKFDKSQ    <74> TGDAFTFFGNTLVT  <45> FAGDDSLA  [101]
+   .|||+|||||||         ||||+|||||||||       |.||||| 
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 68.6, Martellivirales (Kitrino +14.1)
+
+>W8EDW2_9BROM/224-653
+   A:199-210(26.7)      B:261-274(28.1)      C:292-299(16.2)
+   VEIDLSKFDKSQ    <74> TGDAFTYFGNTLVT  <45> FSGDDSLA  [101]
+   .|||+|||||||         ||||+|||||||||       ||||||| 
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 71.1, Martellivirales (Kitrino +15.5)
+
+>A0A1U7EIY4_9VIRU/1885-2316
+   A:212-223(27.6)      B:274-287(20.4)      C:305-312(14.1)
+   LEIDISKYDKSQ    <74> SGDASTFIGNTLFL  <45> FSGDDSYI  [101]
+   ||||||||||||         |||| |||||||         |||||| |
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 62.1, Martellivirales (Nidovirales +4.2)
+
+>A0A1L3KK59_9VIRU/1722-2150
+   A:218-229(6.5)      B:278-291(11.6)      C:309-316(9.3)
+   CSADITEQDTNK   <72> SGRADTIFANTCMA  <45> FQGDDINI  [99]
+    + | |.||+          || ++| + || .        |.|||  |
+   venDysafDssq        SGergTslgNtlvN       flGDDsli
+Score 27.4, PH5 (Kitrino +3.0)
+
+>RDRP_BMV/256-688
+   A:207-218(24.9)      B:269-282(28.1)      C:300-307(18.7)
+   LEADLSKFDKSQ    <74> TGDAFTYFGNTLVT  <45> FSGDDSLI  [101]
+   || |+|||||||         ||||+|||||||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 71.8, Martellivirales (Kitrino +16.9)
+
+>Q9JGJ6_9VIRU/52-489
+   A:212-223(25.1)      B:274-287(17.6)      C:305-312(17.0)
+   FEIDFSKFDKSK    <74> SGNCDTYGSNTWSA  <45> FGGDDSLI  [101]
+   +||||||||||.         ||.+.|| +|||         |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 59.6, Martellivirales (Kitrino +14.1)
+
+>A0A2U8JH94_9CLOS/16-446
+   A:205-216(26.5)      B:267-280(27.1)      C:298-305(17.1)
+   GEVDFSKFDKSQ    <74> SGASNTWIGNTIVT  <45> VSGDDSLM  [101]
+   .|+|||||||||         ||..||||||||||       ||||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 70.8, Martellivirales (Kitrino +18.5)
+
+>RDRP_SBWMN/1373-1810
+   A:212-223(25.1)      B:274-287(17.6)      C:305-312(17.0)
+   FEIDFSKFDKSK    <74> SGNCDTYGSNTWSA  <45> FGGDDSLI  [101]
+   +||||||||||.         ||.+.|| +|||         |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 59.6, Martellivirales (Kitrino +14.1)
+
+>A0A1L3KJH0_9VIRU/1784-2221
+   A:213-224(26.6)      B:275-288(20.1)      C:306-313(15.3)
+   LEVDISKYDKSQ    <74> SGDASTYLGNTMFL  <45> CSGDDSLI  [101]
+   ||+|||||||||         |||| ||||||.          |||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 62.0, Martellivirales (Kitrino +8.1)
+
+>A0A1Z2RT09_9VIRU/1788-2225
+   C:198-205(3.8)      A:230-241(18.2)      B:292-305(19.2)
+   EFGDDCFE       <40> KEMDMSKFDKSQ    <74> SGSAATYFGNTCFC  [108]
+     ||||               | |.|||||||         ||++ ||+|||  |
+   vsGDDsvv            lenDyskFDksq         SGdanTslGNTltn
+Score 41.1 permuted, Kitrino (PH5 +6.7)
+
+>O56790_9VIRU/1323-1760
+   A:212-223(24.8)      B:274-287(17.6)      C:305-312(15.3)
+   VEIDFSKFDKSK    <74> SGNCDTYGSNTWSA  <45> FGGDDSLV  [101]
+   .||||||||||.         ||.+.|| +|||         |.|||||.
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 57.7, Martellivirales (Kitrino +12.4)
+
+>RDRP_TOBSV/253-690
+   A:210-221(28.0)      B:272-285(28.8)      C:305-312(16.8)
+   KEIDFSKFDKSQ    <74> TGDACTYLGNTLVT  <47> ASGDDSLI  [103]
+   +|||||||||||         ||||||||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 73.6, Martellivirales (Kitrino +17.9)
+
+>RDRP_CMVQ/305-741
+   A:207-218(27.6)      B:269-282(28.6)      C:300-307(16.2)
+   LEIDLSKFDKSQ    <74> TGDAFTYFGNTIVT  <45> FSGDDSLA  [101]
+   ||||+|||||||         ||||+|||||||||       ||||||| 
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 72.4, Martellivirales (Kitrino +17.0)
+
+>RDRP_BSMV/317-753
+   A:211-222(25.6)      B:273-286(17.6)      C:304-311(17.0)
+   LEIDFSKFDKSK    <74> SGNCDTYGSNTWSA  <45> FGGDDSLI  [101]
+   |||||||||||.         ||.+.|| +|||         |.||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 60.2, Martellivirales (Kitrino +15.3)
+
+>A0A1U7EIW8_9VIRU/1865-2301
+   A:211-222(27.3)      B:273-286(25.2)      C:305-312(17.0)
+   LEIDLSKYDKSQ    <74> SGDPSTWLGNTLIN  <46> FSGDDSLV  [102]
+   ||||+|||||||         |||+ |||||||||       |||||||.
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 69.5, Martellivirales (Kitrino +10.2)
+
+>S4UY15_9BROM/252-688
+   A:210-221(28.0)      B:272-285(28.8)      C:305-312(16.8)
+   KEIDFSKFDKSQ    <74> TGDACTYLGNTLVT  <47> ASGDDSLI  [103]
+   +|||||||||||         ||||||||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 73.6, Martellivirales (Kitrino +17.9)
+
+>RDRP_TAV/313-749
+   A:206-217(27.6)      B:268-281(28.1)      C:299-306(15.3)
+   LEIDLSKFDKSQ    <74> TGDAFTYFGNTLVT  <45> FSGDDSLG  [101]
+   ||||+|||||||         ||||+|||||||||       ||||||| 
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 71.0, Martellivirales (Kitrino +17.3)
+
+>Q6RK13_9BROM/259-695
+   A:210-221(28.0)      B:272-285(28.8)      C:305-312(16.8)
+   KEIDFSKFDKSQ    <74> TGDACTYLGNTLVT  <47> ASGDDSLI  [103]
+   +|||||||||||         ||||||||||||||       .|||||||
+   lEiDfSKFDKSQ         TGdatTylGNTivn       fsGDDSLI
+Score 73.6, Martellivirales (Kitrino +17.9)

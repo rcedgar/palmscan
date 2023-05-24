@@ -1,0 +1,231 @@
+
+>Q26816_9TRYP/545-793
+   A:79-90(3.6)      B:140-153(5.9)      C:170-177(7.5)
+   VFVDYKAFDTVD <73> QGIVLGPIMFIIVM <44> FFADDLTL  [99]
+   ||.||++|+         ||  | || |++||       |||| .+
+   vsiDlekAfDrv      qGdPLSnilfslvl      aFADDivv
+Score 17.0, RT (RT2 +0.0)
+
+>Q04135_DROME/496-743
+   A:82-93(14.0)      B:143-156(6.9)      C:169-176(5.7)
+   IFLDVAQAFDRV  <73> QGSVLGPILYTLYT <40> TFADDTAI  [95]
+   +|+|  +|||||       ||| | ||| |||        ||||  +
+   vsiDlekAfDrv       qGdPLSnilfslvl      aFADDivv
+Score 26.6, RT (RT2 +0.0)
+
+>O18558_AEDAE/472-725
+   A:83-94(14.4)      B:144-157(11.4)      C:173-180(4.5)
+   VFLDIEGAFDNV  <73> QGGVLSPLLWNLVA  <43> GFADEYLA  [98]
+   ||+|.|.||| |       ||  ||| |||||         ||| |+.
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 30.3, RT (RT2 +0.0)
+
+>Y2R2_DROME/498-741
+   A:78-89(7.9)      B:137-150(6.6)      C:165-172(12.0)
+   TFVDFKGAFDNV <71> QGSISGPFIWDILM <42> AYADDLLL  [95]
+    |.| +.||| |      ||| . | +| +.|      ||||| ++
+   vsiDlekAfDrv      qGdPLSnilfslvl      aFADDivv
+Score 26.5, RT (RT2 +0.0)
+
+>RTJK_DROME/502-757
+   A:82-93(15.3)      B:143-156(6.5)      C:177-184(6.3)
+   AFLDIQQAFDRV  <73> QGSVLGPTLYSVFA <48> TYADDTAV  [103]
+    |+|. +|||||       ||| | |+| |+         ||||  |
+   vsiDlekAfDrv       qGdPLSnilfslvl      aFADDivv
+Score 28.1, RT (RT2 +0.0)
+
+>O96546_LYMDI/526-780
+   A:82-93(11.0)      B:144-157(12.6)      C:170-177(9.0)
+   LFLDVAKAFDKV  <74> QGSVLSPFLFTLYT  <40> LYADDTAL  [96]
+   +|+|  |||| |       ||| ||| |||||        +||||  +
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 32.5, RT (RT2 +0.0)
+
+>O01419_BOMMO/502-756
+   A:83-94(10.0)      B:144-157(5.5)      C:173-180(7.1)
+   VSIDISNAFNTV  <73> QGSVLGPLLWDVGF <43> CYADDTLV  [98]
+   ||||.+ || +|       ||| | | || + |       |||| +|
+   vsiDlekAfDrv       qGdPLSnilfslvl      aFADDivv
+Score 22.6, RT (RT2 +0.0)
+
+>Q93139_BOMMO/469-719
+   A:81-92(17.1)      B:142-155(9.3)      C:171-178(14.2)
+   VSLDIEGAFDSA  <73> QGSIGGPILWNLLL <43> AFADDVVL  [98]
+   ||+|.|.||||.       |||   ||||||.+      |||||+|+
+   vsiDlekAfDrv       qGdPLSnilfslvl      aFADDivv
+Score 40.6, RT (RT2 +0.0)
+
+>Q07995_CHITU/509-760
+   A:82-93(19.2)      B:144-157(7.2)      C:170-177(8.7)
+   IFLDVEKAFDRV  <74> QGAVLSPTLYNIFT <40> LFADDTAL  [96]
+   +|+| |||||||       ||+ |||+| |+        +||||  +
+   vsiDlekAfDrv       qGdPLSnilfslvl      aFADDivv
+Score 35.1, RT (RT2 +0.0)
+
+>Q93137_BOMMO/515-771
+   A:79-90(10.6)      B:141-154(12.0)      C:167-174(9.6)
+   LFFDVAKAFDKV  <74> QGSVLSPLLFSLFV  <40> LFADDTTV  [96]
+   +|+|  |||| |       ||| ||| ||||         +|||| .|
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 32.2, RT (RT2 +0.0)
+
+>YG31B_YEAST/639-797
+   A:10-21(2.5)      B:80-93(4.2)        C:107-114(10.1)
+   LCVDYRTLNKAT <82> MPFGLVNAPSTFAR <41> VYLDDILI  [105]
+   +|.||+  +         | + | |. ||. .      || |||++
+   vsiDlekAfDrv      qGdPLSnilfslvl      aFADDivv
+Score 16.7, RT (RT2 +0.0)
+
+>Q9ZVK4_ARATH/510-669
+   A:9-20(4.5)       B:79-92(3.4)        C:108-115(11.7)
+   LCIDYRGLNWVT <82> MPFGLTNAPAAFMR <43> IFIDDILV  [107]
+   +||||+. +         | + |+|.   .+.      +| |||+|
+   vsiDlekAfDrv      qGdPLSnilfslvl      aFADDivv
+Score 19.6, RT (RT2 +0.0)
+
+>Q9ZS84_SOLLC/655-815
+   A:10-21(2.5)      B:80-93(7.1)        C:109-116(10.7)
+   MCVDYRALNKAT <82> MPFGLTNAPATFCN <43> VYLDDIVI  [107]
+    |.||++ +         | + |+|.  |.||      || ||||+
+   vsiDlekAfDrv      qGdPLSnilfslvl      aFADDivv
+Score 20.3, RT (RT2 +0.0)
+
+>O62658_CANLF/517-773
+   A:81-92(15.4)      B:143-156(18.0)      C:183-190(8.7)
+   LSLDAEKAFDKI  <74> QGCPLSPLLFNIVV  <54> LFADEMIL  [110]
+   +|+| ||||| |       ||+|||| |||+|        +||| +|+
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 42.1, RT (RT2 +0.0)
+
+>O44316_DROMR/394-650
+   A:77-88(12.5)      B:139-152(20.7)      C:176-183(11.8)
+   ATLDVSKAFDSV  <74> QGDPLSPVLFNLII  <51> AFADDLML  [107]
+     +| +||||||       ||||||| |||| .       ||||| ++
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 45.0, RT (RT2 +0.0)
+
+>Q9YW31_MSEPV/161-406
+   A:76-87(12.4)      B:133-146(15.7)      C:173-180(12.4)
+   AFIDFKKAFDNV  <69> QGCAVSLSLFNIYI  <54> LYADDLVI  [105]
+    ||| +|||| |       ||+.+|. |||+|.       +|||| |+
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 40.5, RT (RT2 +0.0)
+
+>O64612_ARATH/788-1031
+   A:75-86(17.1)      B:126-139(20.1)      C:170-177(11.0)
+   MKIDLSKAFDSV  <63> QGCSLSPYLFVICM  <58> CFADDIMV  [103]
+    ||||+||||||       ||+ ||||||.+||        |||||+|
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 48.2, RT (RT2 +0.0)
+
+>O65244_ARATH/405-664
+   A:80-91(18.9)      B:142-155(15.4)      C:186-193(8.3)
+   LKIDISKAFDSV  <74> QGCSLSPYLFVISM  <58> SFADDLMI  [114]
+   +|||.+||||||       ||+ ||||||.+ |        |||| ++
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 42.7, RT (RT2 +0.0)
+
+>YTX2_XENLA/513-765
+   A:79-90(21.3)      B:141-154(11.4)      C:181-188(14.1)
+   LSLDQEKAFDRV  <74> QGCPLSGQLYSLAI  <54> AYADDVIL  [110]
+   +|+|||||||||       ||+|||  | || .       |||||+|+
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 46.9, RT (RT2 +0.0)
+
+>Q9ZQQ6_ARATH/659-918
+   A:80-91(15.8)      B:142-155(20.9)      C:186-193(8.6)
+   MKIDISKAFDSV  <74> QGCALSPYLFVICM  <58> CFADDLMV  [114]
+    |||.+||||||       ||+.||||||.+||        |||| +|
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 45.3, RT (RT2 +0.0)
+
+>O81284_ARATH/58-317
+   A:80-91(14.1)      B:142-155(17.2)      C:186-193(11.0)
+   LQVDLTKAYDNV  <74> QGDPMSSHLFVLVM  <58> SFADDILV  [114]
+   + .||||||| |       |||| | .||.|||        |||||+|
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 42.3, RT (RT2 +0.0)
+
+>O65598_ARATH/489-747
+   A:80-91(18.7)      B:142-155(22.4)      C:186-193(14.4)
+   LKVDLRKAFDSV  <74> QGDPLSPYLFVLAM  <58> MFADDVMI  [114]
+   +|.||+||||||       ||||||||||.| |       |||||+++
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 55.4, RT (RT2 +0.0)
+
+>O93520_ORYLA/518-771
+   A:80-91(18.9)      B:142-155(6.8)      C:182-189(11.3)
+   ISLDAEKAFDSV  <74> QGCNMSALLFALYI <54> LFADDLLL  [110]
+   +|+| |||||||       ||+  |  || ||.      +|||| ++
+   vsiDlekAfDrv       qGdPLSnilfslvl      aFADDivv
+Score 37.0, RT (RT2 +0.0)
+
+>Q47526_ECOLX/33-239
+   A:62-73(3.1)      B:117-130(13.2)      C:150-157(11.6)
+   LKLDLVNFFNKI <67> VGAPSSPFISNIVM  <47> RYADDLTF  [96]
+   +|+||  ||  |       |+|.|| +||+||       +|||| .|
+   vsiDlekAfDrv      qGdPLSnilfslvl       aFADDivv
+Score 27.9, RT (RT2 +0.0)
+
+>Q46666_ECOLX/34-241
+   A:60-71(10.0)      B:118-131(13.8)      C:151-158(11.6)
+   LKADLEDFFNSI  <70> VGAPSSPVISNFCM  <47> RYADDLTF  [99]
+   +| ||| || ||        |+|.|| +||.||       +|||| .|
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 35.4, RT (RT2 +0.0)
+
+>P95451_PSEAC/119-326
+   A:69-80(17.8)      B:125-138(16.4)      C:154-161(9.7)
+   VELDLEKFFDRV  <68> QGGPLSPLLSNILL  <43> RYADDANI  [93]
+   | +|||||||||       || |||| |||+.+       +||||+ +
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 43.9, RT (RT2 +0.0)
+
+>O52231_STREE/68-275
+   A:69-80(19.8)      B:125-138(11.3)      C:154-161(13.8)
+   VDIDLEKFFDTV  <68> QGGNLSPLLSNIML  <43> RYADDCVI  [93]
+   |+||||||||+|       ||  ||| |||+++       +||||.|+
+   vsiDlekAfDrv       qGdPLSnilfslvl       aFADDivv
+Score 44.9, RT (RT2 +0.0)
+
+>O99969_PORPU/100-315
+   A:69-80(6.3)      B:126-139(7.0)      C:155-162(13.5)
+   LDADIKGCFDNI <69> QGGTISPLLANIAL <43> RYADDFLV  [94]
+   ++ |.+. || |      ||   || | |+ +      +||||.+|
+   vsiDlekAfDrv      qGdPLSnilfslvl      aFADDivv
+Score 26.8, RT (RT2 +0.0)
+
+>O82894_ECO57/115-332
+   A:71-82(2.3)      B:117-130(6.1)      C:163-170(13.5)
+   LEGDIRGCFDNI <58> SGTPQGGIISPVLA <60> RYADDFII  [100]
+   +  |.+. || |      || |+  |+| +.       +||||.|+
+   vsiDlekAfDrv      qGdPLSnilfslvl      aFADDivv
+Score 21.9, RT (RT2 +0.0)
+
+>Q08724_9CYAN/108-336
+   A:70-81(8.2)      B:123-136(4.5)      C:165-172(13.8)
+   LDADISKCFDKI <65> QGGVISPLLANIAL <56> RYADDFVI  [103]
+   ++ |.+| || |      ||   || | |+ +      +||||.|+
+   vsiDlekAfDrv      qGdPLSnilfslvl      aFADDivv
+Score 26.5, RT (RT2 +0.0)
+
+>A0A0H3GRE9_KLEPH/135-366
+   A:70-81(16.1)      B:126-139(9.1)      C:163-170(15.1)
+   LDADISQFFDRV  <68> QGAVISPLLANIYL <51> RYADDIVI  [101]
+   ++ |.++|||||       ||+  || | |+|+      +||||||+
+   vsiDlekAfDrv       qGdPLSnilfslvl      aFADDivv
+Score 40.3, RT (RT2 +0.0)
+
+>A0A0E0UMT2_SINMB/72-291
+   A:68-79(4.6)      B:124-137(6.6)      C:156-163(10.1)
+   LEFDIKGLFDNL <68> QGGVVSPILANLFL <46> RYADDGLV  [96]
+   + +|.+. ||        ||  +|||| || +      +|||| +|
+   vsiDlekAfDrv      qGdPLSnilfslvl      aFADDivv
+Score 21.3, RT (RT2 +0.0)
+
+>Q24690_DROTE/495-742
+   A:79-90(14.3)      B:141-154(7.1)      C:171-178(9.8)
+   VTLDFSRAFDRV  <74> LGSPISVILFLIAF <44> AYADDFFL  [100]
+   | +| ++|||||        ||| | ||| + |      |||||. +
+   vsiDlekAfDrv       qGdPLSnilfslvl      aFADDivv
+Score 31.3, RT (RT2 +0.0)

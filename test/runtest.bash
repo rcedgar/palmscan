@@ -1,61 +1,22 @@
 #!/bin/bash -e
 
-palmscan=../bin/palmscan
+palmscan=../bin/palmscan2
 
 rm -rf results
 mkdir -p results
 
-name=Coronavirus_RefSeq_complete_genomes
-$palmscan -search_pp data/$name.fna \
-  -all \
-  -rdrp \
-  -rt \
-  -ppout results/$name.pp.faa \
-  -ppout_nt results/$name.pp.fna \
-  -fevout results/$name.fev \
-  -report results/$name.txt
-
-name=PF00078_RT
-$palmscan -search_pp data/$name.faa \
-  -all \
-  -rdrp \
-  -rt \
-  -ppout results/$name.pp.faa \
-  -fevout results/$name.fev \
-  -report results/$name.txt
-  
-name=PF00680_RdRP_1
-$palmscan -search_pp data/$name.faa \
-  -all \
-  -rdrp \
-  -rt \
-  -ppout results/$name.pp.faa \
-  -fevout results/$name.fev \
-  -report results/$name.txt
-
-name=PF00978_RdRP_2
-$palmscan -search_pp data/$name.faa \
-  -all \
-  -rdrp \
-  -rt \
-  -ppout results/$name.pp.faa \
-  -fevout results/$name.fev \
-  -report results/$name.txt
-
-name=PF00998_RdRP_3
-$palmscan -search_pp data/$name.faa \
-  -all \
-  -rdrp \
-  -rt \
-  -ppout results/$name.pp.faa \
-  -fevout results/$name.fev \
-  -report results/$name.txt
-
-name=PF02123_RdRP_4
-$palmscan -search_pp data/$name.faa \
-  -all \
-  -rdrp \
-  -rt \
-  -ppout results/$name.pp.faa \
-  -fevout results/$name.fev \
-  -report results/$name.txt
+for name in \
+  Coronavirus_RefSeq_complete_genomes.6f \
+  PF00078_RT \
+  PF00680_RdRP_1 \
+  PF00978_RdRP_2 \
+  PF00998_RdRP_3 \
+  PF02123_RdRP_4
+do
+	$palmscan -search_pssms data/$name.fa \
+	  -tsv results/$name.tsv \
+	  -fev results/$name.fev \
+	  -fasta results/$name.pp.fasta \
+	  -core results/$name.core.fasta \
+	  -report_pssms results/$name.report.txt
+done

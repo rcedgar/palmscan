@@ -1,0 +1,616 @@
+
+>NC_048211.1
+   A:4333-4344(28.4)      B:4400-4413(32.1)      C:4475-4482(14.3)
+   MGWDYPKCDRSL      <79> SGDASTAYANSVFN    <89> ILSDDGVC  [150]
+   |||||||||||.           ||||||||||||||         ||||||| 
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 74.7, Nidovirales (PH17 +1.4)
+
+>NC_048212.1
+   A:4874-4885(28.2)      B:4941-4954(31.4)      C:5016-5023(16.3)
+   MGWDYPKCDRAM      <79> SGDSTTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||+|           ||||||||||||||         ||||||||
+   lgwDypKCDRsm           SGDatTAyaNSvfN         ilSDDGvv
+Score 75.9, PH17 (Nidovirales +0.1)
+
+>NC_048213.1
+   A:3824-3835(3.6)      B:3885-3898(2.6)      C:3926-3933(4.5)
+   ISGDNIAWPLKV     <73> SGSSVVAAITSSNS   <55> KVGDKVEV  [110]
+   +| |  .|  ||          ||+ |  |  +           ..|| + |
+   yadDvAGWDTrv          SGqvvTYalNTitN        vsGDDcvv
+Score 10.8, PH19
+
+>NC_048213.1
+   A:4728-4739(28.6)      B:4795-4808(33.0)      C:4870-4877(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_048214.1
+   A:4709-4720(28.6)      B:4776-4789(33.0)      C:4851-4858(9.8)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSGDGVV  [150]
+   ||||||||||||           ||||||||||||||         ||| |||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 71.4, Nidovirales (PH17 +1.0)
+
+>NC_048216.1
+   A:4784-4795(27.1)      B:4851-4864(33.0)      C:4926-4933(15.5)
+   MGWDYPKCDRAL      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.7, Nidovirales (PH17 +1.6)
+
+>NC_048217.1
+   A:5136-5147(28.6)      B:5203-5216(31.4)      C:5278-5285(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAFANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           |||||||+||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.6, Nidovirales (PH17 +0.8)
+
+>NC_046954.1
+   A:5084-5095(28.6)      B:5151-5164(31.4)      C:5226-5233(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAFANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           |||||||+||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.6, Nidovirales (PH17 +0.8)
+
+>NC_046955.1
+   A:4425-4436(28.2)      B:4492-4505(29.5)      C:4567-4574(16.3)
+   MGWDYPKCDRAM      <79> SGDATTAPANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||+|           |||||||.||||||         ||||||||
+   lgwDypKCDRsm           SGDatTAyaNSvfN         ilSDDGvv
+Score 74.1, PH17 (Nidovirales +0.5)
+
+>NC_046964.1
+   A:4656-4667(27.1)      B:4723-4736(33.0)      C:4798-4805(15.5)
+   MGWDYPKCDRAL      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.7, Nidovirales (PH17 +1.6)
+
+>NC_046965.1
+   C:6980-6987(4.1)       A:7080-7091(3.8)      B:7119-7132(2.2)
+   THGDQMAQ         <108> YSYDTSSKCYGI     <51> SPTPPVLVEQNVLN  [153]
+    ||| ..                ||||||.  . |          | ++| +    +.|
+   vsGDDcvv               yadDvAGWDTrv          SGqvvTYalNTitN
+Score 10.0 permuted, PH19
+
+>NC_046965.1
+   A:4620-4631(28.6)      B:4687-4700(33.0)      C:4762-4769(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_006213.1
+   A:5049-5060(28.6)      B:5116-5129(31.4)      C:5191-5198(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAFANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           |||||||+||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.6, Nidovirales (PH17 +0.8)
+
+>NC_011547.1
+   C:6791-6798(3.6)       A:6897-6908(4.1)      B:6951-6964(4.0)
+   INGNDTFC         <114> VCTDYTIYGVSG     <66> SPAQLVVVSNTIVG  [174]
+   . | |  .               +++||. |  |           |   + ++ |||| 
+   vyGDDnli               iagDfSkFDgsv          SGsplTsiiNslvN
+Score 11.7 permuted, PH2 (Duplorna +0.7)
+
+>NC_011547.1
+   A:4391-4402(26.8)      B:4457-4470(33.0)      C:4532-4539(15.5)
+   VGWDYPKCDRSM      <78> SGDATTAYANSVFN    <89> ILSDDGVA  [149]
+    |||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.3, Nidovirales (PH17 +2.2)
+
+>NC_038294.1
+   C:432-439(5.1)      A:456-467(3.5)       B:572-585(2.2)
+   SCGNDSWL       <32> TANDVEVQSSGM   <128> TQHSLNFVGEFVVN  [154]
+    .| || .            +.|| . | | .         | |   +.| .++|
+   flGDDsli            venDysafDssq         SGergTslgNtlvN
+Score 10.8 permuted, PH5
+
+>NC_038294.1
+   A:5085-5096(28.6)      B:5152-5165(33.0)      C:5227-5234(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_038861.1
+   A:4714-4725(27.1)      B:4781-4794(28.3)      C:4856-4863(15.5)
+   MGWDYPKCDRAL      <79> SGDGTTAYANSAFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||| ||||||| ||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 71.0, Nidovirales (PH17 +1.7)
+
+>NC_039207.1
+   C:2404-2411(5.3)      A:2428-2439(2.3)       B:2572-2585(6.1)
+   LMGQDSLT         <32> LSIDWMWFWIEL     <156> TGLGHTFICEEVAN  [182]
+    || ||++              .++||  |   .            |.| | . | ++|
+   clGDDgil              vctDfSkFDqhf           SGSggTnldeTlvn
+Score 13.8 permuted, Durnavirales
+
+>NC_039207.1
+   A:5136-5147(28.6)      B:5203-5216(33.0)      C:5278-5285(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_039208.1
+   C:6763-6770(3.0)      A:6791-6802(3.7)      B:6852-6865(3.9)
+   INGNTSYC         <36> LRTDTCSFDLSA     <73> TTSVHATDTSSVIT  [103]
+   + |  |.+              + +|  +|| |           | |   |+ .|++|
+   vaGDDsla              iEgDfSkfDqSQ          TGssdTTlGNtlvn
+Score 10.7 permuted, PH15
+
+>NC_039208.1
+   A:4408-4419(26.8)      B:4474-4487(33.0)      C:4549-4556(15.5)
+   VGWDYPKCDRSM      <78> SGDATTAYANSVFN    <89> ILSDDGVA  [149]
+    |||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.3, Nidovirales (PH17 +2.2)
+
+>NC_035191.1
+   A:4338-4349(28.4)      B:4405-4418(32.1)      C:4480-4487(14.3)
+   MGWDYPKCDRSL      <79> SGDASTAYANSVFN    <89> ILSDDGVC  [150]
+   |||||||||||.           ||||||||||||||         ||||||| 
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 74.7, Nidovirales (PH17 +1.4)
+
+>NC_034972.1
+   A:4709-4720(27.1)      B:4776-4789(32.1)      C:4851-4858(15.5)
+   MGWDYPKCDRAL      <79> SGDASTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 74.8, Nidovirales (PH17 +2.6)
+
+>NC_034440.1
+   A:5010-5021(28.6)      B:5077-5090(33.0)      C:5152-5159(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_032730.1
+   A:4778-4789(27.1)      B:4845-4858(32.1)      C:4920-4927(15.5)
+   MGWDYPKCDRAL      <79> SGDASTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 74.8, Nidovirales (PH17 +2.6)
+
+>NC_032107.1
+   A:4746-4757(27.1)      B:4813-4826(32.1)      C:4888-4895(15.5)
+   MGWDYPKCDRAL      <79> SGDASTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 74.8, Nidovirales (PH17 +2.6)
+
+>NC_030886.1
+   A:4967-4978(28.2)      B:5034-5047(31.4)      C:5109-5116(16.3)
+   MGWDYPKCDRAM      <79> SGDSTTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||+|           ||||||||||||||         ||||||||
+   lgwDypKCDRsm           SGDatTAyaNSvfN         ilSDDGvv
+Score 75.9, PH17 (PH17 +13.1)
+
+>NC_030292.1
+   A:4642-4653(27.1)      B:4709-4722(28.3)      C:4784-4791(15.5)
+   MGWDYPKCDRAL      <79> SGDGTTAYANSAFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||| ||||||| ||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 71.0, Nidovirales (PH17 +1.7)
+
+>NC_028752.1
+   A:4778-4789(28.6)      B:4845-4858(33.0)      C:4920-4927(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_028806.1
+   A:4709-4720(27.1)      B:4776-4789(30.5)      C:4851-4858(15.5)
+   MGWDYPKCDRAL      <79> SGDGTTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||| ||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 73.2, Nidovirales (PH17 +1.9)
+
+>NC_028811.1
+   A:4681-4692(27.1)      B:4748-4761(33.0)      C:4823-4830(15.5)
+   MGWDYPKCDRAL      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.7, Nidovirales (PH17 +1.6)
+
+>NC_028814.1
+   A:7290-7301(2.2)       B:7411-7424(7.2)      C:7447-7454(3.7)
+   FSTHFQQLDTSN     <133> SGLYYTSIAGQIIG   <50> VVNDDIVG  [165]
+   |++ |   |.|            || + |||   |+         |  || | 
+   iagDfSkFDgsv           SGsplTsiiNslvN        vyGDDnli
+Score 13.0, PH2 (PH5 +0.5)
+
+>NC_028814.1
+   A:4669-4680(27.1)      B:4736-4749(33.0)      C:4811-4818(15.5)
+   MGWDYPKCDRAL      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.7, Nidovirales (PH17 +1.6)
+
+>NC_028824.1
+   A:4685-4696(28.6)      B:4752-4765(33.0)      C:4827-4834(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_028833.1
+   A:1951-1962(2.3)      B:2028-2041(8.4)      C:2056-2063(4.1)
+   LCANIKMQNTSI     <89> IGKRTTSSSNTDVV   <42> ISGDTNTT  [113]
+   ++   ..| +|.           | |+||  || +         .+|| + .
+   venDysafDssq          SGergTslgNtlvN        flGDDsli
+Score 14.9, PH5
+
+>NC_028833.1
+   A:4596-4607(27.1)      B:4663-4676(33.0)      C:4738-4745(15.5)
+   MGWDYPKCDRAL      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.7, Nidovirales (PH17 +1.6)
+
+>NC_026011.1
+   A:5097-5108(28.6)      B:5164-5177(31.4)      C:5239-5246(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAFANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           |||||||+||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.6, Nidovirales (PH17 +0.8)
+
+>NC_025217.1
+   A:5249-5260(28.6)      B:5316-5329(33.0)      C:5391-5398(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_023760.1
+   A:4701-4712(27.1)      B:4768-4781(28.3)      C:4843-4850(15.5)
+   MGWDYPKCDRAL      <79> SGDGTTAYANSAFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||| ||||||| ||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 71.0, Nidovirales (PH17 +1.7)
+
+>NC_022103.1
+   C:8218-8225(6.6)      A:8297-8308(2.1)      B:8329-8342(3.7)
+   GFGDDSVI         <87> GSSSCSAEDSSS     <44> GGHCETTTVRDKFL  [125]
+     ||| ||               |   || |||           |||  |||      
+   AsGDDvvi              iSiDGSaFDStQ          SGhpdTTlgNTlrr
+Score 12.4 permuted, PH24
+
+>NC_022103.1
+   A:4779-4790(27.1)      B:4846-4859(33.0)      C:4921-4928(15.5)
+   MGWDYPKCDRAL      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.7, Nidovirales (PH17 +1.6)
+
+>NC_019843.3
+   A:5085-5096(28.6)      B:5152-5165(33.0)      C:5227-5234(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_019843.3
+   C:432-439(5.1)      A:456-467(3.5)       B:572-585(2.2)
+   SCGNDSWL       <32> TANDVEVQSSGM   <128> TQHSLNFVGEFVVN  [154]
+    .| || .            +.|| . | | .         | |   +.| .++|
+   flGDDsli            venDysafDssq         SGergTslgNtlvN
+Score 10.8 permuted, PH5
+
+>NC_018871.1
+   A:7433-7444(2.9)       B:7532-7545(4.6)      C:7568-7575(3.6)
+   CPFDFDNLNNYL     <111> AGLYYTSFAGQLLG   <50> VYGDAIIG  [143]
+   +| ||.|                 |+  ||+ | |+.        + || ...
+   lplDfSgFDtsi           SGvkwTaliGTlin        vQGDDtll
+Score 11.1, PH26
+
+>NC_018871.1
+   A:4807-4818(27.1)      B:4874-4887(32.1)      C:4949-4956(15.5)
+   MGWDYPKCDRAL      <79> SGDASTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 74.8, Nidovirales (PH17 +2.6)
+
+>NC_018871.1
+   C:8537-8544(4.2)      A:8609-8620(3.4)      B:8676-8689(3.0)
+   SNGDNSTI         <80> FGNNWTMFAFSI     <79> TGITLTVLSGTLLV  [153]
+     || | |              + | +|.|  |.          ||   | |  |+  
+   flGDDsli              venDysafDssq          SGergTslgNtlvN
+Score 10.6 permuted, PH5
+
+>NC_017083.1
+   A:5109-5120(28.6)      B:5176-5189(31.4)      C:5251-5258(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAFANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           |||||||+||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.6, Nidovirales (PH17 +0.8)
+
+>NC_016991.1
+   A:1004-1015(5.9)      B:1050-1063(5.5)      C:1088-1095(4.8)
+   IADDASAVDDSL     <58> EGDDTEQLLDTVVN   <52> VVGDLSTI  [92]
+   +..| || | |            || +  |+ |++|        + || | |
+   venDysafDssq          SGergTslgNtlvN        flGDDsli
+Score 16.2, PH5 (PH12 +2.3)
+
+>NC_017083.1
+   C:2048-2055(4.6)      A:2106-2117(3.7)      B:2150-2163(5.3)
+   LVTDDMYV         <66> AEVESCSSDLSH     <56> SGNQGSNAINGSAN  [116]
+      ||..+              ..|   | | ||          ||     .||  ||
+   yfgDDsvl              fNlDISsCDaSH          SGStLTTliNNlAn
+Score 13.5 permuted, PH10
+
+>NC_016991.1
+   A:4390-4401(26.4)      B:4456-4469(31.7)      C:4531-4538(14.1)
+   VGWDYPKCDRSM      <78> SGDATTAYANSVFN    <89> IFSDDGVA  [149]
+    |||||||||||           ||||||||||||||         |+|||||.
+   lgwDypKCDRsm           SGDatTAyaNSvfN         ilSDDGvv
+Score 72.2, PH17 (Nidovirales +0.5)
+
+>NC_016992.1
+   A:4413-4424(26.4)      B:4479-4492(31.7)      C:4554-4561(14.1)
+   VGWDYPKCDRSM      <78> SGDATTAYANSVFN    <89> IFSDDGVA  [149]
+    |||||||||||           ||||||||||||||         |+|||||.
+   lgwDypKCDRsm           SGDatTAyaNSvfN         ilSDDGvv
+Score 72.2, PH17 (Nidovirales +0.5)
+
+>NC_016993.1
+   A:4419-4430(26.8)      B:4485-4498(33.0)      C:4560-4567(15.5)
+   VGWDYPKCDRSM      <78> SGDATTAYANSVFN    <89> ILSDDGVA  [149]
+    |||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.3, Nidovirales (PH17 +2.2)
+
+>NC_016994.1
+   A:4380-4391(27.0)      B:4446-4459(33.0)      C:4521-4528(15.5)
+   AGWDYPKCDRSM      <78> SGDATTAYANSVFN    <89> ILSDDGVA  [149]
+    |||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.5, Nidovirales (PH17 +2.5)
+
+>NC_016995.1
+   A:4231-4242(28.5)      B:4297-4310(33.0)      C:4372-4379(15.5)
+   FGWDYPKCDRSM      <78> SGDATTAYANSVFN    <89> ILSDDGVA  [149]
+   +|||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 76.9, Nidovirales (PH17 +1.5)
+
+>NC_016996.1
+   A:4294-4305(27.0)      B:4360-4373(33.0)      C:4435-4442(15.5)
+   AGWDYPKCDRSM      <78> SGDATTAYANSVFN    <89> ILSDDGVA  [149]
+    |||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.5, Nidovirales (PH17 +2.5)
+
+>NC_014470.1
+   C:9154-9161(7.3)      A:9218-9229(2.1)      B:9263-9276(7.1)
+   HHSDDFTP         <72> TNNKMTDNGQSN     <57> QGPPNNTASWFTAL  [123]
+   |||||                 ||  ||  || .          ||  |+| | |.  
+   vhSDDsat              iSaDasKWspgd          QGILHyTSSllHaa
+Score 16.5 permuted, Bunyavirales
+
+>NC_014470.1
+   A:5038-5049(28.2)      B:5105-5118(31.7)      C:5180-5187(14.7)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDAVV  [150]
+   ||||||||||+|           ||||||||||||||         |||||.||
+   lgwDypKCDRsm           SGDatTAyaNSvfN         ilSDDGvv
+Score 74.6, PH17 (Nidovirales +0.1)
+
+>NC_014470.1
+   C:8586-8593(3.4)       A:8720-8731(3.9)      B:8749-8762(5.3)
+   SSGDKTTS         <142> SQSSSSSWTSSC     <41> SVPYSTSSDSSKSS  [177]
+   | || | .               . |  |+|  |.          |  |+|||+ |.  
+   amGDDtle               vssDkSGWDWsV          SGsylTsstNSrmR
+Score 12.6 permuted, PH8
+
+>NC_012936.1
+   A:5121-5132(28.6)      B:5188-5201(31.4)      C:5263-5270(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAFANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           |||||||+||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.6, Nidovirales (PH17 +0.8)
+
+>NC_011549.1
+   A:4408-4419(26.8)      B:4474-4487(33.0)      C:4549-4556(15.5)
+   VGWDYPKCDRSM      <78> SGDATTAYANSVFN    <89> ILSDDGVA  [149]
+    |||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.3, Nidovirales (PH17 +2.2)
+
+>NC_012936.1
+   C:3367-3374(3.6)      A:3431-3442(2.1)      B:3456-3469(4.7)
+   NNGNDVLY         <72> CSSDDMTDPDYP     <37> MSDRMSLTVMSYQM  [103]
+    || |++                |||  +  |||          | | || +| |  +
+   ivGDDlva              lSsDLseATDyi          MGdPlTKviLTLln
+Score 10.4 permuted, PH6
+
+>NC_011550.1
+   C:6823-6830(4.1)       A:6929-6940(3.9)      B:6953-6966(3.9)
+   INGNDSYC         <114> VCTDYTIYGISG     <36> NGIAFTSPTGGLYA  [144]
+   . | || .               +++||. |  |            | .+||    || 
+   vyGDDnli               iagDfSkFDgsv          SGsplTsiiNslvN
+Score 11.9 permuted, PH2 (Duplorna +1.4)
+
+>NC_011550.1
+   A:4471-4482(26.8)      B:4537-4550(33.0)      C:4612-4619(15.5)
+   VGWDYPKCDRSM      <78> SGDATTAYANSVFN    <89> ILSDDGVA  [149]
+    |||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.3, Nidovirales (PH17 +2.2)
+
+>NC_010646.1
+   A:4730-4741(27.0)      B:4797-4810(29.8)      C:4872-4879(16.3)
+   MGWDYPKCDRAV      <79> SGDATTAYANSAFN    <89> ILSDDGVV  [150]
+   ||||||||||++           ||||||||||| ||         ||||||||
+   lgwDypKCDRsm           SGDatTAyaNSvfN         ilSDDGvv
+Score 73.1, PH17 (Nidovirales +0.1)
+
+>NC_010800.1
+   A:4726-4737(28.6)      B:4793-4806(33.0)      C:4868-4875(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_010437.1
+   A:4951-4962(27.1)      B:5018-5031(33.0)      C:5093-5100(15.5)
+   MGWDYPKCDRAL      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.7, Nidovirales (PH17 +1.6)
+
+>NC_009988.1
+   A:4750-4761(28.6)      B:4817-4830(33.0)      C:4892-4899(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_010438.1
+   A:4913-4924(27.1)      B:4980-4993(33.0)      C:5055-5062(15.5)
+   MGWDYPKCDRAL      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.7, Nidovirales (PH17 +1.6)
+
+>NC_009657.1
+   C:1291-1298(4.3)      A:1325-1336(5.3)       B:1449-1462(3.4)
+   VIGDVNIT         <42> IITILHKQDKST     <136> TINVTNRIGNSLKI  [172]
+   |.|| ||                 + + ||||||           | .+|  |||+| .
+   fsGDDSLI              lEiDfSKFDKSQ           TGdatTylGNTivn
+Score 13.0 permuted, Martellivirales
+
+>NC_009019.1
+   A:5125-5136(28.6)      B:5192-5205(33.0)      C:5267-5274(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_009657.1
+   A:4818-4829(27.1)      B:4885-4898(33.0)      C:4960-4967(15.5)
+   MGWDYPKCDRAL      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.7, Nidovirales (PH17 +1.6)
+
+>NC_009020.1
+   A:5170-5181(28.6)      B:5237-5250(33.0)      C:5312-5319(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_009020.1
+   C:2436-2443(4.7)      A:2460-2471(5.0)       B:2604-2617(3.9)
+   LIGQDSLT         <32> INIDWVWFVMEF     <156> AGIGNTFICEEVAN  [182]
+    .| ||++              | +||  |   |            | |+| . | ++|
+   clGDDgil              vctDfSkFDqhf           SGSggTnldeTlvn
+Score 13.5 permuted, Durnavirales (PH14 +2.6)
+
+>NC_009021.1
+   A:4922-4933(28.2)      B:4989-5002(31.4)      C:5064-5071(16.3)
+   MGWDYPKCDRAM      <79> SGDSTTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||+|           ||||||||||||||         ||||||||
+   lgwDypKCDRsm           SGDatTAyaNSvfN         ilSDDGvv
+Score 75.9, PH17 (Nidovirales +0.1)
+
+>NC_006577.2
+   A:5136-5147(28.6)      B:5203-5216(31.4)      C:5278-5285(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAFANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           |||||||+||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.6, Nidovirales (PH17 +0.8)
+
+>NC_006577.2
+   C:2079-2086(5.1)      A:2111-2122(9.3)      B:2178-2191(3.0)
+   LVGHDICA         <40> ATGDVVLASDDL     <79> QGNVVTSVMESQIS  [113]
+     | ||..              ||.|   ||| +          .||  |  ||| | 
+   vyGDDiii              atiDLssASDri          MGsalsFPlltlvf
+Score 17.4 permuted, PH1 (Negarna +4.7)
+
+>NC_005831.2
+   A:4748-4759(27.1)      B:4815-4828(31.4)      C:4890-4897(15.5)
+   MGWDYPKCDRAL      <79> SGDASTAYANSIFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 74.1, Nidovirales (PH17 +2.5)
+
+>NC_004718.3
+   A:5071-5082(28.2)      B:5138-5151(31.7)      C:5213-5220(14.7)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDAVV  [150]
+   ||||||||||+|           ||||||||||||||         |||||.||
+   lgwDypKCDRsm           SGDatTAyaNSvfN         ilSDDGvv
+Score 74.6, PH17 (Nidovirales +0.1)
+
+>NC_003045.1
+   A:2578-2589(3.3)       B:2678-2691(4.9)      C:2735-2742(4.1)
+   LFVDYSNLLHSK     <112> QGTQICKVLDTFLS   <71> LKGDNIVA  [165]
+   + |||||  |+             | .|   ||||.|         .|| |. 
+   gpiDgskFDhqv           SGWriTSllGTlin        aQGDDiil
+Score 12.3, PH31
+
+>NC_003436.1
+   C:1000-1007(3.3)       A:1123-1134(3.2)      B:1152-1165(3.7)
+   IEKDDSKT         <131> TSNDTTKMRTIT     <41> SHSRSTSVLLMLLM  [166]
+   .+ ||| .               ++|| ||. + +          | .|.||.+  + .
+   flGDDsli               venDysafDssq          SGergTslgNtlvN
+Score 10.2 permuted, PH5
+
+>NC_003045.1
+   A:5049-5060(28.6)      B:5116-5129(31.4)      C:5191-5198(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAFANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           |||||||+||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.6, Nidovirales (PH17 +0.8)
+
+>NC_003436.1
+   A:4808-4819(27.1)      B:4875-4888(33.0)      C:4950-4957(15.5)
+   MGWDYPKCDRAL      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.7, Nidovirales (PH17 +1.6)
+
+>NC_002645.1
+   A:4775-4786(28.6)      B:4842-4855(33.0)      C:4917-4924(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDSVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +2.8)
+
+>NC_002306.3
+   A:9220-9231(3.0)       B:9313-9326(2.4)      C:9356-9363(4.7)
+   IEGFHKNFNTLI     <105> QLSCDNTIMDCIIN   <57> ISGADSLI  [144]
+   ||| .||| . |             | . ||+.||+|        . | ||++
+   iagDfSkFDgsv           SGsplTsiiNslvN        vyGDDnli
+Score 10.1, PH2
+
+>NC_002306.3
+   A:4738-4749(27.1)      B:4805-4818(28.3)      C:4880-4887(15.5)
+   MGWDYPKCDRAL      <79> SGDGTTAYANSAFN    <89> ILSDDGVV  [150]
+   |||||||||||.           ||| ||||||| ||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 71.0, Nidovirales (PH17 +1.7)
+
+>NC_001451.1
+   A:4726-4737(28.6)      B:4793-4806(33.0)      C:4868-4875(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAYANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           ||||||||||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 77.1, Nidovirales (PH17 +0.9)
+
+>NC_001846.1
+   A:5136-5147(28.6)      B:5203-5216(31.4)      C:5278-5285(15.5)
+   MGWDYPKCDRAM      <79> SGDATTAFANSVFN    <89> ILSDDGVV  [150]
+   ||||||||||||           |||||||+||||||         |||||||+
+   lgwDypKCDRSt           SGDAtTAyANSvFN         ilSDDgVl
+Score 75.6, Nidovirales (PH17 +0.8)

@@ -1,0 +1,1344 @@
+
+>RDRP_PLRV1/609-1005
+   A:254-265(30.4)      B:322-335(38.5)      C:349-356(20.5)
+   RPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+    |||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 89.4, Sobelivirales (PH8 +28.5)
+
+>A0A193GXK6_9VIRU/920-1390
+   A:296-307(26.8)      B:366-379(31.8)      C:399-406(11.8)
+   FCYDFDDFNAQH    <82> SGWRLTTFMNTALN  <47> DNGDDVLV  [111]
+   |||||||||.||         ||||||||||| ||        ||||||.
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 70.4, Ghabrivirales (PH9 +9.7)
+
+>Q99AT3_9VIRU/99-573
+   A:311-322(28.0)      B:373-386(33.5)      C:406-413(17.0)
+   MMLDYDDFNSHH    <74> SGHRGTTFINSVLN  <47> HVGDDVYF  [103]
+   +|||||||||||         ||||||||||||||       |+|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 78.6, Ghabrivirales (Pisu +8.7)
+
+>M4MEM7_9VIRU/185-650
+   A:297-308(29.0)      B:365-378(33.3)      C:396-403(13.3)
+   VCFDYDDFNSQH    <80> SGWRLTSFMNTVLN  <45> HNGDDMFG  [107]
+   +|||||||||||         ||||||||||||||       ||||| + 
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.7, Ghabrivirales (PH9 +8.2)
+
+>A0A191T7Q3_9LUTE/596-1008
+   A:252-263(32.6)      B:320-333(38.5)      C:347-354(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>A0A2H5CRU9_9VIRU/147-616
+   A:295-306(26.8)      B:365-378(31.8)      C:398-405(16.8)
+   FCYDFDDFNAQH    <82> SGWRLTTFMNTALN  <47> HNGDDVLV  [111]
+   |||||||||.||         ||||||||||| ||       |||||||.
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.3, Ghabrivirales (Pisu +10.5)
+
+>A0A1Z2RTD3_9VIRU/164-605
+   A:267-278(23.4)      B:336-349(23.5)      C:375-382(15.2)
+   SMIDYADFNYQH    <81> SGCRGTNFLNTLLN  <53> HQGDDVWI  [116]
+    |.||||||.||         || |+|.| ||.||       |||||||.
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 62.2, PH9 (Pisu +3.3)
+
+>D1GG06_9REOV/100-748
+   A:418-429(24.9)      B:492-505(26.5)      C:529-536(14.3)
+   LYTDVSQWDSSQ    <86> SGEKQTKAANSIAN  <51> VDGDDNYA  [119]
+   ||||||||||||         |||||||.|||+||       |||||||.
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 65.7, Reovirales (Pisu +20.4)
+
+>RDRP_ROTHD/100-748
+   A:418-429(24.9)      B:492-505(26.5)      C:529-536(14.3)
+   LYTDVSQWDSSQ    <86> SGEKQTKAANSIAN  <51> VDGDDNYA  [119]
+   ||||||||||||         |||||||.|||+||       |||||||.
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 65.7, Reovirales (Pisu +20.4)
+
+>A2T3R6_9REOV/100-748
+   A:418-429(24.9)      B:492-505(26.5)      C:529-536(14.3)
+   LYTDVSQWDSSQ    <86> SGEKQTKAANSIAN  <51> VDGDDNYA  [119]
+   ||||||||||||         |||||||.|||+||       |||||||.
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 65.7, Reovirales (Pisu +20.4)
+
+>E2IZN2_9VIRU/23-411
+   A:236-247(30.0)      B:304-317(38.4)      C:331-338(20.2)
+   AEADISGFDWSV    <80> SGSYCTSSSNSRIR  <41> AMGDDSVE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.6, Sobelivirales (PH8 +25.0)
+
+>I1WZY5_9VIRU/490-878
+   A:227-238(29.9)      B:294-307(38.4)      C:321-328(20.2)
+   VEADISGFDWSV    <79> SGSYCTSSSNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.8)
+
+>S0EQ55_9LUTE/876-1264
+   A:249-260(31.9)      B:317-330(34.4)      C:344-351(18.3)
+   IPTDCSGFDWSV    <80> SGSFNTSSTNSRMR  <41> TMGDDALE  [103]
+   +|||||||||||         |||.||||||||||       .|||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 84.6, Sobelivirales (PH8 +23.4)
+
+>A0A0H4K5T5_9VIRU/514-900
+   A:191-202(20.0)      B:278-291(28.2)      C:317-324(12.4)
+   MDTDYADFNYTH    <99> SGWRSTQFFNTLFN  <53> VCGDDSDA  [134]
+   |  ||||||.+|         ||||+|+|+||.||       .+|||+||
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 60.6, PH9 (Pisu +10.4)
+
+>L0MN56_9VIRU/502-888
+   A:226-237(30.0)      B:293-306(38.2)      C:320-327(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSTNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.5)
+
+>A0MCW0_9VIRU/453-843
+   A:234-245(30.0)      B:301-314(38.4)      C:328-335(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSSNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.6, Sobelivirales (PH8 +25.0)
+
+>A0A2I7UGC0_9LUTE/734-1124
+   A:250-261(32.6)      B:318-331(32.8)      C:345-352(18.3)
+   VPTDCSGFDWSV    <80> SGSFNTSSSNSRVR  <41> TMGDDALE  [103]
+   ||||||||||||         |||.|||||||| |       .|||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 83.8, Sobelivirales (PH8 +24.4)
+
+>A0A1L3KFC7_9VIRU/260-650
+   A:210-221(20.8)      B:283-296(20.4)      C:321-328(11.2)
+   VSLDYSDYNWEH    <85> TGCRNTARDNTLLH  <52> YTGDDEDS  [119]
+   +|+|||||||.|         || |.|+++||.||       ..|||+|.
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 52.3, PH9 (Pisu +14.5)
+
+>D6NGF4_ROTGA/111-804
+   A:453-464(25.6)      B:537-550(27.1)      C:575-582(14.3)
+   LYTDVSQWDASQ    <96> SGEKTTKIGNSFAN  <52> VDGDDNVV  [130]
+   ||||||||||||         ||||||||+||+||       ||||||++
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 67.0, Reovirales (PH14 +20.1)
+
+>RDRP_ROTB2/91-811
+   A:480-491(25.6)      B:564-577(27.1)      C:602-609(14.3)
+   LYTDVSQWDASQ    <96> SGEKTTKIGNSFAN  <52> VDGDDNVV  [130]
+   ||||||||||||         ||||||||+||+||       ||||||++
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 67.0, Reovirales (PH14 +20.1)
+
+>Q8BEQ2_9VIRU/473-861
+   A:232-243(30.0)      B:299-312(38.2)      C:326-333(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSTNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.5)
+
+>J7GBL4_9VIRU/465-855
+   A:230-241(30.0)      B:297-310(38.2)      C:324-331(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSTNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.5)
+
+>A0A1P7XK80_9VIRU/453-843
+   A:235-246(27.1)      B:303-316(38.2)      C:330-337(20.2)
+   SEADISGFDWSV    <80> SGSYCTSSTNSRIR  <41> AMGDDSVE  [103]
+    |||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 85.5, Sobelivirales (PH8 +22.1)
+
+>Q709L4_9VIRU/31-407
+   A:226-237(30.0)      B:293-306(38.2)      C:320-327(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSTNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.5)
+
+>A0A0G4DBY3_9VIRU/460-836
+   A:230-241(30.0)      B:297-310(38.2)      C:324-331(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSTNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.5)
+
+>A0A346TJG1_9VIRU/424-797
+   A:159-170(15.5)       B:263-276(11.5)      C:298-305(5.0)
+   AAWDYSKWDHHV    <116> SGRRSTLESNTFYS  <49> NRADDVLE  [147]
+    +|||| ||||.          || |+|.  ||.            |||+ 
+   lmlDysdFNsqH          SGeRaTtfiNsvlN       hvGDDvll
+Score 31.9, Pisu (PH23 +8.7)
+
+>A0A1L3KF79_9VIRU/172-549
+   A:201-212(21.3)      B:271-284(25.5)      C:311-318(14.2)
+   LPLDVSGFDTSV    <82> SGVKWTAKIGTLIG  <54> FQGDDISI  [118]
+   ||+|+|||||||         |||||||.|||||.       |||||.+|
+   lplDfSgFDtsi         SGvkwTaliGTlin       vQGDDtll
+Score 61.1, PH26 (PH31 +7.0)
+
+>A0A1L3KF04_9VIRU/202-553
+   A:169-180(17.7)      B:248-261(20.5)      C:287-294(10.1)
+   LPLDASGFDENV    <91> SGSRWTGLLDSIIN  <53> FQGDDMQL  [126]
+   ||+| |||| +|         || .|| ++|||||       |||||  +
+   lplDfSgFDtsi         SGvkwTaliGTlin       vQGDDtll
+Score 48.3, PH26 (PH31 +2.1)
+
+>A0A1L3KEP7_9VIRU/12-364
+   A:184-195(32.6)      B:256-269(38.4)      C:283-290(18.5)
+   VPTDCSGFDWSV    <84> SGSYNTSSTNSRIR  <41> AMGDDAIE  [107]
+   ||||||||||||         ||||||||||||||       |||||| |
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 89.5, Sobelivirales (PH8 +27.0)
+
+>A0A1X9YLK7_9LUTE/786-1169
+   A:252-263(32.6)      B:320-333(37.8)      C:347-354(18.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRMR  <41> AMGDDAIE  [103]
+   ||||||||||||         ||||||||||||||       |||||| |
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.9, Sobelivirales (PH8 +25.7)
+
+>G3F8C6_9VIRU/22-407
+   A:234-245(30.0)      B:301-314(38.2)      C:328-335(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSTNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.5)
+
+>A0A0E3D8P6_9VIRU/456-841
+   A:234-245(30.0)      B:301-314(38.4)      C:328-335(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSSNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.6, Sobelivirales (PH8 +25.0)
+
+>S4Z703_9VIRU/454-834
+   A:230-241(30.0)      B:297-310(38.2)      C:324-331(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSTNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.5)
+
+>RDRP_SCPMV/466-849
+   A:232-243(30.0)      B:299-312(38.2)      C:326-333(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSTNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.5)
+
+>Q65863_9LUTE/182-565
+   A:252-263(32.6)      B:320-333(35.8)      C:347-354(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSTNSRVR  <41> AMGDDALE  [103]
+   ||||||||||||         |||||||||||| |       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 89.0, Sobelivirales (PH8 +27.7)
+
+>RDRP_PEMVW/733-1124
+   A:250-261(31.1)      B:318-331(34.4)      C:345-352(18.3)
+   TPTDCSGFDWSV    <80> SGSFNTSSTNSRMR  <41> TMGDDALE  [103]
+    |||||||||||         |||.||||||||||       .|||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 83.8, Sobelivirales (PH8 +22.6)
+
+>A0A1I9W790_9LUTE/593-998
+   A:253-264(31.9)      B:321-334(38.5)      C:348-355(20.5)
+   IPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   +|||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 90.9, Sobelivirales (PH8 +29.5)
+
+>W8JD48_9LUTE/627-1033
+   A:253-264(32.6)      B:321-334(38.5)      C:348-355(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>A0A165ELR9_9LUTE/594-998
+   A:250-261(32.6)      B:318-331(38.5)      C:345-352(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>RDRP_PNLV/648-1053
+   A:253-264(32.6)      B:321-334(38.4)      C:348-355(16.1)
+   VPTDCSGFDWSV    <80> SGSYNTSSTNSRIR  <41> AIGDDALE  [103]
+   ||||||||||||         ||||||||||||||       | ||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 87.1, Sobelivirales (PH8 +27.6)
+
+>E2DRQ3_9LUTE/617-1021
+   A:252-263(32.6)      B:320-333(38.5)      C:347-354(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>A0A0A7EAU5_9LUTE/640-1045
+   A:252-263(31.9)      B:320-333(38.5)      C:347-354(20.5)
+   IPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   +|||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 90.9, Sobelivirales (PH8 +29.5)
+
+>A0A142D6T1_9LUTE/680-1091
+   A:255-266(31.5)      B:322-335(38.4)      C:349-356(20.5)
+   YPTDCSGFDWSV    <79> SGSYNTSSTNSRIR  <41> AMGDDALE  [102]
+   .|||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 90.4, Sobelivirales (PH8 +27.8)
+
+>B2BJG4_9LUTE/92-504
+   A:251-262(32.6)      B:319-332(38.5)      C:346-353(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>Q670I5_9LUTE/593-1009
+   A:253-264(31.9)      B:321-334(38.5)      C:348-355(20.5)
+   IPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   +|||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 90.9, Sobelivirales (PH8 +29.5)
+
+>H2DG68_9VIRU/249-656
+   A:229-240(23.2)      B:302-315(24.6)      C:341-348(10.2)
+   VMWDFSDFNINH    <85> TGVRGTSFVNTILN  <53> AFGDDVFS  [120]
+   +|||||||||.|         || |+|||.||+||         |||||.
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 58.0, PH9 (Ghabrivirales +6.4)
+
+>A0A1L3KF77_9VIRU/1743-2150
+   A:213-224(19.4)      B:300-313(20.0)      C:338-345(11.1)
+   LSTDYSDYNSEH    <99> SGCRTTARDNTWIH  <52> ICGDDEDV  [133]
+   +| ||||||+.|         || |+|+++||. |        +|||+|.
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 50.5, PH9 (Pisu +9.1)
+
+>Q65969_9LUTE/603-1007
+   A:253-264(28.6)      B:320-333(38.5)      C:347-354(20.5)
+   IATDCSGFDWSV    <79> SGSYNTSSSNSRIR  <41> AMGDDALE  [102]
+   + ||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 87.6, Sobelivirales (PH8 +24.5)
+
+>A0A0S3JNV0_9LUTE/658-1053
+   A:242-253(32.6)      B:310-323(38.5)      C:337-344(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>R9U1R7_9LUTE/594-989
+   A:252-263(32.6)      B:320-333(38.5)      C:347-354(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>RDRP_CFMVN/459-855
+   A:236-247(28.0)      B:303-316(38.4)      C:330-337(20.2)
+   AMADISGFDWSV    <79> SGSYCTSSSNSRIR  <41> AMGDDSVE  [102]
+   | ||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 86.5, Sobelivirales (PH8 +24.4)
+
+>A0A166J1Q2_9LUTE/737-1128
+   A:250-261(31.1)      B:318-331(34.4)      C:345-352(18.3)
+   TPTDCSGFDWSV    <80> SGSFNTSSTNSRMR  <41> TMGDDALE  [103]
+    |||||||||||         |||.||||||||||       .|||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 83.8, Sobelivirales (PH8 +22.6)
+
+>Q91AW0_9LUTE/629-1038
+   A:253-264(31.9)      B:321-334(38.5)      C:348-355(20.5)
+   IPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   +|||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 90.9, Sobelivirales (PH8 +29.5)
+
+>B5WYM7_9VIRU/32-425
+   A:225-236(26.0)      B:292-305(38.2)      C:319-326(20.2)
+   AEADISAFDWSV    <79> SGSYCTSSTNSRIR  <41> AMGDDSVE  [102]
+   |||||| |||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 84.4, Sobelivirales (PH8 +21.2)
+
+>A0A1L3KF86_9VIRU/1574-1975
+   A:207-218(19.6)      B:294-307(20.4)      C:332-339(11.2)
+   LSTDYADYNSEH    <99> SGSRTTARDNTWIH  <52> VCGDDEDV  [133]
+   +| ||||||+.|         || |+|+++||. |       .+|||+|.
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 51.2, PH9 (Pisu +8.3)
+
+>Q24M81_9VIRU/40-439
+   A:223-234(19.1)      B:298-311(24.7)      C:336-343(8.1)
+   LPFDYASFDHQP    <87> SGVRITSLLGNMWN  <52> LRGDDVAI  [121]
+   +| || +|||||         |||||||||| .||         |||+ |
+   gpiDgskFDhqv         SGWriTSllGTlin       aQGDDiil
+Score 52.0, PH31 (Pisu +10.1)
+
+>RDRP_SBMVA/468-871
+   A:228-239(30.0)      B:295-308(38.2)      C:322-329(20.2)
+   AEADISGFDWSV    <79> SGSYCTSSTNSRIR  <41> AMGDDSVE  [102]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.5)
+
+>A0A1L3KEC5_9VIRU/154-310
+   A:1-12(24.3)      B:70-83(21.2)       C:97-104(11.1)
+   ATSDVSAWDWSV <81> SGDYNTTTTNGRIR <41> SAGDDNIS  [104]
+   + ||||||||||      || |||+ ||.|||      |.||| |.
+   vssDkSGWDWsV      SGsylTsstNSrmR      amGDDtle
+Score 56.6, PH8 (PH14 +21.9)
+
+>A0A1L3KEB2_9VIRU/831-991
+   A:2-13(11.4)      B:70-83(21.3)       C:97-104(10.7)
+   FDADAQHWDMLV <80> SGILSTTAQNSFIR <41> VAGDDAVG  [103]
+    ++|+. ||+ |      || ++|+++||+||      +.|||.| 
+   vssDkSGWDWsV      SGsylTsstNSrmR      amGDDtle
+Score 43.5, PH8 (Duplorna +17.7)
+
+>A0A1L3KED1_9VIRU/922-1130
+   A:24-35(15.6)      B:100-113(22.7)      C:138-145(11.3)
+   FSSDKETWDLSV  <88> SGWYLTIIANSIMQ  <52> AGGDDVIQ  [122]
+    ||||  || ||       ||||+||  ||.||       | ||| ||
+   vssDkSGWDWsV       SGsylTsstNSrmR       amGDDtle
+Score 49.6, PH8 (PH8 +8.3)
+
+>A0A1U9RXY8_9LUTE/627-1026
+   A:253-264(32.6)      B:321-334(35.8)      C:348-355(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSTNSRVR  <41> AMGDDALE  [103]
+   ||||||||||||         |||||||||||| |       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 89.0, Sobelivirales (PH8 +27.7)
+
+>A0A0P0QL14_9VIRU/336-734
+   A:209-220(23.7)      B:288-301(24.6)      C:327-334(12.9)
+   LMFDYSDFNINH    <91> SGERGTSFINTFLS  <53> LQGDDVFA  [126]
+   +|+|||||||.|         ||+|+||||||.|.        |||||||
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 61.2, PH9 (Ghabrivirales +3.0)
+
+>A0A1L3KFE7_9VIRU/189-410
+   A:46-57(16.0)      B:115-128(21.0)      C:154-161(12.7)
+   VPMDQSNFDWHQ  <81> SGFRWTALIDTLLN  <53> SQGDDVAF  [116]
+   +| ||||||+++       || .|||+||||+|        ||||+++
+   lplDfSgFDtsi       SGvkwTaliGTlin       vQGDDtll
+Score 49.8, PH26 (PH31 +0.5)
+
+>A0A1L3KF16_9VIRU/228-426
+   A:24-35(16.0)      B:93-106(21.0)      C:132-139(12.7)
+   VPMDQSNFDWHQ  <81> SGFRWTALIDTLLN <53> SQGDDVAF  [116]
+   +| ||||||+++       || .|||+||||+|       ||||+++
+   lplDfSgFDtsi       SGvkwTaliGTlin      vQGDDtll
+Score 49.8, PH26 (PH31 +0.5)
+
+>A0A223PIK2_9VIRU/328-543
+   A:37-48(18.7)      B:99-112(26.8)      C:131-138(14.4)
+   ICIDSSSFDHSV  <74> SGWRMTSLLGSMLS <46> VQGDDIIM  [102]
+   +||| |+|||+|       |||||||||||..|      +||||||.
+   gpiDgskFDhqv       SGWriTSllGTlin      aQGDDiil
+Score 59.9, PH31 (Pisu +15.6)
+
+>A0A1L3KF20_9VIRU/247-480
+   A:58-69(16.0)      B:127-140(15.1)      C:166-173(8.0)
+   VPMDQSNFDWHQ  <81> SGLRWTAYLDTELN  <53> SQGDDINY  [116]
+   +| ||||||+++       ||+.||| +|| +|        ||||.  
+   lplDfSgFDtsi       SGvkwTaliGTlin       vQGDDtll
+Score 39.1, PH26 (PH31 +0.5)
+
+>D0FZL1_RMBV1/467-765
+   A:106-117(21.8)      B:191-204(27.4)      C:229-236(10.0)
+   ACVDWADFNITH    <97> SGWRTTSFINCSFN  <52> HAGDDFFG  [131]
+   .| |||||||+|         ||||+|||||+ ||       | ||| |.
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 59.2, PH9 (Ghabrivirales +5.1)
+
+>D0U493_9VIRU/6-318
+   A:136-147(16.4)      B:208-221(15.2)      C:246-253(10.2)
+   LPFDFKGFDRQP    <84> SGIRPTSFIGNVWN  <52> LKGDDTKI  [118]
+   +| |.. |||||         || | ||.+| +||        .||||.|
+   gpiDgskFDhqv         SGWriTSllGTlin       aQGDDiil
+Score 41.8, PH31 (PH26 +1.2)
+
+>D2CSN2_9VIRU/129-451
+   A:146-157(17.8)      B:219-232(19.9)      C:257-264(11.9)
+   LPFDFKGFDHQP    <85> SGVRPTSLIGNVWN  <52> IKGDDTYI  [119]
+   +| |.. |||||         |||| |||+| +||       +.||||.|
+   gpiDgskFDhqv         SGWriTSllGTlin       aQGDDiil
+Score 49.6, PH31 (PH26 +2.4)
+
+>A0A1L3KF99_9VIRU/206-509
+   A:136-147(16.6)      B:200-213(20.7)      C:238-245(9.4)
+   LPWDFASFDHQV    <76> SGQRTTSLIGNVWN  <52> IRGDDTYV  [110]
+   |+|||+.||||.         ||.|+||.|..|||         |||+|.
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 46.7, Pisu (PH31 +3.2)
+
+>A0A1L3KF22_9VIRU/194-526
+   A:160-171(16.4)      B:230-243(23.3)      C:267-274(12.9)
+   FPLDAKNFDQNV    <82> SGIRWTAFLDTLIN  <51> AQGDDDDL  [115]
+    |+|..||||.|         || ||||.||||||       +||||. |
+   gpiDgskFDhqv         SGWriTSllGTlin       aQGDDiil
+Score 52.6, PH31 (PH26 +2.8)
+
+>E3W912_9VIRU/138-438
+   A:143-154(15.6)      B:205-218(24.0)      C:236-243(13.6)
+   VPLDYSRFDSTI    <74> SGWRWTSIITSVIN  <45> VQGDDVKI  [101]
+   +|+|||||| .|         |||||||.+ |+||       +||||+.|
+   gpiDgskFDhqv         SGWriTSllGTlin       aQGDDiil
+Score 53.2, PH31 (Pisu +3.3)
+
+>A0A1L3KED2_9VIRU/1-333
+   A:180-191(32.6)      B:248-261(38.5)      C:275-282(18.3)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> TMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       .|||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 89.5, Sobelivirales (PH8 +27.9)
+
+>A0A346IMD9_9VIRU/509-841
+   A:158-169(22.5)      B:226-239(16.2)      C:264-271(11.6)
+   FMLDYANFNETH    <80> SGMRNTSHTNHVLN  <52> TGGDDVAA  [114]
+   |||||++||. |         || | ||  | |||       ..|||| |
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 50.2, Ghabrivirales (PH9 +1.5)
+
+>A0A2L0VZI1_9VIRU/425-743
+   A:146-157(15.4)      B:214-227(21.3)      C:251-258(11.3)
+   MPLDQSDYDQMV    <80> SGYKWTAFFDTVIN  <51> FQGDDVCL  [113]
+   .|+||| |||.|         || ||||. ||+||       |||||+ |
+   gpiDgskFDhqv         SGWriTSllGTlin       aQGDDiil
+Score 48.0, PH31 (PH31 +5.6)
+
+>A0A0U2ZT55_9VIRU/900-1195
+   A:109-120(20.1)      B:189-202(26.4)      C:227-234(9.5)
+   LATDYADFNYLH    <92> SGWRTTTMINNTMN  <52> VNGDDGDF  [126]
+   ++ ||||||..|         ||||+||.||.+||       .+||| | 
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 56.1, PH9 (Pisu +5.2)
+
+>A0A1L3KF59_9VIRU/164-487
+   A:133-144(17.0)      B:199-212(18.3)      C:237-244(10.6)
+   LPFDYAAFDHQP    <78> SGVRPTSLIGNIWN  <52> VRGDDSYF  [112]
+   |++||+.||||          || | ||.|..+||       + ||| |+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 45.9, Pisu (PH31 +0.1)
+
+>A0A182GRD5_AEDAL/1-240
+   A:64-75(23.4)      B:134-147(20.4)      C:173-180(15.2)
+   TMVDYADFNYQH  <82> SSIRGTNFINTILN  <53> HQGDDVWI  [117]
+   .| ||||||.||       |  |+|.||||+||       |||||||.
+   lmlDYaDFNiqH       SGwRgTsfiNTvlN       hqGDDvda
+Score 59.0, PH9 (Pisu +3.4)
+
+>A0A173GU21_9VIRU/106-435
+   A:151-162(15.5)      B:225-238(19.2)      C:263-270(8.2)
+   LPFDYAAFDHQA    <86> SGIRTTSLIGNIWN  <52> LRGDDSLI  [120]
+   |++||+.||||          || |+||.|..+||         ||| ++
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 43.0, Pisu (PH31 +0.5)
+
+>A0A1L3KED6_9VIRU/119-387
+   A:102-113(25.9)      B:170-183(31.3)      C:197-204(20.4)
+   ACADVSGFDWSV    <80> SGTFNTSSTNSRIR  <41> AMGDDSLE  [103]
+   | || |||||||         || .||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 77.7, Sobelivirales (PH8 +14.4)
+
+>A0A1B2K4A8_9VIRU/218-487
+   A:94-105(16.4)      B:166-179(16.4)      C:203-210(9.6)
+   LPFDFKGFDRQP   <84> SGIRPTSLIGNVWN  <51> LRGDDTYI  [117]
+   +| |.. |||||        || | |||+| +||         ||||.|
+   gpiDgskFDhqv        SGWriTSllGTlin       aQGDDiil
+Score 42.3, PH31 (Pisu +0.2)
+
+>A0A1L3KEU7_9VIRU/1-244
+   A:70-81(32.6)      B:138-151(38.4)      C:165-172(20.5)
+   VPTDCSGFDWSV  <80> SGSYNTSSTNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||       ||||||||||||||       ||||||||
+   aPTDCSGFDWSV       SGSYNTSSSNSRIR       AMGDDALE
+Score 91.5, Sobelivirales (PH8 +29.0)
+
+>A0A125SJD2_9VIRU/305-564
+   A:102-113(15.6)      B:164-177(26.1)      C:195-202(13.6)
+   VPLDYSRFDSTI    <74> SGWRFTALIDSLVN  <45> VQGDDVKI  [101]
+   +|+|||||| .|         ||||+|||+|||||       +||||+.|
+   gpiDgskFDhqv         SGWriTSllGTlin       aQGDDiil
+Score 55.3, PH31 (PH26 +5.2)
+
+>A0A0U4N4Q7_9VIRU/472-761
+   A:101-112(21.4)      B:182-195(25.9)      C:220-227(10.0)
+   SCVDWADFNITH    <93> SGWRTTQFFNSSFN  <52> HAGDDFFG  [127]
+    | |||||||+|         ||||+|+|+|+ ||       | ||| |.
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 57.3, PH9 (Ghabrivirales +5.1)
+
+>A0A1V0JHW2_9LUTE/1-273
+   A:116-127(30.4)      B:184-197(38.5)      C:211-218(20.5)
+   RPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+    |||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 89.4, Sobelivirales (PH8 +28.5)
+
+>A8KAR2_9VIRU/773-1061
+   A:102-113(20.1)      B:182-195(26.4)      C:220-227(9.5)
+   LATDYADFNYLH    <92> SGWRTTTMINNTMN  <52> VNGDDGDF  [126]
+   ++ ||||||..|         ||||+||.||.+||       .+||| | 
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 56.1, PH9 (Pisu +5.2)
+
+>A0A1L3KER7_9VIRU/1-276
+   A:136-147(25.5)      B:202-215(38.4)      C:245-252(18.5)
+   VSSDISGFDWSV    <78> SGSYNTSSTNSRIR  <57> AMGDDAIE  [117]
+   |  |||||||||         ||||||||||||||       |||||| |
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 82.3, Sobelivirales (PH8 +15.5)
+
+>RDRP_GLVWB/1240-1507
+   A:97-108(23.0)      B:169-182(27.6)      C:204-211(13.7)
+   VPVDQSNFDRQP   <84> SGWKWTALLGALIN  <49> VQGDDIAL  [115]
+   +|||||||||||        |||||||||| |||       +||||| |
+   gpiDgskFDhqv        SGWriTSllGTlin       aQGDDiil
+Score 64.2, PH31 (PH26 +5.7)
+
+>A0A0G3FH71_9VIRU/487-770
+   A:95-106(21.8)      B:176-189(26.1)      C:214-221(10.0)
+   ACVDWADFNITH   <93> SGWRSTQFFNSSFN  <52> HAGDDFFG  [127]
+   .| |||||||+|        ||||+|+|+|+ ||       | ||| |.
+   lmlDYaDFNiqH        SGwRgTsfiNTvlN       hqGDDvda
+Score 57.9, PH9 (Ghabrivirales +5.8)
+
+>RDRP_PCVC/356-832
+   A:306-317(22.2)      B:371-384(33.9)      C:409-416(13.5)
+   VLYDWADFNEQH    <77> SGWRGTTWINTVLN  <52> HGGDDIDL  [111]
+   + |||+|||.||         ||||||||||||||       |.|||+.+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 69.6, Ghabrivirales (PH9 +4.2)
+
+>A0A1L6KW07_9VIRU/355-832
+   A:307-318(22.2)      B:372-385(31.4)      C:410-417(12.3)
+   VLYDWADFNEQH    <77> SGWRGTTWINSTLN  <52> HGGDDLDL  [111]
+   + |||+|||.||         ||||||||||| ||       |.||| .+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 65.9, Ghabrivirales (PH9 +3.3)
+
+>Q98XW8_9VIRU/144-622
+   A:313-324(28.0)      B:376-389(28.1)      C:409-416(16.4)
+   LMLDYSDFNSQH    <75> SGHRATTYWNSVLN  <47> HVGDDVLI  [104]
+   |||||.||||||         ||||+||+ |||||       |+|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 72.5, Ghabrivirales (Pisu +5.5)
+
+>A0A0S3Q2X1_9VIRU/93-570
+   A:306-317(28.7)      B:377-390(30.9)      C:408-415(18.5)
+   FCYDFDDFNSQH    <83> SGWRLTSFMNTCLN  <45> HNGDDVYA  [110]
+   ||||||||||||         ||||||||||| ||       ||||||||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 78.1, Ghabrivirales (PH9 +11.0)
+
+>H9XW62_9VIRU/138-614
+   A:308-319(28.4)      B:377-390(32.9)      C:409-416(17.2)
+   YCLDFEDFNSQH    <81> SGWRLTTFVNSVLN  <46> HNGDDVLI  [109]
+   ||||||||||||         ||||||||.|||||       |||||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 78.4, Ghabrivirales (Pisu +13.5)
+
+>A0A0M3SUP2_9VIRU/336-820
+   A:314-325(21.1)      B:379-392(30.4)      C:417-424(13.5)
+   ALYDWADFNEQH    <77> SGWRGTSWTNTVLN  <52> HGGDDIDL  [111]
+     |||+|||.||         |||||||| |||||       |.|||+.+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 64.9, Ghabrivirales (PH9 +1.2)
+
+>A0A023IRJ3_9VIRU/345-827
+   A:308-319(22.2)      B:376-389(27.4)      C:414-421(11.1)
+   LMLDYANFNETH    <80> SGWRNTSFTNSILN  <52> SGGDDVAA  [114]
+   |||||++||. |         |||| ||| ||+||        .|||| |
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 60.8, Ghabrivirales (PH9 +0.4)
+
+>RDRP_SCVLA/813-1294
+   A:309-320(29.6)      B:377-390(34.2)      C:410-417(16.2)
+   FCFDYDDFNSQH    <80> SGWRLTTFMNTVLN  <47> HNGDDVMI  [109]
+   ||||||||||||         ||||||||||||||       ||||||.+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 80.1, Ghabrivirales (Pisu +11.9)
+
+>D9U543_9VIRU/330-807
+   A:307-318(21.5)      B:372-385(33.9)      C:410-417(10.3)
+   FVYDFADFNAQH    <77> SGWRGTTWINSVLN  <52> GAGDDVDG  [111]
+   | |||+|||.||         ||||||||||||||        .||||. 
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 65.8, Ghabrivirales (PH9 +4.5)
+
+>A0A0S3Q2B2_9VIRU/109-588
+   A:309-320(26.8)      B:375-388(25.6)      C:408-415(17.2)
+   FCYDFDDFNAQH    <78> SGSRLTTFLNTALN  <47> HNGDDVLL  [107]
+   |||||||||.||         || ||||| || ||       |||||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 69.6, Ghabrivirales (Pisu +8.5)
+
+>A0A1L3GZ65_9VIRU/813-1294
+   A:309-320(29.6)      B:377-390(34.2)      C:410-417(16.2)
+   FCFDYDDFNSQH    <80> SGWRLTTFMNTVLN  <47> HNGDDVMI  [109]
+   ||||||||||||         ||||||||||||||       ||||||.+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 80.1, Ghabrivirales (Pisu +11.9)
+
+>A0A146HTF4_9VIRU/101-577
+   A:313-324(28.2)      B:375-388(31.7)      C:408-415(17.2)
+   LMLDYDDFNSHH    <74> SGHRLTTFFNSVLN  <47> HVGDDVYL  [103]
+   ||||||||||||         ||||||||.|||||       |+|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 77.1, Ghabrivirales (Pisu +8.5)
+
+>A0A0S2GML3_9VIRU/101-573
+   A:309-320(29.2)      B:371-384(33.5)      C:404-411(18.0)
+   MMLDYDDFNSQH    <74> SGHRGTTFINSVLN  <47> HVGDDVYM  [103]
+   +|||||||||||         ||||||||||||||       |+||||||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 80.8, Ghabrivirales (Pisu +10.0)
+
+>A0A0A7RS29_9VIRU/71-542
+   A:308-319(26.2)      B:370-383(31.6)      C:403-410(17.2)
+   MMLDYTDFNSHH    <74> SGHRCTTYINSVLN  <47> HVGDDVYL  [103]
+   +||||.||||||         ||||+||+||||||       |+|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.1, Ghabrivirales (Pisu +9.1)
+
+>H9XW60_9VIRU/85-555
+   A:302-313(28.4)      B:371-384(34.2)      C:403-410(17.2)
+   FCLDFEDFNSQH    <81> SGWRLTTFMNSVLN  <46> HNGDDVLI  [109]
+   ||||||||||||         ||||||||||||||       |||||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 79.8, Ghabrivirales (Pisu +13.2)
+
+>A0A059XP14_9VIRU/126-595
+   A:307-318(25.4)      B:368-381(33.5)      C:401-408(16.3)
+   LMLDYDDFNSAH    <73> SGHRGTTFINSVLN  <47> HTGDDVYV  [102]
+   |||||||||| |         ||||||||||||||       |.|||||.
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.3, Ghabrivirales (Pisu +9.3)
+
+>A7XMH8_9VIRU/117-595
+   A:304-315(26.8)      B:374-387(34.2)      C:407-414(17.2)
+   FCYDFDDFNAQH    <82> SGWRLTTFMNTVLN  <47> HNGDDVLL  [111]
+   |||||||||.||         ||||||||||||||       |||||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 78.2, Ghabrivirales (Pisu +11.6)
+
+>A0A0U4DRM0_9VIRU/134-603
+   A:295-306(26.8)      B:365-378(31.8)      C:398-405(16.8)
+   FCYDFDDFNAQH    <82> SGWRLTTFMNTALN  <47> HNGDDVLV  [111]
+   |||||||||.||         ||||||||||| ||       |||||||.
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.3, Ghabrivirales (Pisu +10.5)
+
+>A9ZNC9_9VIRU/103-578
+   A:312-323(29.2)      B:374-387(30.2)      C:407-414(17.2)
+   MMLDYDDFNSQH    <74> SGHRCTTYINSILN  <47> HVGDDVYL  [103]
+   +|||||||||||         ||||+||+|||+||       |+|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 76.6, Ghabrivirales (Pisu +9.5)
+
+>D6QSQ3_9VIRU/348-823
+   A:305-316(22.2)      B:370-383(33.9)      C:408-415(7.9)
+   VLYDWADFNEQH    <77> SGWRGTTWINTVLN  <52> QGGDDIDS  [111]
+   + |||+|||.||         ||||||||||||||        .|||+. 
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 64.1, Ghabrivirales (PH9 +1.2)
+
+>A0A1B4ZA57_9VIRU/100-575
+   A:312-323(29.4)      B:374-387(33.0)      C:407-414(14.0)
+   LMLDYDDFNSQH    <74> SGHRATTFINSVLN  <47> HVGDDIYC  [103]
+   ||||||||||||         ||||+|||||||||       |+|||+| 
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 76.5, Ghabrivirales (Pisu +8.8)
+
+>Q83073_9VIRU/50-523
+   A:315-326(25.2)      B:377-390(31.6)      C:406-413(15.6)
+   YSLDFEDFNSQH    <74> SGHRATTFINTILN  <43> HVGDDVIF  [99]
+   | ||||||||||         ||||+||||||+||       |+||||++
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 72.5, Ghabrivirales (Pisu +8.4)
+
+>Q76L27_9VIRU/124-594
+   A:307-318(27.9)      B:369-382(30.2)      C:402-409(17.1)
+   VMLDYDDFNSHH    <74> SGHRGTMFINSVLN  <47> HAGDDVYA  [103]
+   +|||||||||||         |||||| |||||||       |.||||||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.2, Ghabrivirales (Pisu +8.2)
+
+>A0A1Z2RT99_9VIRU/386-871
+   A:281-292(22.7)      B:348-361(25.2)      C:386-393(12.8)
+   FMLDFADHNAQH    <79> TGWRGTTWINSVAC  <52> GAGDDVLM  [113]
+   |||||+| |.||          |||||||||||          .||||||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 60.7, Ghabrivirales (PH9 +6.1)
+
+>A0A0A7DRF5_9VIRU/334-808
+   A:310-321(28.0)      B:373-386(27.9)      C:406-413(17.1)
+   LMLDYSDFNSQH    <75> SDHRGTSFINSVLN  <47> HVGDDVLM  [104]
+   |||||.||||||         | ||||||||||||       |+||||||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 73.0, Ghabrivirales (Pisu +6.9)
+
+>A0A1C9C4I9_9VIRU/366-839
+   A:309-320(28.2)      B:372-385(32.6)      C:405-412(16.4)
+   VMLDYADFNSQH    <75> SGHRGTSFINSVLN  <47> HVGDDVLI  [104]
+   +||||+||||||         ||||||||||||||       |+|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 77.1, Ghabrivirales (Pisu +8.2)
+
+>A0A168GUY3_9REOV/86-734
+   A:418-429(24.9)      B:492-505(26.5)      C:529-536(14.3)
+   LYTDVSQWDSSQ    <86> SGEKQTKAANSIAN  <51> VDGDDNYA  [119]
+   ||||||||||||         |||||||.|||+||       |||||||.
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 65.7, Reovirales (Pisu +20.4)
+
+>A0A0D6CA13_9REOV/100-748
+   A:418-429(24.9)      B:492-505(26.5)      C:529-536(14.3)
+   LYTDVSQWDSSQ    <86> SGEKQTKAANSIAN  <51> VDGDDNYA  [119]
+   ||||||||||||         |||||||.|||+||       |||||||.
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 65.7, Reovirales (Pisu +20.4)
+
+>I6QGT9_9REOV/108-746
+   A:412-423(22.1)      B:482-495(27.4)      C:519-526(12.9)
+   IYTDVSQWDGSQ    <82> SGEKQTKIANSIAN  <51> VDGDDNYT  [115]
+   ||||||||| ||         |||||||||||+||       ||||||| 
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 62.5, Reovirales (PH14 +22.1)
+
+>A0A1B4X9N0_9REOV/109-749
+   A:414-425(20.8)      B:484-497(26.8)      C:521-528(14.3)
+   CFTDVSQWDASQ    <82> SGEKQTKIMNSIAN  <51> VDGDDNYA  [115]
+     ||||||||||         |||||||||||+||       |||||||.
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 61.9, Reovirales (Reovirales +8.6)
+
+>RDRP_ROTPC/101-741
+   A:414-425(20.8)      B:484-497(26.8)      C:521-528(14.3)
+   CFTDVSQWDASQ    <82> SGEKQTKIMNSIAN  <51> VDGDDNYA  [115]
+     ||||||||||         |||||||||||+||       |||||||.
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 61.9, Reovirales (Reovirales +8.9)
+
+>RDRP_ROTHC/109-749
+   A:414-425(20.8)      B:484-497(26.8)      C:521-528(14.3)
+   CFTDVSQWDASQ    <82> SGEKQTKIMNSIAN  <51> VDGDDNYA  [115]
+     ||||||||||         |||||||||||+||       |||||||.
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 61.9, Reovirales (Pisu +18.1)
+
+>G4WH30_9VIRU/195-846
+   A:477-488(19.1)      B:545-558(25.5)      C:583-590(11.5)
+   LMMDYVSFNEQH    <80> SGWRMTSFGNSWLN  <52> SGGDDVMA  [114]
+   || ||  ||.||         ||||.||| || ||        .||||.|
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 56.1, Ghabrivirales (Pisu +3.1)
+
+>A0A024CFI6_9REOV/108-804
+   A:456-467(25.6)      B:540-553(27.1)      C:578-585(14.3)
+   LYTDVSQWDASQ    <96> SGEKTTKIGNSFAN  <52> VDGDDNVV  [130]
+   ||||||||||||         ||||||||+||+||       ||||||++
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 67.0, Reovirales (PH14 +20.1)
+
+>U3QY89_9REOV/108-804
+   A:456-467(25.6)      B:540-553(27.1)      C:578-585(14.3)
+   LYTDVSQWDASQ    <96> SGEKTTKIGNSFAN  <52> VDGDDNVV  [130]
+   ||||||||||||         ||||||||+||+||       ||||||++
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 67.0, Reovirales (PH14 +20.1)
+
+>A0A0S3Q2B1_9VIRU/90-586
+   A:332-343(28.4)      B:399-412(34.2)      C:429-436(16.2)
+   YCFDFEDFNSQH    <79> SGWRLTTFMNTVLN  <44> HTGDDVLA  [105]
+   ||||||||||||         ||||||||||||||       |.||||||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 78.9, Ghabrivirales (Pisu +13.9)
+
+>A0A0E3GNI0_9REOV/148-806
+   A:418-429(25.6)      B:502-515(27.1)      C:540-547(14.3)
+   LYTDVSQWDASQ    <96> SGEKTTKIGNSFAN  <52> VDGDDNVV  [130]
+   ||||||||||||         ||||||||+||+||       ||||||++
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 67.0, Reovirales (PH14 +20.1)
+
+>A0A0K0LAT0_9REOV/103-740
+   A:411-422(18.7)      B:481-494(25.2)      C:518-525(15.5)
+   VYADVSQWDSSK    <82> SGEKQTKLMNSIAN  <51> VDGDDNYF  [115]
+   +| ||||||||          ||||||| |||+||       ||||||||
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 59.4, Reovirales (Pisu +16.3)
+
+>D3VZT8_9REOV/108-802
+   A:454-465(25.6)      B:538-551(27.2)      C:576-583(14.3)
+   LYTDVSQWDASQ    <96> SGEKTTKVGNSFAN  <52> VDGDDNVV  [130]
+   ||||||||||||         ||||||||+||+||       ||||||++
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 67.1, Reovirales (PH14 +19.7)
+
+>Q65A77_9VIRU/321-806
+   A:315-326(18.7)      B:380-393(31.4)      C:418-425(12.5)
+   MMFDWANFNAFH    <77> SGWRGTSFLNSVLN  <52> HGGDDIDG  [111]
+   +||||++||. |         |||||||| |||||       |.|||+. 
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 62.6, Ghabrivirales (PH9 +2.5)
+
+>E0D6V3_9VIRU/331-831
+   A:326-337(21.8)      B:394-407(14.9)      C:432-439(9.7)
+   VMLDYDNFNEKH    <80> SGQAPTSAINNIIN  <52> SGGDDVAG  [114]
+   +|||||+||. |         ||   || ||.+ |        .||||  
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 46.4, Ghabrivirales (PH9 +3.0)
+
+>A0A1L3KF74_9VIRU/93-586
+   A:324-335(28.1)      B:393-406(32.2)      C:426-433(15.0)
+   LCLDFEDFNSQH    <81> SGWRLTTFMNTVMN  <47> HSGDDVFM  [110]
+   ||||||||||||         |||||||||||| |       | ||||+|
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.3, Ghabrivirales (PH9 +8.6)
+
+>A0A0S3Q2C6_9VIRU/102-597
+   A:332-343(28.4)      B:398-411(30.0)      C:428-435(17.6)
+   FCFDFEDFNSQH    <78> SGSRLTTFMNTVLN  <44> HNGDDVLA  [104]
+   ||||||||||||         || |||||||||||       ||||||||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 76.0, Ghabrivirales (Pisu +12.5)
+
+>A0A0U2VX97_9REOV/117-811
+   A:454-465(25.6)      B:538-551(27.1)      C:576-583(14.3)
+   LYTDVSQWDASQ    <96> SGEKTTKIGNSFAN  <52> VDGDDNVV  [130]
+   ||||||||||||         ||||||||+||+||       ||||||++
+   laiDySqyDaSq         SGEnsTltaNSahN       yvGDDtlf
+Score 67.0, Reovirales (PH14 +20.1)
+
+>A0A0S2KPW5_9VIRU/330-829
+   A:325-336(25.1)      B:393-406(28.4)      C:431-438(11.1)
+   LMLDYANFNEQH    <80> SGWRCTTWVNSIAN  <52> SGGDDVAA  [114]
+   |||||++||.||         ||||+|||.||+ |        .|||| |
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 64.6, Ghabrivirales (PH9 +5.2)
+
+>I3PN87_9VIRU/1076-1595
+   A:341-352(24.7)      B:412-425(23.2)      C:450-457(9.7)
+   VCLDYADFNAQH    <83> SGVRQTTLINTILN  <52> VLGDDGWV  [117]
+   +|+||||||.||         || | ||+|||+||       ..||| |.
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 57.6, PH9 (Pisu +0.3)
+
+>A0A2Z5X7D7_9VIRU/263-828
+   A:391-402(22.2)      B:459-472(17.1)      C:497-504(11.6)
+   LMLDYANFNETH    <80> SGMRNTTNTNSLAN  <52> TGGDDVAA  [114]
+   |||||++||. |         || | ||  ||  |       ..|||| |
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 51.0, Ghabrivirales (PH9 +0.7)
+
+>A0A1L3KFB1_9VIRU/109-637
+   A:345-356(13.3)      B:422-435(23.8)      C:459-466(13.3)
+   WSYDYKSFENNH    <89> TGTRGTAFMNTLLN  <51> HMGDDVIA  [122]
+   +||||+ |  .|         || |+|+|+||.||       |.|||| |
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 50.5, PH9 (Pisu +7.1)
+
+>A0A0F7JL10_9VIRU/1118-1619
+   A:324-335(15.6)      B:395-408(18.0)      C:433-440(10.4)
+   VCADYPDFGATH    <83> SGVVQTTLINTVMN  <52> ELGDDGWA  [117]
+   +|.|| || .+|         ||   ||+||||||        .||| ||
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 44.0, PH9 (Pisu +4.1)
+
+>A0A1L3KF27_9VIRU/157-662
+   A:331-342(19.4)      B:400-413(23.9)      C:439-446(15.2)
+   TAIDFKDFNLQH    <81> SGCRGTNFLNTILN  <53> HQGDDVWI  [116]
+   .+.||+||| ||         || |+|.| ||+||       |||||||.
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 58.5, PH9 (Pisu +2.7)
+
+>A0A1L3KF39_9VIRU/158-664
+   A:329-340(24.9)      B:407-420(33.0)      C:438-445(15.4)
+   IMLDYDDFNSCH    <90> SGHRATTFINSVLN  <45> HVGDDVIV  [117]
+    ||||||||| |         ||||+|||||||||       |+||||+.
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 73.3, Ghabrivirales (Pisu +7.2)
+
+>H8ZPX0_9VIRU/4-434
+   A:254-265(17.3)      B:326-339(19.7)      C:364-371(7.5)
+   LPFDFKGFDRQP    <84> SGIRPTSLIGNLWN  <52> LKGDDTYI  [118]
+   || ||.|||+||         ||+. ||+||.|+|         |||| |
+   lplDfSgFDtsi         SGvkwTaliGTlin       vQGDDtll
+Score 44.5, PH26 (PH31 +1.4)
+
+>A0A1L3KEZ6_9VIRU/67-536
+   A:295-306(26.5)      B:365-378(31.8)      C:398-405(16.8)
+   LCYDFDDFNAQH    <82> SGWRLTTFMNTALN  <47> HNGDDVLV  [111]
+   |||||||||.||         ||||||||||| ||       |||||||.
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.1, Ghabrivirales (Pisu +9.9)
+
+>Q8JZ10_9LUTE/173-599
+   A:253-264(29.4)      B:321-334(38.5)      C:348-355(20.5)
+   VATDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   | ||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.4, Sobelivirales (PH8 +24.4)
+
+>A0A220T7M8_9LUTE/593-1020
+   A:253-264(31.9)      B:321-334(38.5)      C:348-355(20.5)
+   IPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   +|||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 90.9, Sobelivirales (PH8 +29.5)
+
+>J7FCV4_9LUTE/627-1068
+   A:255-266(32.6)      B:323-336(35.8)      C:350-357(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSTNSRVR  <41> AMGDDALE  [103]
+   ||||||||||||         |||||||||||| |       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 89.0, Sobelivirales (PH8 +27.7)
+
+>A0A172ZPW1_9LUTE/596-1024
+   A:253-264(32.6)      B:321-334(38.5)      C:348-355(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>Q90155_TTV1/96-539
+   A:292-303(26.2)      B:351-364(33.0)      C:380-387(12.0)
+   AMLDYTDFNSQH    <71> SGHRATTFINTVLN  <43> CAGDDVIL  [96]
+    ||||.||||||         ||||+|||||||||        .||||++
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 71.2, Ghabrivirales (Pisu +7.4)
+
+>A0A1L3KF32_9VIRU/191-639
+   A:273-284(23.6)      B:343-356(25.6)      C:382-389(15.2)
+   TMIDYSDFNYQH    <82> SGVRGTNFINTTLN  <53> HQGDDVWI  [117]
+   .|.||||||.||         || |+|.||||+||       |||||||.
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 64.4, PH9 (Pisu +3.2)
+
+>Q9QQN8_9LUTE/122-548
+   A:253-264(32.6)      B:321-334(38.5)      C:348-355(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>Q17S71_9LUTE/640-1056
+   A:255-266(30.0)      B:323-336(38.4)      C:350-357(20.5)
+   LPTDCSGFDWSV    <80> SGSYNTSSTNSRIR  <41> AMGDDALE  [103]
+    |||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 88.9, Sobelivirales (PH8 +27.2)
+
+>B5DC58_9VIRU/453-871
+   A:234-245(25.7)      B:301-314(35.7)      C:328-335(20.2)
+   YEADISGFDWTV    <79> SGSYCTSSTNSRVR  <41> AMGDDSVE  [102]
+   .||||||||| |         |||||||||||| |       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 81.6, Sobelivirales (PH8 +19.2)
+
+>Q8V615_9VIRU/41-473
+   A:284-295(25.4)      B:342-355(33.0)      C:370-377(15.3)
+   CMIDYTDFNSQH    <70> SGHRATTFINSVLN  <42> HCGDDVLL  [94]
+   .|.||.||||||         ||||+|||||||||       | |||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 73.7, Ghabrivirales (Pisu +6.8)
+
+>A0A0H4NWU6_9VIRU/426-846
+   A:246-257(20.5)      B:314-327(23.8)      C:352-359(9.6)
+   LMLDYVSFNEQH    <80> SGWRMTSFGNSLVN  <52> SGGDDVMS  [114]
+   |||||  ||.||         ||||.||| ||  |        .||||. 
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 53.9, Ghabrivirales (Pisu +2.6)
+
+>Q9JE94_9VIRU/129-560
+   A:283-294(26.7)      B:341-354(33.0)      C:369-376(15.8)
+   CMLDYTDFNSQH    <70> SGHRATTFINSVLN  <42> HTGDDVLL  [94]
+   .||||.||||||         ||||+|||||||||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.6, Ghabrivirales (Pisu +8.6)
+
+>F5B2U6_9VIRU/842-1273
+   A:283-294(25.4)      B:341-354(33.0)      C:369-376(15.3)
+   CMIDYTDFNSQH    <70> SGHRATTFINSVLN  <42> HCGDDVLL  [94]
+   .|.||.||||||         ||||+|||||||||       | |||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 73.7, Ghabrivirales (Pisu +6.8)
+
+>A0A0S2KPB7_9VIRU/392-829
+   A:263-274(25.1)      B:331-344(29.6)      C:369-376(11.6)
+   LMLDYANFNEQH    <80> SGWRCTSWVNSILN  <52> TGGDDVAA  [114]
+   |||||++||.||         ||||+|||.||+||       ..|||| |
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 66.3, Ghabrivirales (PH9 +5.3)
+
+>A0A097RN22_9LUTE/677-1108
+   A:263-274(32.6)      B:331-344(38.5)      C:358-365(18.2)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDGLE  [103]
+   ||||||||||||         ||||||||||||||       ||||| ||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 89.3, Sobelivirales (PH8 +28.4)
+
+>C6GYU7_9LUTE/170-594
+   A:252-263(32.6)      B:320-333(38.4)      C:347-354(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSTNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.5, Sobelivirales (PH8 +29.0)
+
+>A0A1J1DTY0_9LUTE/725-1141
+   A:255-266(32.6)      B:323-336(38.4)      C:350-357(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSTNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.5, Sobelivirales (PH8 +29.0)
+
+>Q8JVB7_9VIRU/389-805
+   A:246-257(20.5)      B:311-324(30.6)      C:349-356(9.7)
+   LLYDWANFNVQH    <77> SGWRGTTWDNTVLN  <52> QGGDDVDQ  [111]
+   + ||||||| ||         ||||+|||+|||||        .||||| 
+   lmlDYaDFNiqH         SGwRgTsfiNTvlN       hqGDDvda
+Score 60.8, PH9 (Ghabrivirales +3.1)
+
+>RDRP_TYYVF/580-996
+   A:253-264(31.1)      B:321-334(38.5)      C:348-355(20.5)
+   TPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+    |||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 90.1, Sobelivirales (PH8 +28.7)
+
+>A0A1S6PCS1_9LUTE/649-1075
+   A:253-264(32.6)      B:321-334(38.5)      C:348-355(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>E7FL71_9LUTE/634-1059
+   A:252-263(32.6)      B:320-333(38.5)      C:347-354(20.5)
+   VPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   ||||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 91.7, Sobelivirales (PH8 +29.5)
+
+>G3E222_9LUTE/578-1001
+   A:251-262(31.1)      B:319-332(38.5)      C:346-353(20.5)
+   TPTDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+    |||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 90.1, Sobelivirales (PH8 +28.7)
+
+>A0A386HVJ6_9VIRU/125-592
+   A:305-316(27.9)      B:366-379(33.5)      C:399-406(16.8)
+   VMLDYDDFNSHH    <73> SGHRGTTFINSVLN  <47> HTGDDVYI  [102]
+   +|||||||||||         ||||||||||||||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 78.2, Ghabrivirales (Pisu +9.2)
+
+>A0A1L3KF50_9VIRU/158-607
+   A:281-292(26.7)      B:350-363(34.5)      C:382-389(17.2)
+   LCVDFEDFNSQH    <81> SGWRLTTFINSVLN  <46> HNGDDVLL  [109]
+   || |||||||||         ||||||||||||||       |||||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 78.3, Ghabrivirales (Pisu +12.0)
+
+>A0A0S2UQ51_9VIRU/143-610
+   A:305-316(27.9)      B:366-379(31.9)      C:399-406(16.8)
+   VMLDYDDFNSHH    <73> SGHRGTTYINSVLN  <47> HVGDDVYV  [102]
+   +|||||||||||         |||||||+||||||       |+|||||.
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 76.6, Ghabrivirales (Pisu +8.7)
+
+>G3C8V4_9VIRU/117-584
+   A:305-316(28.2)      B:366-379(33.0)      C:399-406(16.8)
+   LMLDYDDFNSHH    <73> SGHRATTFINSVLN  <47> HTGDDVYI  [102]
+   ||||||||||||         ||||+|||||||||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 78.0, Ghabrivirales (Pisu +8.6)
+
+>C7EUC7_9VIRU/356-822
+   A:296-307(22.2)      B:361-374(33.9)      C:399-406(15.5)
+   VLYDWADFNEQH    <77> SGWRGTTWINSVLN  <52> HGGDDVDA  [111]
+   + |||+|||.||         ||||||||||||||       |.||||.|
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 71.6, Ghabrivirales (PH9 +5.7)
+
+>RDRP_SCVLB/837-1303
+   A:298-309(28.7)      B:366-379(30.2)      C:397-404(17.1)
+   FCYDFDDFNSQH    <80> SGWRLTTFFNTALN  <45> HNGDDVFA  [107]
+   ||||||||||||         ||||||||.|| ||       ||||||+|
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 76.1, Ghabrivirales (PH9 +8.6)
+
+>A0A192AB53_9VIRU/117-584
+   A:305-316(29.4)      B:366-379(31.7)      C:399-406(16.7)
+   LMLDYDDFNSQH    <73> SGHRGTTFFNSVLN  <47> HAGDDVYI  [102]
+   ||||||||||||         ||||||||.|||||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 77.9, Ghabrivirales (Pisu +9.8)
+
+>B3FGT3_9LUTE/604-1028
+   A:253-264(28.6)      B:321-334(38.5)      C:348-355(20.5)
+   IATDCSGFDWSV    <80> SGSYNTSSSNSRIR  <41> AMGDDALE  [103]
+   + ||||||||||         ||||||||||||||       ||||||||
+   aPTDCSGFDWSV         SGSYNTSSSNSRIR       AMGDDALE
+Score 87.6, Sobelivirales (PH8 +24.5)
+
+>A0A0N9M6A6_9VIRU/575-1043
+   A:294-305(26.8)      B:364-377(31.8)      C:397-404(16.8)
+   FCYDFDDFNAQH    <82> SGWRLTTFMNTALN  <47> HNGDDVLV  [111]
+   |||||||||.||         ||||||||||| ||       |||||||.
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.3, Ghabrivirales (Pisu +10.5)
+
+>A0A0S3Q2D7_9VIRU/194-618
+   A:242-253(28.4)      B:327-340(28.0)      C:357-364(16.0)
+   FCFDFEDFNSQH    <97> SGCRLTTFLNTVLN  <44> HNGDDILA  [123]
+   ||||||||||||         || ||||| |||||       |||||+||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 72.4, Ghabrivirales (Pisu +12.3)
+
+>I7HZB6_9VIRU/121-590
+   A:307-318(28.7)      B:368-381(33.5)      C:401-408(16.8)
+   LMLDFDDFNSQH    <73> SGHRGTTFINSVLN  <47> HTGDDVYI  [102]
+   ||||||||||||         ||||||||||||||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 79.0, Ghabrivirales (Pisu +10.7)
+
+>Q9YXE6_9VIRU/120-589
+   A:307-318(27.5)      B:368-381(29.1)      C:401-408(16.8)
+   LMLDFDDFNSHH    <73> SGHRGTTIVNSVLN  <47> HTGDDVYI  [102]
+   ||||||||||||         ||||||| .|||||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 73.3, Ghabrivirales (Pisu +8.3)
+
+>Q60GI2_9VIRU/109-575
+   A:304-315(29.1)      B:365-378(30.3)      C:398-405(17.5)
+   VMLDYDDFNSQH    <73> SGHRGTTFFNSILN  <47> HTGDDVYM  [102]
+   +|||||||||||         ||||||||.||+||       |.||||||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 76.9, Ghabrivirales (Pisu +8.9)
+
+>A0A2Z4PGW3_9VIRU/52-519
+   A:293-304(26.8)      B:363-376(31.8)      C:396-403(16.8)
+   FCYDFDDFNAQH    <82> SGWRLTTFMNTALN  <47> HNGDDVLV  [111]
+   |||||||||.||         ||||||||||| ||       |||||||.
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.3, Ghabrivirales (Pisu +10.5)
+
+>D8L7L9_9VIRU/368-829
+   A:291-302(20.6)      B:356-369(32.3)      C:394-401(12.7)
+   VLYDWANFNEQH    <77> SGWRGTTWVNTVLN  <52> HGGDDIVL  [111]
+   + |||++||.||         ||||||||.|||||       |.|||+ +
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 65.6, Ghabrivirales (PH9 +3.3)
+
+>A0A1L3KF60_9VIRU/128-596
+   A:300-311(27.1)      B:369-382(32.9)      C:401-408(16.8)
+   FCIDFEDFNSQH    <81> SGWRLTTFVNSVLN  <46> HNGDDVLV  [109]
+   ||.|||||||||         ||||||||.|||||       |||||||.
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 76.7, Ghabrivirales (Pisu +11.7)
+
+>A0A060N758_9VIRU/124-592
+   A:306-317(27.9)      B:367-380(33.5)      C:400-407(16.7)
+   VMLDYDDFNSHH    <73> SGHRGTTFINSVLN  <47> HTGDDVYL  [102]
+   +|||||||||||         ||||||||||||||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 78.1, Ghabrivirales (Pisu +9.0)
+
+>E7BBP7_9VIRU/126-589
+   A:301-312(27.9)      B:362-375(32.6)      C:395-402(13.2)
+   VMLDYDDFNSHH    <73> SGHRGTSFINSVLN  <47> HAGDDAYM  [102]
+   +|||||||||||         ||||||||||||||       |.||| ||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 73.7, Ghabrivirales (Pisu +6.5)
+
+>H1ACC7_RNQVW/614-1065
+   A:263-274(18.4)       B:352-365(27.7)      C:384-391(14.5)
+   VCVDAANFNILH    <101> SGHRLTMFINTVLN  <46> HSGDDVFA  [129]
+   +| | |||||.|          ||+|.|||||||||       |.||||||
+   lmlDYaDFNiqH          SGwRgTsfiNTvlN       hqGDDvda
+Score 60.6, PH9 (Ghabrivirales +1.0)
+
+>RDRP_LRVLG/155-619
+   A:306-317(24.9)      B:368-381(32.1)      C:397-404(15.5)
+   FAVDYDDFNSQH    <74> SGHRATSFINSVLN  <43> HVGDDILM  [99]
+   |  |||||||||         ||||+|||||||||       |+|||+||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 72.5, Ghabrivirales (Pisu +6.6)
+
+>E5KIN7_9VIRU/124-584
+   A:288-299(29.6)      B:356-369(34.2)      C:389-396(16.2)
+   FCFDYDDFNSQH    <80> SGWRLTTFMNTVLN  <47> HNGDDVMI  [109]
+   ||||||||||||         ||||||||||||||       ||||||.+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 80.1, Ghabrivirales (Pisu +11.9)
+
+>A0A089G446_9VIRU/125-591
+   A:304-315(29.4)      B:365-378(33.5)      C:398-405(16.8)
+   LMLDYDDFNSQH    <73> SGHRGTTFINSVLN  <47> HTGDDVYI  [102]
+   ||||||||||||         ||||||||||||||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 79.7, Ghabrivirales (Pisu +10.0)
+
+>Q83101_9VIRU/159-623
+   A:306-317(24.9)      B:368-381(27.5)      C:397-404(15.5)
+   FAVDYDDFNSQH    <74> SGHRATSFINSVLD  <43> HVGDDILM  [99]
+   |  |||||||||         ||||+||||||||        |+|||+||
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 67.9, Ghabrivirales (Pisu +6.6)
+
+>RDRP_HV19S/122-585
+   A:301-312(27.8)      B:362-375(30.4)      C:395-402(16.7)
+   LMLDYDNFNSQH    <73> SGHRATTFTNSVLN  <47> HAGDDVYL  [102]
+   ||||||+|||||         ||||+||| |||||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 74.9, Ghabrivirales (Pisu +9.2)
+
+>A4FRF6_9VIRU/122-585
+   A:301-312(26.5)      B:362-375(30.4)      C:395-402(16.7)
+   LMLDYDNFNSHH    <73> SGHRGTSFINSLLN  <47> HAGDDVYI  [102]
+   ||||||+|||||         ||||||||||| ||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 73.7, Ghabrivirales (Pisu +7.1)
+
+>A0A0S3Q2C1_9VIRU/129-591
+   A:294-305(26.8)      B:363-376(31.4)      C:395-402(17.2)
+   LCIDFEDFNSQH    <81> SGWRLTTMMNSVLN  <46> HNGDDVLL  [109]
+   ||.|||||||||         ||||||| ||||||       |||||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 75.4, Ghabrivirales (Pisu +10.5)
+
+>M9QPJ5_9VIRU/120-571
+   A:291-302(19.6)      B:352-365(33.0)      C:383-390(17.2)
+   TMMDYTDFNSAH    <73> SGHRATTFINSVLN  <45> HVGDDVYL  [100]
+    | ||.|||| |         ||||+|||||||||       |+|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 69.9, Ghabrivirales (Pisu +6.5)
+
+>A0A097I5B7_9VIRU/114-578
+   A:302-313(29.4)      B:363-376(33.5)      C:396-403(16.8)
+   LMLDYDDFNSQH    <73> SGHRGTTFINSVLN  <47> HTGDDVYI  [102]
+   ||||||||||||         ||||||||||||||       |.|||||+
+   lmlDydDFNSQH         SGwRlTTFINsVLN       HnGDDVla
+Score 79.7, Ghabrivirales (Pisu +10.0)
