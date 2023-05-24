@@ -15,8 +15,6 @@
 ```
 palmscan/
   src/               # Source code (C++)
-  bin/               # Pre-built binaries for Linux and Windows
-  motif_msas/        # Multiple alignments used to train PSSMs
   test/data          # Test data
   test/results       # Test results
   test/runtest.bash  # Script to run tests
