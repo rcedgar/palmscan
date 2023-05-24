@@ -27,14 +27,14 @@ palmscan/
 Example command line:
 
 ```
-palmscan -search_pp inputfile.fa -rt -rdrp -ppout pp.fa -report pp.txt -fevout pp.fev
+palmscan2 -search_pssms seqs.fasta -tsv hits.tsv
 ```
 
 Type `palmscan -help` for option details.
 
 ### Reference
 
-A. Babaian and R. C. Edgar (2021), Ribovirus classification by a polymerase barcode sequence (2021), biorxiv
-[https://doi.org/10.1101/2021.03.02.433648](https://doi.org/10.1101/2021.03.02.433648)
+A. Babaian and R. C. Edgar (2022), Ribovirus classification by a polymerase barcode sequence, PeerJ.
+[[https://doi.org/10.1101/2021.03.02.433648](https://peerj.com/articles/14055/)]([https://doi.org/10.1101/2021.03.02.433648](https://peerj.com/articles/14055/))
 
 R. C. Edgar _et al._ (2021), Petabase-scale sequence alignment catalyses viral discovery, Nature 2022 [https://www.nature.com/articles/s41586-021-04332-2](https://www.nature.com/articles/s41586-021-04332-2)
