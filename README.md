@@ -1,3 +1,12 @@
+
+### Palmscan is obsolete
+
+Palm_annot is recommended, it is based on HMMs and has much better sensitivity and much lower false-positive rate compared to the PSSMs in Palmscan.
+
+[https://github.com/rcedgar/palm_annot](https://github.com/rcedgar/palm_annot)
+
+________________________
+
 ![palmscan](http://drive5.com/images/palmscan_hdr.png)
 
 ### Palmscan algorithm
