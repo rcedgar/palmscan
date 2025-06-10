@@ -1,6 +1,7 @@
 #ifndef myutils_h
 #define myutils_h
 
+
 #define RCE_MALLOC		0
 #define TRACK_ALLOC		0
 #define USE_OMP			1
@@ -52,6 +53,8 @@ using namespace std;
 #define	DEBUG	1
 #define	_DEBUG	1
 #endif
+
+#define byte rce_byte
 
 typedef unsigned char byte;
 typedef unsigned short uint16;
@@ -380,5 +383,6 @@ unsigned GetRequestedThreadCount();
 
 void SeqToFasta(FILE *f, const char *Label, const char *Seq, unsigned L);
 void RevCompSeq(string &Seq);
+
 
 #endif	// myutils_h
